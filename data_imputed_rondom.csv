@@ -1,0 +1,1621 @@
+age,gender,sleep_quality_index,brain_fog_level,physical_pain_score,stress_level,depression_phq9_score,fatigue_severity_scale_score,pem_duration_hours,hours_of_sleep_per_night,pem_present,work_status,social_activity_level,exercise_frequency,meditation_or_mindfulness,diagnosis
+67.0,Female,10.0,5.0,5.0,10.0,14.0,2.6,40.0,3.5,0.0,Not working,Very low,Sometimes,Yes,Depression
+43.0,Male,3.0,8.0,4.0,10.0,25.0,8.4,36.0,5.0,1.0,Not working,Medium,Sometimes,No,Both
+44.0,Male,9.0,5.0,2.0,7.0,6.0,6.5,11.0,5.2,1.0,Not working,Very High,Never,No,ME/CFS
+32.0,Male,2.0,7.0,9.0,3.0,12.0,6.8,33.0,9.6,1.0,Not working,Very High,Sometimes,Yes,ME/CFS
+25.0,Male,2.0,10.0,9.0,4.0,22.0,7.3,48.0,2.6,0.0,Partially working,Low,Daily,No,Depression
+58.0,Male,1.0,5.0,6.0,10.0,21.0,6.3,44.0,5.8,0.0,Partially working,Medium,Often,No,Both
+26.0,Male,9.0,6.0,7.0,3.0,2.0,5.5,18.0,4.2,1.0,Working,Very low,Daily,No,ME/CFS
+22.0,Female,10.0,3.0,2.0,2.0,18.0,8.2,24.0,6.5,0.0,Partially working,Very High,Daily,Yes,Depression
+61.0,Male,1.0,1.0,5.0,10.0,13.0,8.0,13.0,8.2,1.0,Not working,Very High,Never,Yes,ME/CFS
+40.0,Male,9.0,2.0,5.0,8.0,24.0,4.3,42.0,8.4,0.0,Partially working,Very High,Often,Yes,Depression
+61.0,Female,4.0,7.0,10.0,6.0,26.0,7.5,18.0,0.7,1.0,Partially working,High,Sometimes,Yes,Both
+61.0,Female,9.0,9.0,2.0,1.0,4.0,9.0,31.0,3.8,1.0,Not working,Very High,Sometimes,Yes,ME/CFS
+30.0,Male,6.0,8.0,10.0,8.0,24.0,7.5,28.0,0.3,0.0,Working,High,Rarely,Yes,Both
+38.0,Male,1.0,6.0,6.0,5.5,11.0,7.0,50.0,2.3,1.0,Working,Very low,Sometimes,Yes,ME/CFS
+25.0,Female,2.0,9.0,6.0,5.0,23.0,7.0,31.0,0.2,1.0,Not working,Medium,Often,Yes,Both
+22.0,Female,2.0,7.0,10.0,9.0,26.0,6.7,47.0,1.4,1.0,Partially working,Very High,Sometimes,No,Both
+18.0,Female,3.0,5.0,4.0,3.0,3.0,9.7,27.0,3.8,1.0,Working,High,Sometimes,Yes,ME/CFS
+26.0,Female,6.0,6.0,8.0,3.0,13.0,6.7,22.0,6.4,1.0,Partially working,Low,Daily,Yes,ME/CFS
+43.0,Male,7.0,2.0,3.0,7.0,10.0,7.0,39.0,5.2,1.0,Not working,Low,Never,Yes,ME/CFS
+70.0,Female,9.0,6.0,2.0,5.0,5.0,9.3,0.0,7.0,1.0,Partially working,Medium,Daily,No,ME/CFS
+69.0,Male,7.0,2.0,7.0,3.0,16.0,8.9,48.0,0.3,0.0,Not working,High,Rarely,Yes,Depression
+60.0,Male,6.0,2.0,3.0,9.0,25.0,8.5,26.0,8.0,1.0,Partially working,Medium,Often,No,Both
+34.0,Female,3.0,6.0,2.0,5.0,15.0,7.9,41.0,5.8,1.0,Not working,High,Often,Yes,ME/CFS
+52.0,Male,2.0,10.0,8.0,7.0,6.0,5.7,42.0,4.9,1.0,Working,Very low,Never,Yes,ME/CFS
+59.0,Male,8.0,7.0,7.0,10.0,13.0,5.1,30.0,8.9,1.0,Partially working,Very High,Daily,Yes,ME/CFS
+34.0,Female,9.0,3.0,7.0,9.0,10.0,8.2,20.0,0.3,1.0,Not working,Low,Rarely,Yes,Both
+65.0,Female,7.0,4.0,5.0,6.0,18.0,4.9,50.0,2.7,0.0,Working,Very High,Often,No,Depression
+45.0,Female,2.0,6.0,7.0,3.0,13.0,3.1,50.0,6.4,0.0,Partially working,Very High,Never,No,Depression
+68.0,Male,8.0,8.0,4.0,2.0,22.0,5.3,36.0,2.3,0.0,Working,Very High,Sometimes,No,Depression
+27.0,Male,5.4,2.0,4.0,7.0,10.0,5.7,32.0,4.4,0.0,Not working,High,Daily,Yes,Depression
+62.0,Male,10.0,3.0,3.0,2.0,10.0,6.4,19.0,8.6,1.0,Working,Medium,Rarely,Yes,ME/CFS
+70.0,Female,4.0,1.0,10.0,4.0,20.0,6.3,45.0,8.8,1.0,Working,High,Often,No,Both
+47.0,Male,8.0,10.0,10.0,1.0,16.0,8.5,11.0,0.9,0.0,Working,Low,Sometimes,No,Depression
+28.0,Female,9.0,8.0,8.0,4.0,16.0,5.4,22.0,7.5,0.0,Partially working,High,Daily,Yes,Depression
+37.0,Male,7.0,9.0,2.0,4.0,10.0,5.7,13.0,8.2,1.0,Not working,Medium,Daily,No,Depression
+69.0,Female,4.0,7.0,3.0,4.0,3.0,9.8,48.0,3.6,0.0,Not working,Low,Daily,No,ME/CFS
+64.0,Male,2.0,8.0,2.0,2.0,2.0,5.9,37.0,7.3,1.0,Not working,Very low,Daily,No,ME/CFS
+19.0,Male,1.0,6.0,8.0,3.0,14.0,8.3,39.0,7.3,1.0,Partially working,Low,Sometimes,No,ME/CFS
+29.0,Female,4.0,5.0,9.0,9.0,18.0,8.6,49.0,0.7,1.0,Partially working,High,Daily,No,Both
+35.0,Male,7.0,10.0,6.0,5.0,6.0,6.4,19.0,5.5,1.0,Partially working,High,Daily,No,ME/CFS
+57.0,Female,2.0,6.0,3.0,8.0,21.0,3.1,20.0,0.7,0.0,Partially working,Low,Never,Yes,Depression
+39.0,Male,3.0,7.0,9.0,9.0,8.0,6.6,46.0,1.8,0.0,Not working,Very low,Never,No,ME/CFS
+39.0,Male,8.0,5.0,1.0,8.0,20.0,7.0,16.0,7.7,0.0,Partially working,Very High,Rarely,No,Depression
+69.0,Female,9.0,4.0,5.0,8.0,6.0,7.3,36.0,9.3,1.0,Working,Low,Daily,No,ME/CFS
+58.0,Female,2.0,7.0,8.0,3.0,13.6,9.6,0.0,5.1,1.0,Working,Very High,Daily,Yes,ME/CFS
+64.0,Male,10.0,3.0,7.0,3.0,17.0,4.7,42.0,2.8,0.0,Partially working,Very low,Sometimes,Yes,Depression
+52.0,Female,2.0,3.0,9.0,6.0,19.0,7.4,30.0,8.5,1.0,Working,Very low,Rarely,No,Both
+46.0,Female,1.0,5.0,9.0,6.0,8.0,6.3,34.0,8.8,1.0,Working,Very low,Often,Yes,ME/CFS
+20.0,Female,3.0,5.0,2.0,10.0,14.0,5.2,38.0,6.4,1.0,Not working,Very low,Rarely,Yes,ME/CFS
+53.0,Female,7.0,10.0,5.0,6.0,3.0,6.0,36.0,6.3,1.0,Not working,High,Rarely,No,ME/CFS
+60.0,Male,6.0,7.0,9.0,2.0,15.0,5.6,11.0,5.1,0.0,Not working,High,Daily,Yes,ME/CFS
+58.0,Male,6.0,10.0,9.0,6.0,12.0,9.8,2.0,2.1,1.0,Not working,Very low,Daily,No,Both
+26.0,Male,10.0,6.0,5.0,10.0,18.0,7.9,9.0,4.1,0.0,Partially working,High,Sometimes,Yes,Depression
+56.0,Male,8.0,4.0,1.0,8.0,17.0,6.9,8.0,2.0,1.0,Not working,Very High,Sometimes,No,Both
+20.0,Female,4.0,1.0,7.0,9.0,18.0,7.5,27.0,3.2,1.0,Working,Low,Daily,Yes,Both
+25.0,Female,4.0,6.0,7.0,6.0,15.0,9.8,40.0,8.8,0.0,Working,Medium,Daily,Yes,ME/CFS
+29.0,Male,8.0,8.0,1.0,4.0,12.0,4.8,49.0,8.0,0.0,Partially working,Medium,Rarely,Yes,Depression
+46.0,Male,1.0,5.0,6.0,7.0,9.0,6.1,49.0,9.3,1.0,Not working,Medium,Rarely,Yes,Both
+49.0,Female,1.0,10.0,4.0,10.0,13.0,9.9,32.0,2.5,1.0,Not working,High,Never,Yes,ME/CFS
+57.0,Male,9.0,4.0,8.0,8.0,18.0,7.3,23.0,3.3,0.0,Working,Medium,Never,No,Depression
+62.0,Female,8.0,3.0,7.0,4.0,19.0,6.4,4.0,6.9,1.0,Partially working,Medium,Sometimes,No,Depression
+32.0,Female,10.0,10.0,5.0,3.0,13.0,6.1,22.0,5.5,1.0,Working,High,Daily,No,Both
+55.0,Male,3.0,3.0,6.0,7.0,10.0,6.0,35.0,0.6,0.0,Not working,High,Sometimes,No,Depression
+56.0,Female,7.0,9.0,1.0,3.0,17.0,6.1,25.0,3.5,1.0,Working,High,Never,No,Both
+38.0,Male,9.0,9.0,2.0,2.0,12.0,3.4,2.0,9.0,0.0,Partially working,Medium,Daily,No,Depression
+58.0,Male,4.0,4.0,5.0,4.0,22.0,6.2,17.0,3.7,0.0,Partially working,Very High,Daily,Yes,Depression
+33.0,Female,4.0,10.0,6.0,9.0,24.0,5.4,6.0,0.9,0.0,Partially working,High,Daily,Yes,Depression
+46.0,Male,10.0,9.0,5.0,5.0,11.0,6.1,13.0,2.3,1.0,Not working,Very low,Sometimes,Yes,Both
+50.0,Male,10.0,5.0,3.0,1.0,6.0,7.0,32.0,4.2,1.0,Not working,Medium,Never,Yes,ME/CFS
+52.0,Male,10.0,3.0,4.0,9.0,2.0,8.2,21.0,6.7,1.0,Working,Low,Rarely,No,ME/CFS
+51.0,Female,10.0,8.0,3.0,6.0,19.0,8.2,32.0,0.3,0.0,Not working,Very High,Rarely,Yes,Depression
+57.0,Female,8.0,8.0,3.0,6.0,14.0,3.0,49.0,7.3,0.0,Working,Very low,Never,Yes,Depression
+58.0,Male,3.0,2.0,3.0,8.0,6.0,7.0,26.0,4.2,1.0,Partially working,Very High,Daily,Yes,ME/CFS
+45.0,Male,5.0,5.0,8.0,1.0,22.0,7.2,23.0,9.4,0.0,Partially working,High,Never,No,Depression
+22.0,Male,7.0,4.0,7.0,9.0,17.0,9.0,21.0,8.2,0.0,Not working,Low,Never,Yes,Depression
+65.0,Female,4.0,4.0,2.0,6.0,7.0,7.5,24.0,4.3,1.0,Working,Medium,Sometimes,No,ME/CFS
+42.0,Male,3.0,9.0,1.0,10.0,16.0,3.9,47.0,9.9,0.0,Not working,Very low,Never,No,Depression
+21.0,Female,1.0,5.0,5.0,8.0,5.0,9.6,18.0,7.2,1.0,Not working,Very High,Never,Yes,ME/CFS
+31.0,Male,3.0,6.0,2.0,7.0,4.0,8.6,33.0,3.6,1.0,Partially working,Very High,Sometimes,No,ME/CFS
+45.0,Male,10.0,10.0,1.0,10.0,21.0,5.5,25.0,6.2,0.0,Working,Low,Often,Yes,Depression
+60.0,Female,6.0,4.0,5.0,2.0,7.0,6.1,13.0,5.0,1.0,Working,Medium,Often,Yes,ME/CFS
+43.0,Female,8.0,2.0,6.0,5.0,6.0,9.8,24.0,7.5,0.0,Partially working,Low,Often,Yes,ME/CFS
+62.0,Male,9.0,1.0,10.0,3.0,10.0,5.3,44.0,9.4,1.0,Working,Low,Often,Yes,ME/CFS
+21.0,Male,2.0,9.0,1.0,1.0,11.0,9.1,44.0,5.8,1.0,Not working,Very low,Daily,Yes,ME/CFS
+52.0,Female,1.0,4.0,8.0,4.0,12.0,9.7,20.0,5.0,1.0,Partially working,Very low,Daily,Yes,Both
+50.0,Female,7.0,2.0,8.0,10.0,21.0,3.8,11.0,2.1,0.0,Not working,Very High,Never,Yes,Depression
+69.0,Male,9.0,4.0,8.0,2.0,17.0,6.8,43.0,2.2,0.0,Partially working,Very low,Often,Yes,Depression
+24.0,Female,9.0,2.0,7.0,8.0,11.0,6.2,4.0,7.2,0.0,Not working,High,Never,No,Depression
+19.0,Male,8.0,2.0,5.0,5.0,10.0,4.0,21.0,6.2,1.0,Not working,Low,Never,Yes,Depression
+21.0,Male,2.0,8.0,7.0,9.0,10.0,7.6,36.0,2.4,1.0,Working,Very High,Sometimes,Yes,Both
+43.0,Male,6.0,9.0,7.0,3.0,16.0,9.9,5.0,3.1,1.0,Not working,High,Never,Yes,Both
+52.0,Male,2.0,6.0,2.0,9.0,12.0,8.7,28.0,8.9,1.0,Working,High,Rarely,Yes,Both
+54.0,Male,3.0,3.0,1.0,1.0,9.0,8.5,18.0,4.0,0.0,Partially working,Low,Rarely,No,Depression
+61.0,Female,8.0,8.0,5.0,2.0,9.0,6.5,17.0,3.4,1.0,Working,Medium,Never,Yes,Both
+57.0,Male,8.0,1.0,1.0,10.0,9.0,7.7,4.0,6.9,1.0,Working,Very low,Rarely,Yes,Both
+43.0,Male,2.0,10.0,9.0,10.0,13.0,2.4,8.0,8.8,0.0,Partially working,Very High,Sometimes,No,Depression
+21.0,Male,6.0,10.0,3.0,6.0,12.0,7.6,24.7,8.8,0.0,Not working,Very low,Often,No,Depression
+20.0,Male,10.0,5.0,5.0,3.0,11.0,7.7,33.0,6.7,0.0,Not working,Low,Never,Yes,ME/CFS
+56.0,Male,6.0,2.0,8.0,10.0,14.0,4.3,42.0,9.9,0.0,Partially working,Low,Sometimes,No,Depression
+64.0,Male,1.0,9.0,5.0,9.0,20.0,7.7,49.0,4.5,1.0,Working,Low,Never,Yes,Both
+27.0,Female,4.0,4.0,6.0,10.0,12.0,5.8,6.0,8.7,1.0,Partially working,High,Often,No,ME/CFS
+25.0,Male,5.4,6.0,10.0,3.0,8.0,6.3,0.0,9.9,0.0,Partially working,High,Sometimes,No,Depression
+44.0,Female,1.0,5.0,2.0,4.0,7.0,9.8,17.0,1.4,1.0,Working,Low,Sometimes,Yes,ME/CFS
+33.0,Male,2.0,9.0,7.0,8.0,18.0,6.4,2.0,8.6,1.0,Working,Medium,Daily,Yes,Both
+58.0,Female,2.0,2.0,8.0,1.0,22.0,3.1,16.0,6.4,1.0,Not working,Very High,Sometimes,Yes,Depression
+58.0,Female,6.0,1.0,1.0,9.0,14.0,5.5,35.0,7.2,1.0,Working,Medium,Often,Yes,ME/CFS
+18.0,Male,5.0,10.0,1.0,7.0,14.0,6.1,26.0,8.6,1.0,Not working,Very High,Daily,Yes,ME/CFS
+42.0,Female,5.0,7.0,7.0,10.0,18.0,2.2,44.0,8.6,0.0,Not working,Very low,Sometimes,Yes,Depression
+62.0,Male,2.0,2.0,1.0,4.0,4.0,8.6,11.0,8.4,1.0,Partially working,Very low,Sometimes,Yes,ME/CFS
+26.0,Female,4.0,8.0,5.0,3.0,11.0,6.0,40.0,8.8,0.0,Working,Very High,Often,Yes,Depression
+33.0,Female,4.0,10.0,1.0,5.0,25.0,6.6,6.0,0.6,0.0,Not working,High,Never,No,Depression
+38.0,Female,9.0,4.0,4.0,6.0,14.0,4.4,28.0,6.3,0.0,Not working,High,Rarely,No,Depression
+52.0,Male,9.0,9.0,7.0,9.0,7.0,7.2,28.0,5.3,1.0,Working,Very High,Rarely,Yes,ME/CFS
+61.0,Female,5.0,4.0,7.0,4.0,8.0,7.0,44.0,5.5,0.0,Partially working,High,Often,Yes,ME/CFS
+63.0,Male,8.0,10.0,6.0,5.0,25.0,7.0,42.0,5.9,0.0,Not working,Low,Sometimes,Yes,Depression
+66.0,Female,3.0,9.0,8.0,3.0,23.0,8.9,28.0,3.9,1.0,Working,Very High,Sometimes,No,Both
+70.0,Female,10.0,8.0,7.0,6.0,15.0,6.0,29.0,6.1,1.0,Working,Very High,Never,Yes,ME/CFS
+52.0,Female,9.0,5.0,5.0,10.0,23.0,6.8,50.0,9.1,1.0,Working,Low,Rarely,Yes,Depression
+61.0,Female,2.0,5.0,8.0,7.0,9.0,6.9,14.0,5.5,1.0,Working,Low,Sometimes,No,Both
+43.0,Female,1.0,4.0,7.0,4.0,10.0,8.1,0.0,6.3,1.0,Working,Medium,Daily,Yes,ME/CFS
+28.0,Female,1.0,8.0,10.0,9.0,12.0,7.3,47.0,2.1,1.0,Not working,High,Sometimes,Yes,Both
+51.0,Male,2.0,10.0,1.0,9.0,8.0,8.9,43.0,8.3,0.0,Partially working,Medium,Sometimes,Yes,ME/CFS
+63.0,Female,2.0,6.0,5.0,3.0,17.0,9.9,6.0,5.2,1.0,Partially working,Low,Sometimes,Yes,Both
+33.0,Female,8.0,8.0,8.0,4.0,8.0,7.0,39.0,0.3,1.0,Not working,Medium,Daily,No,ME/CFS
+56.0,Female,2.0,2.0,9.0,7.0,14.0,5.4,33.0,9.1,1.0,Working,Very low,Rarely,No,ME/CFS
+35.0,Female,9.0,4.0,4.0,2.0,9.0,8.2,5.0,8.1,1.0,Partially working,Low,Rarely,Yes,ME/CFS
+60.0,Female,5.0,5.0,4.0,5.0,21.0,2.6,45.0,0.6,0.0,Not working,Low,Rarely,No,Depression
+36.0,Female,9.0,3.0,1.0,4.0,4.0,9.6,38.0,1.6,1.0,Not working,High,Daily,No,ME/CFS
+69.0,Female,8.0,2.0,9.0,7.0,19.0,4.8,14.0,6.9,0.0,Working,Very High,Sometimes,No,Depression
+53.0,Female,8.0,9.0,2.0,6.0,22.0,3.5,1.0,4.8,1.0,Working,High,Daily,Yes,Depression
+51.0,Male,1.0,3.0,10.0,4.0,23.0,6.5,5.0,8.2,0.0,Partially working,Low,Never,No,Depression
+41.0,Male,2.0,5.0,5.0,3.0,13.0,6.7,12.0,7.7,1.0,Partially working,Medium,Sometimes,Yes,ME/CFS
+55.0,Male,4.0,3.0,3.0,10.0,20.0,3.1,49.0,6.2,0.0,Not working,High,Daily,No,Depression
+48.0,Male,10.0,1.0,2.0,7.0,22.0,7.0,2.0,3.6,1.0,Not working,Very High,Often,No,Both
+66.0,Female,9.0,5.6,6.0,1.0,15.0,9.1,37.0,1.4,1.0,Partially working,Very High,Never,No,Both
+40.0,Male,2.0,10.0,7.0,5.0,8.0,7.3,9.0,7.5,0.0,Partially working,Very low,Daily,Yes,Depression
+36.0,Male,4.0,2.0,6.0,7.0,14.0,9.3,1.0,3.0,0.0,Partially working,Very High,Often,No,Both
+25.0,Female,3.0,7.0,6.0,4.0,7.0,5.9,4.0,1.7,1.0,Working,Very High,Daily,No,ME/CFS
+47.0,Female,5.0,7.0,10.0,4.0,10.0,6.6,14.0,0.9,1.0,Not working,Very High,Often,Yes,ME/CFS
+20.0,Female,8.0,10.0,3.0,8.0,10.0,6.7,6.0,7.0,0.0,Not working,Very High,Rarely,Yes,Depression
+20.0,Male,5.0,3.0,9.0,10.0,25.0,8.4,15.0,4.7,0.0,Not working,Very High,Daily,No,Depression
+59.0,Male,10.0,5.0,3.0,7.0,20.0,4.5,13.0,0.9,0.0,Partially working,High,Daily,Yes,Depression
+30.0,Male,10.0,1.0,8.0,9.0,12.0,7.0,31.0,2.9,0.0,Partially working,Very High,Daily,Yes,Both
+52.0,Male,5.0,6.0,10.0,4.0,14.0,9.0,27.0,1.2,0.0,Not working,High,Sometimes,No,Depression
+64.0,Female,5.0,2.0,6.0,5.5,7.0,5.8,35.0,2.2,1.0,Working,Low,Daily,Yes,ME/CFS
+41.0,Female,10.0,10.0,3.0,1.0,25.0,7.5,20.0,4.0,1.0,Working,Low,Never,Yes,Both
+47.0,Male,8.0,5.0,4.0,2.0,7.0,7.6,32.0,3.4,1.0,Working,Medium,Never,No,ME/CFS
+22.0,Female,3.0,4.0,3.0,9.0,14.0,8.5,29.0,1.3,1.0,Working,Very High,Never,No,Both
+67.0,Male,8.0,10.0,10.0,3.0,15.0,8.3,30.0,7.2,0.0,Working,High,Daily,Yes,Depression
+26.0,Female,9.0,10.0,9.0,3.0,26.0,9.8,33.0,9.5,1.0,Working,Low,Often,No,Both
+53.0,Female,8.0,2.0,8.0,5.0,22.0,6.8,18.0,8.6,1.0,Not working,Medium,Often,Yes,Both
+57.0,Male,1.0,9.0,5.0,2.0,20.0,8.3,33.0,8.2,1.0,Partially working,High,Sometimes,No,Both
+61.0,Female,3.0,4.0,10.0,6.0,13.0,9.4,19.0,5.3,1.0,Working,Very High,Daily,Yes,Both
+50.0,Male,8.0,4.0,7.0,10.0,12.0,6.6,7.0,7.1,0.0,Not working,Medium,Daily,Yes,Depression
+50.0,Male,9.0,7.0,4.0,7.0,13.0,7.9,45.0,1.3,1.0,Working,Medium,Often,No,Both
+35.0,Female,1.0,4.0,7.0,5.0,12.0,8.0,2.0,3.6,1.0,Working,Very High,Sometimes,Yes,ME/CFS
+29.0,Male,6.0,10.0,6.0,3.0,4.0,5.3,37.0,1.9,1.0,Partially working,Very High,Often,Yes,ME/CFS
+46.0,Female,2.0,9.0,5.0,9.0,19.0,5.7,47.0,2.4,0.6,Partially working,Very High,Often,Yes,Depression
+40.0,Male,8.0,4.0,7.0,10.0,18.0,5.0,16.0,9.4,0.0,Working,Low,Often,No,Depression
+43.0,Female,5.0,8.0,10.0,2.0,18.0,6.6,35.0,1.8,1.0,Partially working,Very High,Daily,No,Both
+58.0,Male,4.0,10.0,1.0,6.0,12.0,7.4,23.0,6.4,1.0,Working,Medium,Rarely,Yes,ME/CFS
+52.0,Female,4.0,7.0,5.0,6.0,16.0,7.1,40.0,1.8,1.0,Partially working,Medium,Rarely,Yes,Both
+51.0,Female,6.0,6.0,5.0,9.0,22.0,4.9,47.0,6.4,0.0,Not working,Very High,Often,No,Depression
+49.0,Male,9.0,4.0,8.0,8.0,11.0,7.3,29.0,9.7,0.0,Partially working,High,Rarely,Yes,Depression
+24.0,Male,8.0,10.0,1.0,4.0,20.0,7.1,43.0,4.1,1.0,Not working,Low,Daily,No,Both
+59.0,Female,1.0,1.0,7.0,2.0,2.0,8.7,36.0,9.1,1.0,Not working,Low,Never,No,ME/CFS
+46.0,Male,3.0,2.0,5.0,8.0,10.0,8.7,0.0,9.1,1.0,Partially working,Very High,Never,No,ME/CFS
+42.0,Male,1.0,9.0,3.0,7.0,15.0,8.2,34.0,6.3,1.0,Not working,Low,Sometimes,No,ME/CFS
+24.0,Male,3.0,1.0,2.0,5.0,11.0,6.2,41.0,9.3,1.0,Partially working,Very High,Often,Yes,Depression
+26.0,Male,9.0,6.0,5.0,1.0,10.0,6.3,33.0,1.0,1.0,Partially working,Low,Sometimes,Yes,ME/CFS
+38.0,Male,7.0,1.0,7.0,3.0,19.0,3.5,28.0,7.0,0.0,Partially working,Very High,Often,Yes,Depression
+51.0,Female,1.0,2.0,5.0,2.0,2.0,9.9,46.0,7.1,1.0,Working,Medium,Rarely,Yes,ME/CFS
+61.0,Male,3.0,6.0,7.0,5.5,22.0,4.9,39.0,3.7,0.0,Not working,Low,Often,Yes,Depression
+19.0,Male,2.0,2.0,10.0,8.0,13.0,6.9,8.0,7.4,1.0,Not working,Very High,Often,No,ME/CFS
+45.0,Male,1.0,3.0,8.0,7.0,12.0,4.1,22.0,8.2,0.0,Working,Low,Daily,No,Depression
+45.0,Female,5.0,5.0,6.0,8.0,16.0,5.4,4.0,3.4,0.0,Working,Very High,Rarely,No,Depression
+42.0,Male,2.0,10.0,4.0,3.0,15.0,4.3,0.0,0.8,0.0,Working,Low,Never,No,Depression
+47.0,Female,3.0,4.0,6.0,5.0,20.0,4.5,39.0,7.6,0.0,Working,Very low,Often,Yes,Depression
+21.0,Male,6.0,3.0,3.0,8.0,13.0,4.1,24.0,2.6,0.0,Partially working,High,Sometimes,Yes,Depression
+35.0,Female,6.0,7.0,6.0,6.0,16.0,3.5,39.0,5.2,0.0,Not working,Very High,Sometimes,Yes,Depression
+37.0,Female,2.0,1.0,9.0,1.0,16.0,7.0,41.0,1.0,1.0,Partially working,High,Rarely,Yes,Both
+21.0,Female,5.0,1.0,7.0,6.0,22.0,9.8,15.0,5.9,1.0,Working,Low,Never,Yes,Both
+35.0,Male,4.0,6.0,6.0,10.0,18.0,3.7,8.0,9.1,0.6,Not working,Very High,Sometimes,No,Depression
+56.0,Male,8.0,2.0,10.0,4.0,14.0,7.5,29.0,8.5,0.0,Working,Low,Daily,No,Depression
+35.0,Male,8.0,5.0,4.0,4.0,12.0,6.6,7.0,4.3,1.0,Working,Low,Rarely,Yes,ME/CFS
+38.0,Male,10.0,6.0,4.0,2.0,8.0,7.8,15.0,6.3,1.0,Partially working,High,Daily,Yes,ME/CFS
+66.0,Female,8.0,1.0,7.0,6.0,14.0,8.2,42.0,3.7,0.0,Partially working,Very low,Sometimes,Yes,Depression
+66.0,Female,8.0,6.0,7.0,3.0,13.0,8.8,1.0,4.9,1.0,Partially working,Medium,Rarely,Yes,ME/CFS
+51.0,Male,6.0,10.0,8.0,5.0,7.0,7.7,39.0,2.9,1.0,Working,High,Rarely,No,ME/CFS
+18.0,Female,4.0,5.6,3.0,1.0,14.0,2.6,2.0,1.3,1.0,Partially working,Very High,Never,No,Depression
+52.0,Male,1.0,3.0,4.0,2.0,11.0,6.7,20.0,0.5,1.0,Not working,Very low,Daily,No,ME/CFS
+31.0,Female,9.0,8.0,2.0,3.0,6.0,6.5,1.0,9.0,1.0,Not working,Low,Rarely,No,ME/CFS
+46.0,Male,3.0,6.0,2.0,6.0,14.0,6.7,3.0,5.7,0.0,Partially working,Very low,Often,No,Depression
+33.0,Female,1.0,9.0,2.0,6.0,4.0,7.1,42.0,8.1,1.0,Not working,Very low,Daily,Yes,ME/CFS
+50.0,Male,7.0,8.0,6.0,2.0,15.0,9.5,0.0,5.8,1.0,Partially working,Very High,Rarely,No,Both
+70.0,Female,7.0,6.0,9.0,2.0,15.0,7.1,45.0,3.1,0.0,Partially working,Very low,Rarely,No,Depression
+19.0,Male,5.0,1.0,10.0,4.0,17.0,6.4,38.0,3.0,1.0,Working,Medium,Daily,No,Both
+39.0,Female,7.0,7.0,2.0,6.0,11.0,2.1,6.0,6.3,0.0,Not working,Medium,Often,Yes,Depression
+54.0,Male,3.0,10.0,10.0,1.0,23.0,6.5,17.0,6.0,0.0,Not working,High,Sometimes,Yes,Depression
+25.0,Female,1.0,3.0,10.0,8.0,13.0,5.1,45.0,6.4,0.0,Not working,Low,Daily,No,Depression
+65.0,Male,9.0,4.0,8.0,7.0,8.0,8.1,21.0,1.2,1.0,Partially working,Very low,Sometimes,Yes,ME/CFS
+41.0,Male,5.0,5.0,4.0,6.0,15.0,8.5,19.0,4.3,1.0,Not working,High,Daily,No,ME/CFS
+56.0,Female,5.0,1.0,4.0,1.0,15.0,2.5,11.0,5.6,1.0,Working,Very low,Sometimes,Yes,Depression
+18.0,Male,2.0,6.0,7.0,1.0,20.0,9.7,4.0,4.9,1.0,Partially working,Low,Often,Yes,Both
+31.0,Female,3.0,5.0,7.0,1.0,16.0,7.7,25.0,0.6,0.0,Not working,Medium,Never,Yes,Depression
+38.0,Male,5.0,5.6,4.0,7.0,9.0,5.0,34.0,3.8,0.0,Not working,Low,Rarely,Yes,Depression
+50.0,Female,5.0,7.0,4.0,8.0,14.0,8.7,10.0,0.2,1.0,Partially working,Medium,Often,No,Both
+70.0,Male,2.0,10.0,3.0,4.0,15.0,8.9,32.0,2.1,0.0,Partially working,Very low,Rarely,Yes,ME/CFS
+31.0,Male,1.0,3.0,1.0,1.0,14.0,6.6,43.0,0.8,1.0,Not working,Very low,Daily,No,Both
+67.0,Female,4.0,10.0,5.0,10.0,15.0,7.7,35.0,6.8,0.0,Partially working,Very High,Rarely,Yes,Both
+42.0,Female,8.0,3.0,10.0,6.0,11.0,9.6,40.0,3.2,1.0,Partially working,Very High,Sometimes,No,ME/CFS
+31.0,Female,5.4,2.0,2.0,4.0,6.0,6.8,34.0,1.9,1.0,Partially working,High,Rarely,Yes,ME/CFS
+26.0,Male,6.0,3.0,6.0,8.0,24.0,2.4,25.0,6.8,1.0,Working,High,Never,Yes,Depression
+62.0,Male,2.0,6.0,10.0,2.0,16.0,7.2,10.0,9.9,1.0,Partially working,Medium,Never,Yes,Both
+56.0,Female,7.0,7.0,9.0,7.0,16.0,6.9,4.0,1.0,1.0,Not working,Medium,Rarely,Yes,Both
+56.0,Male,3.0,3.0,2.0,5.0,12.0,2.8,11.0,2.9,0.0,Working,Medium,Never,Yes,Depression
+28.0,Female,6.0,5.0,2.0,5.0,17.0,5.5,4.0,4.5,0.6,Not working,Very High,Never,No,Depression
+58.0,Female,6.0,4.0,6.0,10.0,3.0,6.1,38.0,1.0,1.0,Working,Medium,Often,No,ME/CFS
+41.0,Male,2.0,1.0,8.0,9.0,8.0,7.6,34.0,1.1,1.0,Not working,Very low,Often,No,ME/CFS
+57.0,Male,1.0,10.0,2.0,6.0,13.0,6.5,23.0,3.4,0.0,Not working,Low,Daily,Yes,Depression
+49.0,Male,10.0,8.0,4.0,9.0,12.0,5.7,43.0,9.8,0.0,Not working,Low,Rarely,Yes,ME/CFS
+32.0,Male,9.0,5.0,7.0,10.0,6.0,8.1,27.0,3.9,1.0,Working,Very High,Often,No,ME/CFS
+54.0,Male,9.0,8.0,5.0,10.0,6.0,7.7,2.0,1.1,1.0,Not working,Low,Rarely,No,ME/CFS
+23.0,Male,3.0,6.0,3.0,5.0,15.0,8.9,14.0,9.7,1.0,Partially working,Low,Rarely,Yes,Both
+23.0,Male,1.0,4.0,10.0,5.0,15.0,9.7,18.0,4.4,1.0,Partially working,Very High,Daily,Yes,ME/CFS
+52.0,Male,3.0,6.0,1.0,7.0,13.0,5.8,9.0,8.0,1.0,Working,High,Often,No,ME/CFS
+60.0,Female,7.0,9.0,2.0,5.5,15.0,8.9,19.0,9.4,0.0,Working,Very High,Often,No,Both
+58.0,Female,10.0,7.0,4.0,5.0,8.0,8.4,15.0,5.0,1.0,Working,High,Sometimes,No,ME/CFS
+65.0,Male,7.0,2.0,10.0,8.0,21.0,6.0,25.0,7.6,0.0,Working,Medium,Often,Yes,Depression
+22.0,Female,6.0,6.0,10.0,9.0,11.0,8.4,13.0,1.1,0.0,Partially working,Very low,Sometimes,No,Depression
+65.0,Female,6.0,5.0,4.0,6.0,14.0,6.4,46.0,3.1,1.0,Partially working,Very low,Never,No,Both
+42.0,Female,9.0,1.0,2.0,4.0,2.0,8.4,38.0,9.2,1.0,Working,Low,Sometimes,Yes,ME/CFS
+26.0,Female,6.0,5.0,7.0,4.0,26.0,7.4,45.0,5.7,1.0,Partially working,Very High,Never,Yes,Both
+42.0,Male,1.0,5.0,10.0,5.0,24.0,8.7,22.0,5.1,1.0,Working,Low,Sometimes,Yes,Both
+29.0,Male,10.0,1.0,6.0,5.0,3.0,8.5,41.0,4.6,1.0,Working,High,Daily,Yes,ME/CFS
+26.0,Male,2.0,5.0,9.0,8.0,16.0,8.8,47.0,6.4,1.0,Partially working,Low,Daily,Yes,Both
+31.0,Female,2.0,8.0,8.0,9.0,19.0,7.5,39.0,1.4,1.0,Partially working,Low,Rarely,No,Both
+34.0,Female,10.0,1.0,3.0,3.0,14.0,5.7,8.0,2.4,0.0,Partially working,Very High,Often,No,Depression
+26.0,Female,2.0,2.0,5.0,2.0,3.0,9.5,6.0,7.7,1.0,Partially working,Very low,Sometimes,No,ME/CFS
+35.0,Female,6.0,9.0,6.0,6.0,20.0,8.1,0.0,8.5,1.0,Partially working,High,Rarely,Yes,Both
+66.0,Male,6.0,8.0,1.0,2.0,5.0,9.0,30.0,6.7,1.0,Not working,Low,Sometimes,Yes,ME/CFS
+46.0,Male,3.0,1.0,9.0,10.0,13.0,6.9,43.0,3.6,0.0,Not working,Very High,Daily,Yes,Depression
+60.0,Male,3.0,5.0,9.0,1.0,24.0,3.7,23.0,2.9,0.0,Not working,High,Daily,Yes,Depression
+50.0,Male,10.0,6.0,3.0,3.0,8.0,7.9,41.0,1.6,1.0,Not working,Very low,Sometimes,No,ME/CFS
+29.0,Male,4.0,5.0,4.0,10.0,10.0,7.5,25.0,2.3,1.0,Working,Very low,Daily,No,ME/CFS
+21.0,Female,8.0,6.0,4.0,7.0,2.0,8.9,23.0,3.9,1.0,Partially working,Very low,Rarely,Yes,ME/CFS
+60.0,Female,6.0,5.0,8.0,3.0,14.0,3.5,13.0,4.8,0.0,Working,High,Often,No,Depression
+53.0,Male,7.0,10.0,9.0,9.0,24.0,4.9,31.0,6.9,0.0,Partially working,High,Often,Yes,Depression
+38.0,Female,7.0,2.0,2.0,2.0,3.0,5.9,24.7,7.0,1.0,Partially working,Very low,Sometimes,No,ME/CFS
+66.0,Female,9.0,5.0,10.0,8.0,9.0,7.3,48.0,4.9,0.0,Working,Very High,Rarely,No,ME/CFS
+53.0,Female,5.4,9.0,2.0,4.0,9.0,9.7,43.0,0.2,0.0,Not working,Low,Rarely,No,Both
+37.0,Female,3.0,2.0,8.0,4.0,4.0,7.4,18.0,0.2,1.0,Not working,Very low,Daily,Yes,ME/CFS
+23.0,Female,2.0,10.0,3.0,4.0,5.0,7.1,50.0,0.9,1.0,Partially working,Medium,Often,Yes,ME/CFS
+68.0,Female,3.0,10.0,6.0,10.0,11.0,8.5,5.0,4.8,1.0,Partially working,High,Often,No,ME/CFS
+65.0,Female,2.0,5.0,2.0,6.0,26.0,6.3,11.0,4.8,1.0,Partially working,Low,Daily,No,Both
+57.0,Male,3.0,9.0,9.0,8.0,9.0,7.2,22.0,8.5,1.0,Partially working,Very low,Often,No,ME/CFS
+63.0,Female,1.0,8.0,8.0,5.0,5.0,8.3,27.0,0.6,1.0,Partially working,Medium,Rarely,Yes,ME/CFS
+19.0,Male,9.0,9.0,9.0,8.0,21.0,8.5,39.0,5.3,0.0,Not working,Very low,Sometimes,No,Depression
+24.0,Male,7.0,5.6,9.0,1.0,11.0,8.8,45.0,1.4,0.0,Not working,Very High,Rarely,No,Depression
+34.0,Female,2.0,8.0,9.0,2.0,22.0,5.7,13.0,7.7,0.0,Not working,Very low,Daily,No,Depression
+49.0,Female,6.0,9.0,10.0,2.0,5.0,8.3,13.0,5.0,0.0,Not working,Very High,Never,Yes,ME/CFS
+41.0,Male,7.0,10.0,9.0,9.0,22.0,4.5,3.0,5.1,0.0,Partially working,Medium,Sometimes,Yes,Depression
+30.0,Female,9.0,1.0,1.0,6.0,3.0,9.3,32.0,7.9,1.0,Partially working,Very High,Rarely,Yes,ME/CFS
+52.0,Female,5.0,5.0,1.0,9.0,13.6,5.7,32.0,8.4,0.0,Partially working,Very low,Daily,Yes,ME/CFS
+22.0,Female,4.0,7.0,9.0,6.0,15.0,3.3,42.0,4.0,0.0,Partially working,Medium,Daily,Yes,Depression
+36.0,Male,2.0,7.0,8.0,9.0,13.0,8.1,23.0,2.1,1.0,Working,Very High,Often,Yes,Both
+40.0,Female,9.0,4.0,4.0,1.0,4.0,8.6,26.0,0.8,0.0,Working,Very High,Never,Yes,ME/CFS
+40.0,Male,6.0,4.0,3.0,3.0,15.0,9.8,36.0,0.6,1.0,Working,Very High,Daily,No,ME/CFS
+42.0,Female,3.0,9.0,9.0,8.0,10.0,7.6,44.0,0.6,1.0,Not working,Low,Rarely,No,Both
+20.0,Female,3.0,8.0,5.0,9.0,24.0,8.7,10.0,1.4,0.6,Not working,High,Sometimes,No,Depression
+41.0,Female,2.0,4.0,1.0,3.0,6.0,8.7,2.0,6.0,1.0,Working,Medium,Rarely,No,ME/CFS
+59.0,Female,6.0,6.0,10.0,10.0,17.0,9.5,46.0,0.3,1.0,Not working,Very low,Daily,No,Both
+51.0,Female,7.0,8.0,7.0,9.0,15.0,5.6,41.0,9.4,1.0,Partially working,Low,Sometimes,Yes,ME/CFS
+29.0,Female,4.0,4.0,3.0,7.0,13.0,3.5,34.0,3.4,0.0,Not working,Very low,Sometimes,No,Depression
+58.0,Female,4.0,1.0,6.0,5.0,14.0,6.0,24.7,5.1,1.0,Not working,Very High,Never,No,ME/CFS
+68.0,Male,2.0,9.0,5.4,4.0,3.0,8.7,31.0,8.7,1.0,Not working,Very low,Daily,No,ME/CFS
+44.0,Female,7.0,7.0,5.0,10.0,15.0,5.8,33.0,2.2,0.0,Working,Very High,Never,Yes,ME/CFS
+58.0,Male,5.0,6.0,5.0,6.0,22.0,6.0,40.0,4.1,1.0,Partially working,Very High,Sometimes,Yes,Depression
+66.0,Female,1.0,3.0,6.0,3.0,13.0,8.8,44.0,7.2,1.0,Working,Very High,Often,Yes,ME/CFS
+24.0,Female,10.0,6.0,1.0,6.0,14.0,6.1,1.0,7.5,1.0,Partially working,Very low,Often,Yes,ME/CFS
+21.0,Female,7.0,10.0,7.0,4.0,14.0,6.2,2.0,5.5,1.0,Not working,Medium,Daily,No,ME/CFS
+56.0,Female,2.0,2.0,5.0,6.0,9.0,8.4,21.0,2.0,0.0,Working,Very High,Rarely,No,Depression
+31.0,Female,6.0,10.0,10.0,10.0,25.0,4.6,31.0,2.2,0.0,Not working,High,Often,No,Depression
+40.0,Male,6.0,4.0,1.0,6.0,24.0,8.9,13.0,9.5,1.0,Not working,High,Never,No,Both
+29.0,Female,2.0,8.0,5.4,2.0,11.0,4.7,1.0,0.1,0.0,Working,High,Rarely,No,Depression
+58.0,Female,8.0,9.0,2.0,3.0,25.0,4.4,29.0,2.4,1.0,Partially working,High,Often,No,Depression
+29.0,Female,1.0,8.0,1.0,3.0,15.0,7.2,18.0,6.4,0.0,Partially working,High,Never,Yes,Depression
+43.0,Male,10.0,7.0,7.0,5.0,12.0,5.0,3.0,8.1,0.0,Working,Very low,Sometimes,No,ME/CFS
+66.0,Female,5.0,10.0,2.0,1.0,20.0,7.3,5.0,8.6,0.0,Not working,High,Rarely,Yes,Both
+57.0,Female,1.0,10.0,1.0,3.0,2.0,8.0,19.0,2.6,1.0,Partially working,Medium,Often,No,ME/CFS
+67.0,Male,3.0,2.0,7.0,10.0,22.0,8.0,36.0,5.1,0.0,Not working,Medium,Sometimes,No,Depression
+22.0,Female,1.0,5.0,3.0,6.0,4.0,5.8,30.0,5.6,1.0,Working,Very High,Never,No,ME/CFS
+22.0,Male,3.0,5.6,7.0,9.0,14.0,7.0,14.0,6.9,1.0,Working,Very low,Sometimes,Yes,Both
+32.0,Male,3.0,1.0,7.0,1.0,14.0,6.7,39.0,2.4,1.0,Working,Low,Never,No,ME/CFS
+38.0,Male,1.0,5.0,6.0,9.0,4.0,8.7,50.0,4.4,0.0,Working,High,Never,No,ME/CFS
+54.0,Male,6.0,5.0,8.0,6.0,25.0,3.0,11.0,9.4,0.0,Partially working,High,Often,No,Depression
+28.0,Male,10.0,6.0,4.0,1.0,8.0,5.8,41.0,4.5,0.0,Partially working,Low,Daily,No,Depression
+56.0,Female,1.0,4.0,2.0,2.0,9.0,7.3,23.0,1.6,1.0,Not working,Very High,Daily,Yes,Depression
+31.0,Male,3.0,9.0,9.0,5.0,11.0,7.6,50.0,6.4,1.0,Not working,High,Never,Yes,ME/CFS
+38.0,Female,4.0,5.0,1.0,10.0,19.0,8.5,4.0,5.5,0.0,Not working,Medium,Rarely,No,Depression
+18.0,Female,3.0,6.0,9.0,4.0,13.0,4.3,31.0,8.3,1.0,Not working,Low,Sometimes,No,Depression
+61.0,Male,4.0,2.0,5.0,9.0,20.0,8.7,6.0,6.1,0.0,Working,Medium,Rarely,Yes,Depression
+56.0,Male,5.0,4.0,10.0,8.0,14.0,5.7,33.0,7.5,1.0,Not working,Low,Sometimes,Yes,ME/CFS
+25.0,Female,4.0,7.0,4.0,2.0,13.0,5.6,20.0,0.7,0.0,Partially working,Very low,Often,Yes,Depression
+39.0,Male,9.0,10.0,5.0,6.0,3.0,5.9,47.0,8.2,1.0,Not working,High,Often,No,ME/CFS
+58.0,Male,8.0,10.0,4.0,5.0,16.0,4.3,8.0,2.6,0.0,Partially working,Medium,Sometimes,No,Depression
+46.0,Male,7.0,4.0,3.0,5.0,6.0,7.5,4.0,6.7,1.0,Working,High,Never,Yes,ME/CFS
+69.0,Male,6.0,9.0,10.0,2.0,15.0,6.8,38.0,2.3,1.0,Partially working,High,Sometimes,No,Both
+66.0,Female,3.0,8.0,4.0,9.0,13.6,6.5,21.0,6.6,1.0,Partially working,Very low,Rarely,No,ME/CFS
+68.0,Female,1.0,8.0,10.0,1.0,13.6,7.1,9.0,4.5,1.0,Partially working,Very High,Sometimes,No,ME/CFS
+68.0,Female,2.0,7.0,5.4,6.0,26.0,7.6,22.0,1.4,0.6,Not working,Low,Daily,Yes,Both
+57.0,Male,10.0,10.0,7.0,7.0,23.0,6.8,3.0,6.1,0.0,Not working,Very High,Never,Yes,Depression
+47.0,Male,7.0,4.0,4.0,10.0,17.0,8.0,22.0,1.0,1.0,Not working,Very High,Rarely,No,Both
+26.0,Female,6.0,5.0,7.0,6.0,5.0,5.3,23.0,9.1,1.0,Partially working,High,Never,No,ME/CFS
+18.0,Male,9.0,5.6,8.0,6.0,15.0,2.9,2.0,6.7,0.0,Not working,High,Sometimes,Yes,Depression
+52.0,Male,3.0,2.0,4.0,9.0,24.0,6.3,11.0,7.7,1.0,Partially working,Medium,Daily,No,Both
+22.0,Female,1.0,7.0,7.0,8.0,17.0,6.1,18.0,6.1,0.0,Not working,Very High,Often,No,Depression
+25.0,Female,7.0,2.0,4.0,10.0,21.0,8.3,35.0,8.0,1.0,Working,Very High,Rarely,No,Both
+68.0,Female,1.0,4.0,5.4,6.0,12.0,5.9,10.0,8.8,0.0,Partially working,Medium,Never,Yes,Depression
+20.0,Male,6.0,10.0,9.0,8.0,7.0,5.2,12.0,7.4,1.0,Not working,Very High,Sometimes,No,ME/CFS
+56.0,Male,9.0,2.0,8.0,4.0,20.0,9.1,23.0,5.5,1.0,Not working,Very High,Often,No,Both
+45.0,Male,2.0,9.0,2.0,6.0,14.0,5.5,40.0,5.8,1.0,Not working,Medium,Rarely,Yes,Depression
+20.0,Male,8.0,9.0,5.0,9.0,10.0,8.2,3.0,1.6,0.0,Working,High,Often,Yes,ME/CFS
+43.0,Male,6.0,8.0,9.0,7.0,18.0,2.9,26.0,9.9,1.0,Partially working,Very High,Sometimes,No,Depression
+60.0,Male,10.0,2.0,7.0,4.0,11.0,9.5,34.0,9.4,0.0,Not working,Very High,Daily,Yes,ME/CFS
+33.0,Male,2.0,3.0,8.0,8.0,5.0,7.2,20.0,1.5,1.0,Working,Very High,Rarely,No,ME/CFS
+21.0,Female,3.0,7.0,3.0,4.0,26.0,7.1,14.0,3.1,1.0,Partially working,Medium,Never,Yes,Both
+70.0,Male,5.0,2.0,3.0,5.0,13.0,7.5,44.0,3.5,0.0,Partially working,Very low,Daily,Yes,Depression
+51.0,Female,4.0,3.0,5.0,5.0,5.0,5.1,37.0,9.2,1.0,Not working,Low,Daily,Yes,ME/CFS
+33.0,Female,3.0,3.0,6.0,4.0,19.0,5.0,38.0,6.4,0.0,Not working,Very low,Rarely,No,Depression
+39.0,Male,5.0,1.0,8.0,7.0,9.0,6.6,20.0,3.6,1.0,Not working,Very low,Sometimes,Yes,ME/CFS
+58.0,Male,4.0,8.0,4.0,8.0,20.0,3.9,13.0,3.8,0.0,Not working,Low,Often,No,Depression
+51.0,Male,8.0,1.0,10.0,2.0,21.0,7.9,9.0,3.4,0.0,Working,Low,Sometimes,Yes,Depression
+45.0,Female,5.0,8.0,1.0,9.0,9.0,8.3,33.0,1.3,1.0,Working,Very low,Often,Yes,Both
+60.0,Female,8.0,7.0,8.0,3.0,6.0,9.4,4.0,1.3,1.0,Working,Very low,Rarely,Yes,ME/CFS
+40.0,Male,4.0,2.0,1.0,2.0,5.0,5.4,44.0,8.0,1.0,Partially working,Very low,Never,No,ME/CFS
+28.0,Female,10.0,5.0,6.0,6.0,22.0,4.7,1.0,8.9,0.0,Partially working,Very High,Never,Yes,Depression
+54.0,Female,6.0,4.0,5.0,10.0,26.0,9.3,40.0,8.5,1.0,Partially working,Very low,Often,Yes,Both
+18.0,Female,6.0,6.0,6.0,2.0,8.0,5.9,2.0,7.4,0.0,Not working,Medium,Daily,No,Depression
+66.0,Female,7.0,10.0,1.0,4.0,13.0,7.5,25.0,1.9,1.0,Working,Very High,Sometimes,No,Both
+58.0,Male,8.0,1.0,3.0,3.0,10.0,7.5,45.0,0.8,1.0,Not working,Very High,Daily,Yes,ME/CFS
+57.0,Female,8.0,3.0,9.0,8.0,9.0,9.3,17.0,7.1,0.0,Partially working,Low,Never,Yes,ME/CFS
+33.0,Female,5.0,3.0,10.0,7.0,2.0,9.7,21.0,7.9,1.0,Partially working,Very low,Sometimes,No,ME/CFS
+49.0,Male,10.0,10.0,2.0,8.0,6.0,5.9,15.0,8.8,1.0,Not working,Medium,Daily,Yes,ME/CFS
+30.0,Female,7.0,8.0,5.0,4.0,8.0,7.0,13.0,3.6,1.0,Not working,Low,Never,Yes,ME/CFS
+31.0,Male,2.0,4.0,5.0,1.0,2.0,8.6,9.0,7.4,1.0,Partially working,Very High,Sometimes,No,ME/CFS
+48.0,Male,2.0,3.0,5.0,2.0,13.0,7.2,24.7,9.2,0.0,Working,Very low,Sometimes,No,ME/CFS
+64.0,Male,10.0,1.0,5.0,2.0,18.0,2.7,21.0,10.0,0.0,Not working,Low,Daily,Yes,Depression
+68.0,Male,9.0,2.0,7.0,5.0,16.0,9.3,41.0,5.0,1.0,Working,High,Never,Yes,Both
+26.0,Female,10.0,8.0,3.0,1.0,13.6,5.4,12.0,6.4,0.0,Not working,High,Rarely,Yes,Depression
+25.0,Female,2.0,9.0,4.0,2.0,21.0,3.8,30.0,1.8,0.0,Working,Medium,Often,Yes,Depression
+60.0,Female,4.0,1.0,3.0,7.0,9.0,6.7,21.0,2.9,1.0,Working,Very High,Often,No,ME/CFS
+70.0,Female,6.0,1.0,2.0,3.0,4.0,7.7,50.0,0.8,1.0,Not working,Very low,Sometimes,No,ME/CFS
+70.0,Female,9.0,6.0,4.0,3.0,12.0,6.4,18.0,9.1,1.0,Not working,Medium,Sometimes,No,Both
+33.0,Male,6.0,6.0,5.0,2.0,20.0,8.3,24.0,2.3,0.0,Not working,Very low,Rarely,Yes,Depression
+47.0,Male,3.0,6.0,8.0,1.0,19.0,8.9,17.0,6.9,0.0,Partially working,Medium,Sometimes,No,Depression
+31.0,Male,4.0,9.0,9.0,2.0,13.0,5.8,5.0,9.0,0.0,Working,Medium,Sometimes,Yes,ME/CFS
+40.0,Female,1.0,9.0,4.0,5.0,11.0,7.8,5.0,9.3,0.0,Partially working,Very High,Never,No,Depression
+25.0,Male,7.0,6.0,3.0,1.0,9.0,8.8,26.0,0.6,0.0,Not working,High,Rarely,Yes,Both
+56.0,Female,7.0,9.0,3.0,10.0,25.0,2.1,10.0,0.5,0.0,Working,Very High,Sometimes,No,Depression
+19.0,Male,2.0,2.0,8.0,8.0,15.0,5.1,21.0,0.8,0.0,Working,Low,Sometimes,No,ME/CFS
+42.0,Male,4.0,3.0,2.0,4.0,12.0,7.3,23.0,4.4,0.0,Working,Low,Daily,Yes,Depression
+39.0,Female,1.0,2.0,9.0,9.0,15.0,5.5,39.0,2.9,0.0,Partially working,Low,Often,No,Depression
+42.0,Female,4.0,2.0,3.0,5.0,13.0,9.4,40.0,1.6,1.0,Working,Very low,Sometimes,No,Both
+32.0,Female,1.0,7.0,1.0,10.0,25.0,8.7,44.0,2.8,1.0,Not working,Very low,Sometimes,Yes,Both
+67.0,Male,2.0,1.0,4.0,1.0,12.0,9.4,9.0,2.2,1.0,Partially working,Very low,Often,No,ME/CFS
+60.0,Female,5.0,4.0,8.0,3.0,19.0,6.2,0.0,0.3,1.0,Working,Low,Rarely,Yes,Both
+40.0,Male,6.0,9.0,2.0,4.0,7.0,7.2,45.0,2.5,1.0,Not working,Medium,Often,Yes,ME/CFS
+58.0,Male,8.0,7.0,2.0,6.0,17.0,8.4,0.0,6.6,1.0,Not working,Low,Rarely,No,Both
+20.0,Female,8.0,4.0,4.0,9.0,8.0,5.1,12.0,0.7,0.0,Not working,Very High,Rarely,Yes,Depression
+21.0,Female,3.0,6.0,8.0,3.0,9.0,8.4,21.0,8.3,1.0,Working,High,Daily,Yes,ME/CFS
+49.0,Male,5.0,8.0,4.0,4.0,10.0,5.8,25.0,9.8,1.0,Working,Very High,Rarely,No,Depression
+20.0,Male,10.0,7.0,10.0,8.0,5.0,6.1,41.0,0.8,1.0,Not working,Medium,Sometimes,Yes,ME/CFS
+53.0,Female,8.0,5.0,2.0,2.0,25.0,9.2,50.0,2.8,1.0,Working,High,Rarely,No,Both
+62.0,Female,4.0,9.0,9.0,10.0,15.0,2.5,45.0,9.6,0.0,Not working,Very low,Sometimes,Yes,Depression
+44.0,Female,8.0,4.0,1.0,9.0,23.0,4.2,34.0,0.9,0.0,Working,Medium,Sometimes,Yes,Depression
+44.0,Male,5.4,10.0,2.0,10.0,14.0,6.2,34.0,8.7,1.0,Working,Very High,Rarely,Yes,Both
+33.0,Male,2.0,8.0,8.0,2.0,16.0,8.5,35.0,6.1,0.0,Partially working,High,Sometimes,Yes,Depression
+34.0,Female,10.0,2.0,7.0,10.0,11.0,5.6,34.0,4.2,1.0,Not working,Very High,Never,Yes,ME/CFS
+53.0,Female,3.0,7.0,6.0,7.0,22.0,6.9,44.0,6.2,1.0,Not working,Low,Never,No,Depression
+43.0,Male,6.0,5.0,9.0,8.0,25.0,6.3,23.0,6.9,0.0,Not working,High,Rarely,Yes,Depression
+35.0,Male,5.0,5.0,2.0,6.0,24.0,8.6,15.0,9.3,0.0,Partially working,Very High,Often,Yes,Depression
+21.0,Male,7.0,8.0,3.0,3.0,7.0,6.7,26.0,3.7,1.0,Partially working,Medium,Rarely,Yes,ME/CFS
+66.0,Male,2.0,2.0,10.0,5.0,21.0,7.8,47.0,3.5,1.0,Working,Very low,Sometimes,No,Both
+42.0,Female,2.0,1.0,8.0,4.0,22.0,6.9,19.0,9.9,0.0,Not working,Very High,Daily,No,Depression
+57.0,Male,2.0,7.0,9.0,4.0,10.0,6.6,48.0,1.1,0.0,Not working,Low,Often,Yes,Depression
+39.0,Female,2.0,7.0,3.0,7.0,20.0,6.3,22.0,7.5,1.0,Partially working,High,Often,No,Both
+48.0,Female,9.0,9.0,8.0,8.0,13.6,6.7,42.0,2.6,1.0,Not working,Low,Never,Yes,ME/CFS
+46.0,Female,4.0,7.0,2.0,4.0,13.6,5.8,10.0,6.9,1.0,Working,Low,Daily,Yes,ME/CFS
+41.0,Male,3.0,4.0,9.0,6.0,25.0,7.1,21.0,9.7,1.0,Partially working,Very High,Rarely,Yes,Both
+52.0,Female,2.0,8.0,2.0,7.0,23.0,6.9,48.0,8.4,1.0,Not working,Very High,Daily,Yes,Both
+27.0,Male,7.0,5.0,4.0,6.0,9.0,9.0,24.0,0.6,0.0,Working,Medium,Daily,Yes,Both
+26.0,Male,2.0,9.0,5.0,6.0,13.0,3.2,46.0,5.1,0.0,Not working,Very High,Often,Yes,Depression
+26.0,Male,4.0,4.0,10.0,6.0,25.0,7.2,2.0,2.8,0.0,Working,High,Often,Yes,Depression
+40.0,Male,10.0,5.0,7.0,8.0,10.0,2.6,20.0,9.8,0.0,Working,High,Sometimes,No,Depression
+50.0,Female,10.0,7.0,1.0,2.0,13.6,2.9,2.0,4.7,0.0,Working,Very High,Sometimes,No,Depression
+28.0,Male,8.0,3.0,5.0,5.0,11.0,3.2,49.0,5.0,1.0,Not working,Medium,Never,Yes,Depression
+63.0,Male,4.0,4.0,1.0,5.0,14.0,6.2,12.0,7.4,1.0,Working,Low,Sometimes,No,Both
+25.0,Male,9.0,7.0,1.0,6.0,21.0,5.0,15.0,8.7,1.0,Partially working,Low,Often,Yes,Depression
+29.0,Male,3.0,4.0,1.0,6.0,9.0,6.1,49.0,2.9,1.0,Working,Low,Sometimes,No,ME/CFS
+25.0,Female,4.0,1.0,10.0,7.0,8.0,6.3,34.0,5.6,0.0,Working,Very High,Often,No,ME/CFS
+26.0,Male,2.0,9.0,3.0,4.0,5.0,6.7,47.0,5.3,1.0,Working,Very High,Often,Yes,ME/CFS
+43.0,Male,7.0,4.0,7.0,5.0,21.0,4.4,2.0,3.5,0.0,Partially working,High,Sometimes,No,Depression
+62.0,Female,4.0,9.0,2.0,5.5,17.0,8.8,9.0,6.5,0.0,Not working,Very High,Often,Yes,Depression
+19.0,Male,4.0,4.0,3.0,9.0,19.0,8.9,37.0,2.8,1.0,Working,Very High,Often,Yes,Both
+40.0,Male,1.0,6.0,2.0,6.0,10.0,5.5,1.0,1.2,0.0,Working,High,Never,No,Depression
+57.0,Female,8.0,4.0,8.0,4.0,26.0,8.1,15.0,4.1,1.0,Working,High,Never,No,Both
+40.0,Male,9.0,5.0,10.0,4.0,18.0,4.5,23.0,8.5,0.0,Partially working,Very low,Rarely,Yes,Depression
+57.0,Female,7.0,8.0,8.0,5.0,13.0,8.0,40.0,9.6,1.0,Not working,Very low,Sometimes,No,ME/CFS
+63.0,Female,4.0,10.0,6.0,3.0,24.0,5.8,50.0,7.3,0.0,Not working,Very High,Daily,No,Depression
+39.0,Female,8.0,2.0,7.0,7.0,19.0,7.9,4.0,9.3,0.0,Partially working,Very low,Rarely,Yes,Both
+51.0,Female,5.0,1.0,6.0,10.0,20.0,8.7,9.0,2.0,0.0,Partially working,Low,Sometimes,Yes,Depression
+50.0,Male,9.0,8.0,5.0,1.0,23.0,8.0,15.0,2.7,1.0,Working,High,Rarely,Yes,Both
+28.0,Female,7.0,8.0,9.0,5.0,11.0,8.9,47.0,4.4,1.0,Partially working,Very low,Never,Yes,ME/CFS
+24.0,Female,10.0,4.0,1.0,8.0,14.0,6.0,10.0,6.4,1.0,Partially working,Medium,Sometimes,No,ME/CFS
+69.0,Male,9.0,5.0,3.0,6.0,9.0,5.0,7.0,8.9,1.0,Not working,High,Daily,Yes,ME/CFS
+41.0,Female,2.0,10.0,6.0,1.0,20.0,6.3,8.0,4.2,0.0,Working,Very High,Never,No,Depression
+50.0,Female,3.0,2.0,5.4,9.0,6.0,7.8,37.0,8.7,1.0,Working,Medium,Often,No,ME/CFS
+58.0,Female,4.0,4.0,4.0,10.0,12.0,10.0,5.0,3.6,1.0,Working,Very High,Often,Yes,Both
+40.0,Female,9.0,9.0,1.0,4.0,26.0,8.0,15.0,2.9,1.0,Not working,Low,Rarely,No,Both
+46.0,Female,5.0,6.0,9.0,6.0,12.0,6.7,12.0,8.3,0.0,Working,High,Daily,Yes,Depression
+41.0,Male,5.0,8.0,4.0,5.5,15.0,8.8,34.0,0.8,1.0,Not working,Very High,Never,Yes,Both
+53.0,Female,8.0,1.0,3.0,10.0,19.0,6.2,18.0,6.5,0.0,Working,Medium,Often,Yes,Both
+64.0,Male,8.0,4.0,4.0,1.0,6.0,5.3,10.0,2.3,1.0,Not working,Medium,Rarely,Yes,ME/CFS
+70.0,Female,5.0,5.0,2.0,3.0,26.0,6.8,34.0,0.2,1.0,Not working,High,Never,Yes,Both
+53.0,Female,8.0,3.0,4.0,6.0,13.6,9.3,34.0,8.0,1.0,Partially working,Very High,Rarely,No,Both
+42.0,Male,6.0,5.0,8.0,2.0,21.0,7.5,33.0,5.2,1.0,Working,Low,Daily,No,Both
+34.0,Female,6.0,8.0,5.0,7.0,14.0,7.3,44.0,6.5,0.0,Not working,Low,Daily,Yes,ME/CFS
+26.0,Female,1.0,7.0,2.0,4.0,13.6,6.4,35.0,2.1,1.0,Not working,Very High,Never,Yes,ME/CFS
+55.0,Female,3.0,1.0,8.0,2.0,24.0,7.4,44.0,5.8,1.0,Working,Low,Often,Yes,Both
+70.0,Female,5.0,7.0,4.0,10.0,21.0,8.3,50.0,5.1,1.0,Partially working,Very low,Daily,No,Both
+67.0,Female,10.0,10.0,10.0,2.0,18.0,7.5,20.0,4.9,1.0,Partially working,Medium,Often,Yes,Both
+31.0,Male,2.0,8.0,3.0,5.0,15.0,10.0,41.0,4.6,1.0,Not working,Medium,Rarely,No,ME/CFS
+67.0,Male,10.0,3.0,8.0,10.0,20.0,5.6,37.0,9.5,0.0,Not working,Very High,Never,Yes,Depression
+37.0,Male,9.0,9.0,1.0,8.0,14.0,6.9,28.0,0.3,1.0,Working,Very low,Sometimes,Yes,ME/CFS
+67.0,Female,9.0,2.0,7.0,5.0,16.0,8.0,22.0,3.0,0.0,Working,Medium,Daily,No,Depression
+22.0,Female,9.0,4.0,10.0,7.0,14.0,7.3,38.0,3.3,1.0,Partially working,Very High,Rarely,Yes,ME/CFS
+49.0,Female,3.0,9.0,3.0,6.0,17.0,4.2,47.0,1.3,0.0,Not working,Very low,Often,No,Depression
+49.0,Female,3.0,8.0,7.0,2.0,19.0,9.2,43.0,5.5,1.0,Working,Low,Often,No,Both
+36.0,Male,10.0,10.0,3.0,4.0,11.0,8.9,26.0,3.6,1.0,Working,Very low,Rarely,No,Depression
+40.0,Female,2.0,5.6,1.0,4.0,2.0,9.1,1.0,4.1,1.0,Partially working,Medium,Daily,No,ME/CFS
+33.0,Female,6.0,6.0,3.0,10.0,7.0,9.3,6.0,3.0,1.0,Working,High,Rarely,No,ME/CFS
+40.0,Female,5.0,2.0,9.0,8.0,23.0,9.7,10.0,2.3,1.0,Partially working,Medium,Daily,No,Both
+54.0,Male,6.0,5.0,7.0,6.0,10.0,6.8,3.0,5.7,1.0,Not working,Very High,Daily,Yes,ME/CFS
+26.0,Female,5.0,1.0,7.0,8.0,15.0,7.0,22.0,6.1,0.0,Not working,Medium,Daily,Yes,Depression
+41.0,Female,5.0,7.0,7.0,1.0,15.0,8.0,13.0,3.2,1.0,Working,Very low,Rarely,No,ME/CFS
+29.0,Male,6.0,3.0,1.0,10.0,15.0,9.7,16.0,2.6,0.0,Working,Very low,Sometimes,Yes,ME/CFS
+62.0,Male,5.0,2.0,5.0,4.0,15.0,8.0,19.0,9.8,1.0,Partially working,High,Never,Yes,ME/CFS
+24.0,Male,5.0,1.0,8.0,8.0,12.0,8.7,20.0,6.4,1.0,Not working,Very High,Rarely,Yes,Depression
+42.0,Male,7.0,3.0,8.0,9.0,9.0,4.2,18.0,3.1,0.0,Not working,Very low,Sometimes,No,Depression
+45.0,Male,1.0,1.0,4.0,8.0,25.0,3.2,2.0,3.0,0.0,Partially working,Very High,Never,Yes,Depression
+35.0,Female,6.0,5.6,4.0,10.0,2.0,7.0,17.0,6.7,1.0,Partially working,Medium,Often,No,ME/CFS
+20.0,Female,4.0,2.0,4.0,2.0,3.0,5.8,43.0,1.2,0.0,Partially working,Low,Sometimes,Yes,ME/CFS
+60.0,Male,7.0,5.0,1.0,1.0,14.0,8.2,34.0,0.9,0.0,Not working,Very low,Daily,Yes,Depression
+25.0,Male,2.0,2.0,6.0,9.0,12.0,6.1,23.0,6.7,1.0,Working,High,Often,Yes,ME/CFS
+60.0,Male,10.0,6.0,7.0,4.0,20.0,7.6,46.0,0.6,1.0,Working,Medium,Never,Yes,Both
+62.0,Female,7.0,2.0,1.0,10.0,13.6,3.1,19.0,3.1,0.0,Partially working,Very low,Often,Yes,Depression
+20.0,Male,9.0,10.0,1.0,3.0,4.0,5.3,9.0,1.7,1.0,Working,Very low,Often,Yes,ME/CFS
+28.0,Female,1.0,5.0,9.0,10.0,21.0,7.5,5.0,4.2,1.0,Partially working,Medium,Sometimes,No,Both
+27.0,Female,2.0,9.0,6.0,6.0,20.0,6.4,25.0,5.3,0.0,Working,Very low,Rarely,No,Depression
+56.0,Female,4.0,1.0,7.0,10.0,9.0,3.2,25.0,4.7,0.0,Working,High,Never,No,Depression
+38.0,Male,9.0,1.0,4.0,2.0,22.0,5.5,45.0,1.6,0.0,Working,Medium,Often,Yes,Depression
+64.0,Male,1.0,4.0,6.0,7.0,16.0,6.4,19.0,1.6,0.0,Partially working,Medium,Daily,Yes,Depression
+37.0,Male,4.0,9.0,2.0,1.0,12.0,8.9,23.0,6.9,1.0,Working,Very low,Rarely,Yes,ME/CFS
+69.0,Female,3.0,9.0,2.0,6.0,25.0,7.9,30.0,4.3,0.0,Not working,Very low,Rarely,Yes,Depression
+34.0,Male,7.0,10.0,2.0,3.0,16.0,7.9,1.0,4.5,0.0,Partially working,Very High,Sometimes,Yes,Depression
+69.0,Male,3.0,4.0,6.0,9.0,10.0,7.4,2.0,3.0,1.0,Not working,Very High,Rarely,No,Both
+24.0,Male,10.0,6.0,1.0,6.0,25.0,9.2,22.0,3.1,1.0,Partially working,Medium,Never,No,Both
+52.0,Female,6.0,8.0,4.0,6.0,17.0,6.3,34.0,9.9,0.0,Partially working,Very low,Never,No,Depression
+50.0,Female,2.0,5.0,8.0,10.0,22.0,5.0,34.0,7.1,1.0,Partially working,Low,Often,Yes,Depression
+24.0,Male,5.0,4.0,6.0,1.0,4.0,6.8,3.0,1.5,1.0,Partially working,Very High,Sometimes,Yes,ME/CFS
+27.0,Male,5.0,5.0,4.0,7.0,19.0,8.3,9.0,1.7,0.0,Not working,Medium,Often,Yes,Depression
+27.0,Female,8.0,4.0,2.0,6.0,13.0,8.1,24.7,3.5,0.0,Partially working,Very low,Sometimes,Yes,ME/CFS
+41.0,Female,1.0,5.0,9.0,2.0,19.0,7.5,15.0,9.5,1.0,Working,High,Rarely,No,Both
+36.0,Female,8.0,4.0,1.0,10.0,13.0,4.5,11.0,0.5,0.0,Partially working,High,Rarely,Yes,Depression
+27.0,Male,7.0,2.0,5.0,10.0,11.0,6.4,13.0,0.7,1.0,Partially working,Low,Rarely,Yes,ME/CFS
+49.0,Male,8.0,6.0,6.0,7.0,10.0,7.1,3.0,0.3,1.0,Not working,Low,Rarely,No,ME/CFS
+40.0,Male,5.0,2.0,5.4,9.0,10.0,8.3,47.0,9.5,1.0,Partially working,Very High,Rarely,Yes,ME/CFS
+39.0,Male,7.0,3.0,6.0,8.0,16.0,9.5,25.0,1.5,1.0,Not working,High,Sometimes,Yes,Both
+46.0,Female,4.0,10.0,1.0,10.0,9.0,8.6,8.0,3.2,1.0,Working,Very low,Daily,Yes,Both
+19.0,Male,1.0,7.0,9.0,6.0,4.0,9.7,25.0,8.3,1.0,Partially working,Low,Often,Yes,ME/CFS
+46.0,Male,3.0,2.0,10.0,7.0,21.0,5.7,7.0,0.6,0.0,Partially working,Very low,Sometimes,Yes,Depression
+56.0,Female,2.0,2.0,8.0,4.0,5.0,6.3,2.0,2.9,1.0,Partially working,Medium,Often,No,ME/CFS
+63.0,Male,5.0,1.0,2.0,7.0,6.0,8.7,28.0,9.6,0.0,Working,Medium,Often,No,ME/CFS
+47.0,Male,7.0,4.0,7.0,2.0,13.0,5.3,44.0,1.7,1.0,Working,Medium,Daily,No,ME/CFS
+44.0,Female,7.0,1.0,10.0,7.0,7.0,7.4,28.0,5.4,1.0,Partially working,Low,Daily,Yes,ME/CFS
+38.0,Female,6.0,3.0,5.0,1.0,15.0,6.4,35.0,1.5,1.0,Partially working,Low,Daily,No,ME/CFS
+18.0,Male,5.0,6.0,4.0,3.0,10.0,8.5,5.0,5.1,1.0,Partially working,Very low,Often,No,ME/CFS
+57.0,Female,7.0,8.0,8.0,7.0,19.0,9.4,24.0,5.2,1.0,Not working,Low,Sometimes,Yes,Both
+45.0,Female,10.0,8.0,2.0,7.0,14.0,7.6,30.0,7.8,0.0,Working,Very low,Daily,Yes,Depression
+49.0,Male,1.0,10.0,4.0,4.0,16.0,6.0,9.0,4.0,0.0,Not working,Medium,Never,No,Depression
+33.0,Female,3.0,9.0,3.0,1.0,6.0,8.0,39.0,3.9,1.0,Partially working,Medium,Never,No,ME/CFS
+28.0,Female,2.0,2.0,5.0,6.0,17.0,6.9,22.0,9.0,1.0,Working,Low,Never,Yes,Both
+37.0,Male,10.0,10.0,7.0,2.0,20.0,8.0,48.0,5.1,1.0,Not working,Low,Never,No,Depression
+23.0,Female,10.0,7.0,5.0,3.0,10.0,3.0,8.0,8.0,0.0,Not working,Low,Never,Yes,Depression
+24.0,Female,5.0,9.0,3.0,3.0,23.0,9.6,34.0,5.5,1.0,Working,Very High,Sometimes,No,Both
+42.0,Male,4.0,4.0,10.0,10.0,12.0,9.1,39.0,4.9,1.0,Not working,Low,Sometimes,Yes,Both
+45.0,Male,2.0,7.0,5.0,7.0,8.0,9.9,4.0,3.9,1.0,Not working,Low,Sometimes,No,ME/CFS
+40.0,Female,5.0,5.0,4.0,1.0,23.0,9.9,26.0,5.6,1.0,Not working,Low,Daily,Yes,Both
+62.0,Male,1.0,8.0,4.0,8.0,20.0,10.0,41.0,4.8,1.0,Working,Low,Sometimes,No,Both
+57.0,Male,4.0,5.6,4.0,10.0,9.0,4.5,37.0,2.6,0.0,Not working,Low,Rarely,Yes,Depression
+66.0,Male,9.0,1.0,4.0,1.0,12.0,7.6,19.0,1.7,1.0,Working,Very low,Often,Yes,Both
+54.0,Male,6.0,5.6,7.0,1.0,13.0,8.6,28.0,4.2,1.0,Partially working,Low,Daily,Yes,Both
+26.0,Female,4.0,8.0,7.0,4.0,23.0,6.5,42.0,0.9,0.0,Working,Very High,Often,Yes,Depression
+32.0,Male,3.0,10.0,4.0,6.0,14.0,8.1,49.0,3.4,0.0,Working,Low,Never,No,Depression
+60.0,Male,9.0,7.0,4.0,10.0,12.0,5.3,0.0,2.0,0.0,Partially working,Very low,Never,Yes,ME/CFS
+32.0,Female,8.0,5.0,8.0,9.0,7.0,8.9,29.0,1.1,1.0,Working,High,Sometimes,Yes,ME/CFS
+65.0,Female,10.0,6.0,7.0,9.0,24.0,7.2,43.0,4.5,1.0,Not working,Very High,Often,No,Both
+38.0,Female,1.0,2.0,6.0,1.0,25.0,6.5,16.0,0.8,0.0,Partially working,High,Sometimes,No,Depression
+39.0,Male,3.0,6.0,10.0,2.0,19.0,5.1,35.0,8.3,0.0,Not working,Medium,Sometimes,No,Depression
+53.0,Male,7.0,6.0,9.0,5.0,20.0,7.0,46.0,5.1,0.6,Not working,Very High,Often,No,Both
+29.0,Female,10.0,8.0,10.0,7.0,9.0,6.0,22.0,1.2,1.0,Not working,Medium,Sometimes,No,ME/CFS
+51.0,Male,7.0,3.0,7.0,8.0,2.0,6.8,24.7,5.6,1.0,Working,Low,Sometimes,Yes,ME/CFS
+35.0,Female,3.0,4.0,9.0,7.0,15.0,8.1,39.0,4.6,0.6,Partially working,High,Never,Yes,ME/CFS
+32.0,Female,1.0,2.0,1.0,3.0,6.0,5.5,25.0,7.3,1.0,Working,High,Sometimes,No,ME/CFS
+23.0,Female,8.0,9.0,2.0,8.0,4.0,8.1,5.0,7.0,1.0,Not working,Very low,Daily,No,ME/CFS
+46.0,Female,7.0,6.0,10.0,7.0,14.0,9.6,37.0,2.9,1.0,Working,Very High,Sometimes,No,Both
+59.0,Female,4.0,6.0,10.0,3.0,14.0,7.7,39.0,8.2,1.0,Not working,High,Never,Yes,ME/CFS
+34.0,Male,4.0,5.0,9.0,3.0,9.0,8.5,38.0,0.5,1.0,Working,Very High,Often,No,Both
+18.0,Female,8.0,3.0,5.4,2.0,21.0,4.7,50.0,8.1,0.0,Working,Very High,Rarely,No,Depression
+55.0,Female,1.0,7.0,10.0,7.0,20.0,6.1,49.0,2.5,0.0,Not working,Very low,Rarely,No,Depression
+47.0,Female,10.0,6.0,8.0,2.0,25.0,3.5,39.0,6.3,0.0,Partially working,Low,Sometimes,No,Depression
+49.0,Female,1.0,1.0,7.0,5.0,22.0,6.9,50.0,7.3,0.0,Not working,Medium,Often,No,Both
+46.0,Female,4.0,3.0,8.0,5.0,12.0,5.2,24.0,0.3,0.0,Partially working,Very low,Sometimes,Yes,Depression
+41.0,Female,6.0,4.0,7.0,4.0,8.0,6.4,20.0,7.4,1.0,Working,Low,Daily,No,ME/CFS
+58.0,Female,6.0,10.0,6.0,6.0,5.0,8.8,39.0,2.3,1.0,Not working,High,Sometimes,Yes,ME/CFS
+70.0,Male,7.0,7.0,4.0,1.0,13.0,8.8,34.0,9.0,1.0,Working,High,Rarely,Yes,Both
+29.0,Female,4.0,5.0,5.0,8.0,4.0,5.1,12.0,5.6,1.0,Partially working,Medium,Rarely,No,ME/CFS
+34.0,Female,10.0,5.0,9.0,9.0,14.0,6.8,11.0,9.2,1.0,Working,Very low,Sometimes,Yes,Both
+25.0,Male,5.0,7.0,5.0,4.0,10.0,3.6,38.0,5.7,0.0,Partially working,Very High,Daily,Yes,Depression
+48.0,Male,1.0,8.0,10.0,10.0,22.0,8.6,15.0,9.5,1.0,Partially working,Low,Daily,No,Both
+28.0,Female,9.0,3.0,10.0,6.0,26.0,7.2,46.0,4.6,1.0,Not working,High,Sometimes,No,Both
+32.0,Female,10.0,10.0,5.0,9.0,24.0,4.2,16.0,7.6,0.0,Partially working,Low,Rarely,Yes,Depression
+53.0,Male,4.0,10.0,8.0,9.0,23.0,7.0,15.0,0.6,1.0,Not working,Very High,Never,No,Both
+46.0,Male,9.0,10.0,1.0,3.0,10.0,9.6,29.0,6.3,1.0,Working,Very low,Rarely,Yes,ME/CFS
+27.0,Female,5.0,4.0,10.0,6.0,10.0,8.1,7.0,5.5,1.0,Partially working,High,Rarely,No,Both
+32.0,Female,3.0,2.0,5.0,1.0,9.0,8.4,38.0,6.9,1.0,Not working,Low,Sometimes,No,ME/CFS
+18.0,Female,5.4,3.0,8.0,6.0,22.0,7.9,6.0,6.4,1.0,Working,High,Sometimes,No,Both
+69.0,Female,7.0,8.0,1.0,3.0,13.0,9.2,38.0,1.3,1.0,Partially working,Very High,Daily,No,ME/CFS
+19.0,Female,2.0,10.0,10.0,2.0,15.0,3.2,29.0,3.4,0.0,Not working,Low,Daily,Yes,Depression
+24.0,Male,4.0,1.0,4.0,4.0,12.0,8.6,21.0,9.5,0.0,Working,Low,Often,No,Depression
+53.0,Male,2.0,4.0,6.0,7.0,3.0,5.7,44.0,5.0,1.0,Partially working,Medium,Daily,Yes,ME/CFS
+60.0,Male,6.0,5.0,6.0,5.0,9.0,5.5,8.0,8.1,0.0,Partially working,Medium,Rarely,Yes,ME/CFS
+40.0,Female,6.0,2.0,10.0,9.0,9.0,9.4,38.0,2.7,1.0,Working,High,Sometimes,No,Both
+53.0,Female,9.0,3.0,3.0,9.0,6.0,7.2,5.0,7.7,1.0,Not working,Medium,Often,No,ME/CFS
+52.0,Male,4.0,7.0,1.0,6.0,18.0,3.9,24.7,5.3,0.0,Partially working,Medium,Often,Yes,Depression
+26.0,Male,7.0,1.0,8.0,9.0,12.0,2.7,8.0,9.3,0.0,Partially working,High,Never,No,Depression
+28.0,Female,5.0,7.0,4.0,8.0,11.0,3.3,48.0,4.2,0.0,Working,Low,Never,No,Depression
+35.0,Male,6.0,2.0,6.0,10.0,15.0,6.6,23.0,8.0,0.0,Not working,Very low,Sometimes,Yes,ME/CFS
+66.0,Male,8.0,8.0,9.0,4.0,6.0,7.5,22.0,7.4,1.0,Working,Medium,Often,No,ME/CFS
+37.0,Male,6.0,9.0,4.0,6.0,24.0,8.9,1.0,8.7,0.0,Working,Low,Never,Yes,Depression
+31.0,Male,2.0,7.0,5.4,7.0,8.0,5.9,23.0,6.0,1.0,Working,Medium,Daily,Yes,ME/CFS
+24.0,Male,6.0,3.0,1.0,2.0,26.0,7.1,19.0,2.5,1.0,Not working,Low,Never,No,Both
+40.0,Male,2.0,4.0,4.0,2.0,9.0,3.6,36.0,3.7,0.0,Partially working,Very low,Often,Yes,Depression
+38.0,Female,8.0,2.0,10.0,8.0,14.0,6.7,17.0,5.1,0.6,Not working,Low,Often,Yes,ME/CFS
+23.0,Female,10.0,4.0,1.0,4.0,12.0,5.1,46.0,7.4,1.0,Not working,Very High,Often,Yes,ME/CFS
+37.0,Male,7.0,10.0,10.0,7.0,10.0,7.4,41.0,2.9,1.0,Not working,Very High,Never,Yes,Both
+24.0,Female,10.0,5.6,1.0,4.0,14.0,7.2,3.0,10.0,1.0,Working,Low,Never,No,ME/CFS
+53.0,Female,1.0,3.0,7.0,4.0,24.0,6.8,19.0,9.0,0.0,Partially working,Low,Never,Yes,Depression
+54.0,Male,1.0,8.0,9.0,1.0,19.0,6.4,0.0,8.8,0.0,Working,Very low,Rarely,Yes,Depression
+63.0,Male,5.0,6.0,9.0,5.0,9.0,6.0,6.0,3.0,1.0,Not working,Very low,Often,No,ME/CFS
+35.0,Female,2.0,6.0,4.0,10.0,9.0,7.3,44.0,5.1,1.0,Working,Very High,Never,Yes,ME/CFS
+58.0,Female,5.0,5.0,4.0,5.0,17.0,9.2,43.0,6.5,1.0,Working,Low,Sometimes,No,Both
+67.0,Female,7.0,10.0,10.0,1.0,13.0,8.1,9.0,9.7,0.0,Partially working,Very low,Sometimes,Yes,Depression
+56.0,Female,6.0,7.0,8.0,9.0,21.0,7.8,8.0,5.1,0.0,Not working,Low,Rarely,Yes,Depression
+64.0,Male,3.0,7.0,5.0,9.0,25.0,7.0,40.0,8.7,1.0,Working,Low,Sometimes,No,Both
+24.0,Female,2.0,4.0,1.0,3.0,7.0,9.1,10.0,9.9,1.0,Not working,Medium,Never,Yes,ME/CFS
+54.0,Male,7.0,7.0,1.0,9.0,19.0,6.5,5.0,6.3,0.6,Partially working,High,Sometimes,Yes,Both
+44.0,Male,5.0,2.0,4.0,4.0,18.0,2.5,13.0,5.3,1.0,Working,Low,Often,No,Depression
+33.0,Male,8.0,5.0,8.0,4.0,22.0,5.2,2.0,6.6,0.0,Partially working,Medium,Daily,No,Depression
+59.0,Female,4.0,6.0,7.0,10.0,10.0,7.0,25.0,5.9,1.0,Partially working,Low,Rarely,Yes,Both
+44.0,Male,3.0,5.0,7.0,5.5,16.0,2.7,33.0,6.7,0.0,Partially working,Very low,Never,No,Depression
+46.0,Male,1.0,8.0,2.0,9.0,11.0,7.3,49.0,3.7,1.0,Partially working,Low,Rarely,No,ME/CFS
+61.0,Female,10.0,5.0,4.0,8.0,8.0,3.5,34.0,5.5,0.0,Not working,Very low,Often,Yes,Depression
+22.0,Male,2.0,7.0,1.0,5.0,8.0,2.3,30.0,4.9,0.0,Partially working,Low,Often,Yes,Depression
+61.0,Male,4.0,7.0,8.0,2.0,15.0,6.9,33.0,7.3,0.6,Not working,Low,Often,No,ME/CFS
+61.0,Male,5.0,7.0,7.0,1.0,10.0,10.0,22.0,9.4,1.0,Partially working,High,Sometimes,Yes,Both
+63.0,Female,7.0,4.0,4.0,2.0,7.0,8.0,1.0,5.1,1.0,Not working,Low,Rarely,Yes,ME/CFS
+29.0,Female,1.0,8.0,6.0,6.0,16.0,3.9,42.0,7.9,0.0,Partially working,Very low,Sometimes,No,Depression
+65.0,Female,5.0,1.0,8.0,10.0,5.0,5.8,28.0,3.5,0.0,Working,Very High,Daily,No,ME/CFS
+55.0,Male,1.0,7.0,3.0,10.0,10.0,7.7,24.0,8.4,1.0,Partially working,Very High,Daily,No,ME/CFS
+51.0,Male,8.0,1.0,10.0,10.0,22.0,8.8,18.0,4.8,1.0,Not working,High,Daily,No,Both
+46.0,Male,7.0,5.0,5.0,10.0,17.0,8.3,36.0,8.2,1.0,Working,Medium,Never,Yes,Both
+30.0,Male,10.0,8.0,5.4,4.0,12.0,4.9,21.0,2.5,0.0,Not working,Very low,Never,Yes,Depression
+23.0,Female,7.0,1.0,9.0,1.0,22.0,7.2,41.0,3.6,0.0,Working,Very low,Rarely,No,Depression
+56.0,Female,5.0,10.0,4.0,5.0,17.0,5.4,30.0,5.5,1.0,Partially working,Very High,Daily,No,Depression
+40.0,Female,5.0,3.0,1.0,4.0,19.0,6.1,25.0,0.6,1.0,Working,Medium,Rarely,No,Both
+52.0,Female,9.0,5.6,6.0,7.0,3.0,6.7,2.0,5.2,1.0,Working,High,Rarely,No,ME/CFS
+63.0,Female,7.0,7.0,10.0,3.0,19.0,8.6,28.0,2.0,1.0,Working,High,Never,Yes,Both
+59.0,Female,1.0,10.0,7.0,7.0,9.0,7.3,30.0,6.4,1.0,Not working,Very High,Rarely,No,Both
+21.0,Male,7.0,8.0,7.0,8.0,14.0,6.1,19.0,9.2,1.0,Working,Very low,Never,Yes,ME/CFS
+62.0,Male,6.0,3.0,6.0,3.0,11.0,5.5,27.0,9.0,0.0,Not working,Very low,Rarely,No,Depression
+24.0,Female,7.0,6.0,5.0,6.0,8.0,5.3,9.0,9.7,0.0,Partially working,Medium,Daily,No,Depression
+29.0,Female,3.0,3.0,10.0,10.0,9.0,5.8,49.0,2.4,1.0,Working,Very low,Often,Yes,ME/CFS
+21.0,Female,5.0,2.0,2.0,10.0,9.0,8.2,16.0,9.7,1.0,Partially working,Very low,Daily,Yes,ME/CFS
+28.0,Female,6.0,10.0,4.0,8.0,3.0,6.9,4.0,9.4,0.0,Working,Low,Sometimes,No,ME/CFS
+26.0,Female,6.0,4.0,9.0,1.0,5.0,9.0,5.0,1.6,1.0,Partially working,Low,Sometimes,Yes,ME/CFS
+21.0,Male,2.0,4.0,1.0,6.0,9.0,3.3,39.0,8.0,0.0,Not working,Low,Daily,No,Depression
+25.0,Male,10.0,6.0,5.0,10.0,14.0,8.9,22.0,8.4,1.0,Working,Very High,Rarely,No,ME/CFS
+19.0,Female,3.0,4.0,8.0,8.0,11.0,7.0,1.0,0.6,0.0,Partially working,Very low,Never,Yes,Depression
+34.0,Female,5.0,3.0,9.0,8.0,4.0,7.7,4.0,8.4,1.0,Partially working,Medium,Sometimes,No,ME/CFS
+59.0,Male,10.0,7.0,4.0,4.0,11.0,2.5,6.0,4.3,0.0,Working,High,Sometimes,No,Depression
+42.0,Male,4.0,1.0,4.0,1.0,17.0,9.1,20.0,4.5,1.0,Not working,Low,Often,Yes,Both
+25.0,Male,9.0,10.0,7.0,5.0,24.0,6.7,34.0,7.4,0.0,Working,Very low,Never,No,Depression
+54.0,Male,6.0,8.0,6.0,4.0,14.0,7.4,3.0,0.4,1.0,Not working,Medium,Rarely,Yes,ME/CFS
+48.0,Female,7.0,8.0,3.0,5.0,19.0,7.0,24.7,9.7,1.0,Not working,Low,Never,No,Both
+32.0,Female,5.0,9.0,10.0,4.0,22.0,6.9,35.0,1.6,0.0,Partially working,Low,Rarely,No,Depression
+24.0,Male,4.0,8.0,2.0,3.0,17.0,3.2,24.7,3.4,0.0,Partially working,Very low,Daily,No,Depression
+63.0,Male,1.0,4.0,1.0,7.0,15.0,7.1,48.0,0.6,1.0,Not working,High,Often,Yes,ME/CFS
+47.0,Female,8.0,6.0,7.0,1.0,13.6,9.3,17.0,2.9,0.0,Working,Medium,Rarely,No,ME/CFS
+26.0,Female,9.0,7.0,6.0,5.0,19.0,4.7,31.0,9.8,0.0,Not working,Medium,Sometimes,No,Depression
+30.0,Female,4.0,2.0,1.0,6.0,24.0,5.1,12.0,3.1,0.0,Working,Low,Rarely,Yes,Depression
+68.0,Male,5.0,3.0,2.0,3.0,23.0,9.7,24.7,7.0,1.0,Not working,Medium,Often,Yes,Both
+25.0,Female,8.0,3.0,5.4,6.0,14.0,9.4,8.0,5.6,0.0,Partially working,Low,Never,Yes,ME/CFS
+59.0,Male,6.0,7.0,9.0,1.0,14.0,9.7,11.0,8.7,1.0,Working,Medium,Rarely,Yes,ME/CFS
+31.0,Female,3.0,1.0,3.0,5.0,12.0,6.4,7.0,9.8,0.0,Partially working,Very High,Rarely,No,ME/CFS
+60.0,Female,9.0,1.0,5.0,7.0,12.0,5.0,8.0,1.7,0.6,Working,High,Often,No,ME/CFS
+60.0,Female,9.0,4.0,5.0,8.0,14.0,3.7,34.0,8.4,0.0,Partially working,High,Daily,Yes,Depression
+66.0,Male,10.0,9.0,1.0,2.0,5.0,8.8,37.0,4.1,1.0,Working,Low,Daily,No,ME/CFS
+58.0,Male,6.0,9.0,1.0,8.0,17.0,8.3,47.0,4.0,0.0,Partially working,Low,Rarely,Yes,Both
+40.0,Male,8.0,2.0,4.0,3.0,8.0,9.9,48.0,0.5,1.0,Working,Medium,Sometimes,Yes,ME/CFS
+68.0,Male,7.0,3.0,4.0,7.0,2.0,6.4,0.0,0.1,1.0,Not working,Very High,Rarely,No,ME/CFS
+40.0,Male,5.0,7.0,6.0,9.0,3.0,6.8,0.0,9.2,1.0,Working,Very High,Never,No,ME/CFS
+43.0,Male,1.0,9.0,3.0,3.0,14.0,8.4,30.0,5.4,1.0,Partially working,Very low,Never,No,ME/CFS
+27.0,Male,1.0,6.0,5.0,5.0,24.0,6.8,24.0,9.0,1.0,Not working,Very low,Sometimes,No,Both
+49.0,Male,2.0,1.0,3.0,4.0,20.0,8.9,25.0,0.6,1.0,Partially working,Very low,Never,No,Both
+40.0,Female,9.0,6.0,7.0,8.0,11.0,9.1,38.0,6.7,1.0,Not working,Very low,Daily,Yes,ME/CFS
+34.0,Female,8.0,5.0,5.0,5.0,26.0,9.5,33.0,3.6,1.0,Partially working,High,Daily,No,Both
+32.0,Female,8.0,7.0,9.0,7.0,4.0,5.1,44.0,0.8,1.0,Working,Very High,Daily,No,ME/CFS
+22.0,Male,7.0,1.0,3.0,4.0,13.0,7.2,14.0,8.0,0.0,Not working,High,Never,No,ME/CFS
+57.0,Female,10.0,1.0,8.0,5.0,21.0,9.0,45.0,3.8,1.0,Partially working,Low,Often,Yes,Depression
+61.0,Male,10.0,7.0,4.0,8.0,15.0,5.1,44.0,4.0,1.0,Not working,Very High,Sometimes,Yes,ME/CFS
+30.0,Female,4.0,6.0,1.0,9.0,25.0,6.9,40.0,7.6,1.0,Partially working,Very low,Rarely,Yes,Both
+24.0,Male,6.0,2.0,9.0,7.0,11.0,7.8,36.0,6.2,1.0,Not working,Very High,Often,No,Both
+41.0,Male,7.0,4.0,3.0,1.0,21.0,8.9,20.0,3.3,0.0,Not working,High,Daily,No,Depression
+34.0,Female,10.0,5.6,7.0,9.0,12.0,5.2,15.0,5.6,0.0,Not working,Medium,Rarely,Yes,ME/CFS
+20.0,Female,9.0,8.0,8.0,1.0,13.0,8.9,17.0,7.4,1.0,Partially working,Very low,Rarely,Yes,Both
+37.0,Male,2.0,1.0,2.0,8.0,8.0,7.8,19.0,0.2,0.0,Working,High,Often,No,ME/CFS
+48.0,Female,9.0,5.0,8.0,9.0,11.0,3.1,24.0,9.7,1.0,Not working,Low,Often,Yes,Depression
+63.0,Male,6.0,9.0,4.0,7.0,13.0,3.6,44.0,0.8,0.0,Working,Low,Rarely,Yes,Depression
+21.0,Male,9.0,10.0,6.0,7.0,19.0,8.0,23.0,4.7,1.0,Working,Very High,Daily,No,Both
+44.0,Female,7.0,7.0,1.0,5.5,14.0,4.5,1.0,8.6,1.0,Partially working,Very High,Sometimes,No,Depression
+51.0,Male,5.0,7.0,3.0,6.0,9.0,6.4,30.0,10.0,1.0,Not working,Very High,Rarely,No,ME/CFS
+54.0,Female,5.0,8.0,2.0,5.0,14.0,8.1,5.0,0.7,1.0,Working,Low,Often,No,ME/CFS
+57.0,Female,2.0,1.0,7.0,3.0,14.0,8.3,15.0,3.8,0.0,Not working,Very low,Sometimes,Yes,Depression
+47.0,Female,4.0,5.0,4.0,10.0,20.0,7.1,23.0,5.8,1.0,Working,Very low,Sometimes,Yes,Both
+32.0,Female,7.0,10.0,9.0,7.0,24.0,7.6,9.0,7.9,1.0,Partially working,Very High,Sometimes,No,Both
+34.0,Male,1.0,5.6,5.4,10.0,25.0,3.4,42.0,6.6,0.0,Partially working,Very low,Rarely,Yes,Depression
+55.0,Male,9.0,5.0,8.0,2.0,16.0,9.0,28.0,3.9,1.0,Working,Very High,Often,Yes,Both
+33.0,Female,9.0,3.0,1.0,9.0,14.0,7.5,18.0,4.5,0.0,Working,Medium,Often,Yes,Depression
+51.0,Female,8.0,2.0,4.0,8.0,9.0,8.7,16.0,7.0,0.0,Not working,Low,Daily,Yes,ME/CFS
+45.0,Female,10.0,7.0,6.0,2.0,2.0,7.4,42.0,0.7,1.0,Partially working,Medium,Daily,Yes,ME/CFS
+64.0,Female,7.0,2.0,9.0,1.0,19.0,7.3,50.0,3.9,0.0,Working,Very low,Never,Yes,Depression
+66.0,Female,9.0,5.0,7.0,3.0,15.0,3.5,18.0,7.7,0.0,Working,High,Never,Yes,Depression
+32.0,Male,9.0,10.0,7.0,8.0,12.0,5.8,35.0,9.1,1.0,Working,Very High,Never,No,ME/CFS
+21.0,Male,8.0,6.0,2.0,7.0,7.0,5.4,44.0,7.2,1.0,Working,Medium,Often,No,ME/CFS
+68.0,Male,10.0,9.0,1.0,1.0,16.0,7.7,39.0,5.3,1.0,Working,Very low,Rarely,Yes,Both
+42.0,Male,9.0,7.0,6.0,5.0,17.0,6.5,16.0,4.1,1.0,Not working,Medium,Often,Yes,Both
+34.0,Male,6.0,6.0,4.0,5.0,15.0,7.0,41.0,0.2,1.0,Not working,Very High,Never,No,ME/CFS
+33.0,Male,5.0,4.0,8.0,2.0,3.0,8.8,1.0,3.2,1.0,Not working,Very High,Daily,Yes,ME/CFS
+40.0,Male,7.0,2.0,5.0,6.0,24.0,2.9,1.0,9.9,0.0,Working,Low,Sometimes,No,Depression
+28.0,Male,9.0,9.0,9.0,6.0,13.0,9.5,48.0,8.1,1.0,Working,Very low,Sometimes,Yes,Both
+57.0,Female,6.0,1.0,6.0,4.0,22.0,8.2,41.0,0.7,0.0,Partially working,High,Sometimes,No,Depression
+62.0,Female,10.0,10.0,7.0,10.0,13.0,7.6,0.0,9.5,0.0,Not working,Medium,Often,No,Depression
+54.0,Male,10.0,2.0,4.0,8.0,11.0,8.3,40.0,1.6,0.0,Not working,Medium,Never,No,ME/CFS
+32.0,Male,5.0,9.0,1.0,5.0,15.0,5.3,13.0,4.7,1.0,Not working,Low,Never,Yes,ME/CFS
+25.0,Female,7.0,5.0,2.0,2.0,20.0,6.8,34.0,8.8,0.0,Partially working,Low,Never,Yes,Depression
+52.0,Female,4.0,10.0,4.0,4.0,13.6,6.4,18.0,7.0,1.0,Partially working,Very High,Never,No,ME/CFS
+32.0,Male,1.0,6.0,9.0,5.0,16.0,9.2,41.0,1.2,1.0,Not working,Very High,Sometimes,No,Both
+39.0,Male,5.4,9.0,5.0,3.0,6.0,6.0,38.0,0.2,0.0,Not working,Very low,Rarely,No,ME/CFS
+53.0,Male,6.0,8.0,9.0,3.0,5.0,9.0,29.0,7.1,1.0,Working,Medium,Rarely,Yes,ME/CFS
+55.0,Male,5.0,3.0,4.0,4.0,7.0,5.5,21.0,9.2,0.0,Not working,High,Never,No,ME/CFS
+25.0,Female,8.0,2.0,3.0,5.5,17.0,7.9,24.0,3.5,1.0,Working,Very low,Rarely,No,Both
+33.0,Female,5.0,10.0,9.0,10.0,5.0,7.8,19.0,0.2,1.0,Partially working,Low,Never,No,ME/CFS
+44.0,Male,6.0,6.0,9.0,3.0,3.0,5.5,2.0,4.4,1.0,Working,Low,Rarely,No,ME/CFS
+69.0,Female,3.0,1.0,2.0,3.0,4.0,7.5,16.0,3.9,1.0,Working,Medium,Never,Yes,ME/CFS
+56.0,Female,4.0,10.0,3.0,9.0,9.0,4.9,23.0,5.1,0.0,Partially working,Medium,Often,No,Depression
+42.0,Female,1.0,7.0,9.0,2.0,17.0,6.4,23.0,4.0,1.0,Not working,Very High,Rarely,No,Both
+66.0,Female,5.0,4.0,8.0,2.0,16.0,8.4,35.0,0.9,0.0,Partially working,Very low,Rarely,Yes,Depression
+61.0,Male,10.0,4.0,6.0,9.0,15.0,7.8,35.0,1.3,0.0,Working,Medium,Often,No,Depression
+28.0,Male,2.0,3.0,6.0,6.0,4.0,7.6,33.0,6.3,1.0,Working,Medium,Rarely,Yes,ME/CFS
+69.0,Female,2.0,10.0,1.0,8.0,13.0,6.3,27.0,7.4,1.0,Not working,Very low,Daily,Yes,Depression
+53.0,Male,7.0,6.0,4.0,6.0,10.0,4.7,32.0,3.8,0.0,Partially working,High,Daily,No,Depression
+30.0,Female,10.0,6.0,7.0,6.0,11.0,8.1,42.0,2.9,0.0,Not working,Low,Never,No,Depression
+18.0,Female,1.0,6.0,9.0,2.0,24.0,7.3,36.0,4.8,0.0,Working,Low,Never,No,Both
+35.0,Male,5.0,5.0,1.0,3.0,12.0,7.0,5.0,3.3,1.0,Working,Very High,Sometimes,Yes,ME/CFS
+27.0,Female,9.0,8.0,1.0,4.0,17.0,6.2,8.0,5.2,0.0,Partially working,Low,Daily,No,Depression
+43.0,Male,9.0,7.0,8.0,1.0,25.0,8.5,11.0,4.8,1.0,Not working,High,Sometimes,No,Both
+47.0,Female,7.0,1.0,10.0,5.0,15.0,7.4,15.0,6.5,0.0,Partially working,Very High,Sometimes,No,Depression
+46.0,Female,8.0,3.0,8.0,6.0,13.0,7.0,50.0,9.5,1.0,Not working,Very low,Often,Yes,ME/CFS
+57.0,Male,8.0,6.0,1.0,3.0,5.0,9.2,23.0,6.1,1.0,Not working,High,Often,No,ME/CFS
+34.0,Female,10.0,4.0,2.0,4.0,11.0,7.6,25.0,6.1,1.0,Partially working,Very low,Often,No,ME/CFS
+51.0,Male,5.0,2.0,1.0,5.0,15.0,9.6,44.0,1.2,1.0,Partially working,Medium,Never,No,Both
+47.0,Female,1.0,4.0,10.0,10.0,24.0,2.7,6.0,1.9,0.0,Not working,Very High,Often,Yes,Depression
+60.0,Male,4.0,2.0,4.0,3.0,12.0,5.0,49.0,6.6,1.0,Working,Very low,Never,Yes,ME/CFS
+41.0,Male,7.0,5.0,5.0,1.0,19.0,2.9,28.0,4.7,0.0,Working,Very High,Sometimes,Yes,Depression
+63.0,Female,6.0,8.0,10.0,1.0,5.0,9.3,9.0,0.1,1.0,Partially working,Very High,Often,Yes,ME/CFS
+41.0,Female,4.0,2.0,6.0,10.0,11.0,9.0,2.0,1.5,0.0,Partially working,Very High,Sometimes,No,Depression
+27.0,Male,1.0,6.0,3.0,7.0,16.0,4.4,24.0,5.9,0.0,Partially working,Very low,Daily,Yes,Depression
+25.0,Male,1.0,8.0,2.0,3.0,14.0,8.1,12.0,2.0,1.0,Working,Very low,Rarely,No,ME/CFS
+38.0,Female,3.0,9.0,1.0,2.0,5.0,8.3,7.0,5.9,1.0,Working,Very High,Never,No,ME/CFS
+18.0,Male,5.0,3.0,10.0,10.0,7.0,7.9,1.0,4.1,1.0,Not working,Very High,Sometimes,Yes,ME/CFS
+49.0,Male,6.0,8.0,1.0,4.0,6.0,8.1,22.0,1.6,1.0,Working,Low,Daily,Yes,ME/CFS
+55.0,Male,6.0,3.0,8.0,3.0,13.6,2.9,16.0,7.3,1.0,Working,Very High,Daily,Yes,Depression
+54.0,Female,2.0,3.0,5.0,7.0,10.0,9.3,50.0,8.9,1.0,Not working,Medium,Rarely,No,Both
+24.0,Male,6.0,1.0,5.0,9.0,7.0,9.0,37.0,1.1,1.0,Partially working,Low,Daily,No,ME/CFS
+30.0,Female,6.0,7.0,7.0,4.0,3.0,8.0,38.0,1.7,1.0,Partially working,High,Sometimes,No,ME/CFS
+48.0,Male,5.0,6.0,5.0,6.0,17.0,8.2,24.0,5.1,0.0,Working,Low,Rarely,Yes,Depression
+68.0,Female,1.0,3.0,3.0,5.0,12.0,4.3,32.0,4.5,0.0,Not working,Medium,Never,No,Depression
+53.0,Female,3.0,2.0,10.0,4.0,14.0,7.3,41.0,5.1,1.0,Working,High,Sometimes,Yes,Both
+58.0,Male,3.0,4.0,6.0,9.0,9.0,5.4,23.0,9.5,0.0,Working,Low,Daily,Yes,Depression
+34.0,Female,9.0,8.0,6.0,7.0,14.0,6.7,11.0,6.7,1.0,Partially working,Medium,Often,Yes,ME/CFS
+65.0,Female,2.0,8.0,10.0,6.0,24.0,9.1,35.0,3.6,1.0,Working,High,Sometimes,Yes,Both
+53.0,Male,4.0,1.0,5.0,7.0,4.0,9.1,22.0,6.9,1.0,Partially working,Low,Sometimes,Yes,ME/CFS
+58.0,Female,3.0,5.0,7.0,8.0,19.0,9.2,7.0,5.6,1.0,Partially working,Medium,Never,Yes,Both
+39.0,Male,10.0,4.0,7.0,8.0,3.0,8.8,13.0,6.4,1.0,Not working,Low,Daily,Yes,ME/CFS
+27.0,Female,3.0,8.0,7.0,5.0,21.0,7.0,44.0,5.4,1.0,Working,Low,Sometimes,Yes,Depression
+23.0,Male,3.0,4.0,9.0,3.0,9.0,9.7,33.0,1.0,1.0,Partially working,Very High,Sometimes,No,ME/CFS
+38.0,Female,8.0,8.0,2.0,3.0,25.0,2.3,17.0,0.4,0.0,Not working,Very low,Often,Yes,Depression
+61.0,Male,3.0,9.0,10.0,6.0,9.0,9.4,35.0,1.0,1.0,Working,Low,Daily,No,Both
+61.0,Male,8.0,7.0,3.0,4.0,11.0,7.8,28.0,4.0,1.0,Not working,Very low,Often,No,ME/CFS
+70.0,Female,2.0,2.0,9.0,5.0,3.0,9.2,25.0,0.0,1.0,Partially working,High,Sometimes,No,ME/CFS
+18.0,Male,5.4,10.0,9.0,6.0,10.0,3.9,17.0,9.8,0.0,Partially working,Medium,Never,Yes,Depression
+33.0,Male,6.0,8.0,3.0,8.0,13.0,8.8,30.0,7.2,1.0,Not working,Very High,Often,Yes,ME/CFS
+47.0,Male,7.0,10.0,7.0,5.0,14.0,8.9,22.0,6.1,0.0,Partially working,High,Daily,Yes,ME/CFS
+46.0,Male,1.0,3.0,8.0,4.0,6.0,5.9,9.0,1.2,1.0,Working,Very low,Often,Yes,ME/CFS
+66.0,Male,2.0,10.0,3.0,7.0,14.0,4.8,38.0,7.0,0.0,Not working,High,Rarely,No,Depression
+60.0,Female,3.0,4.0,4.0,7.0,22.0,8.3,26.0,7.4,1.0,Not working,Low,Rarely,Yes,Both
+23.0,Male,8.0,3.0,6.0,9.0,8.0,7.0,24.0,3.9,1.0,Working,Very High,Often,Yes,ME/CFS
+42.0,Male,5.0,10.0,6.0,2.0,25.0,8.5,44.0,7.8,0.0,Partially working,Low,Sometimes,Yes,Depression
+22.0,Female,4.0,2.0,9.0,3.0,8.0,6.3,12.0,2.9,1.0,Partially working,High,Rarely,No,ME/CFS
+27.0,Female,4.0,10.0,8.0,3.0,15.0,9.5,44.0,7.0,1.0,Working,Medium,Daily,No,ME/CFS
+67.0,Female,7.0,7.0,8.0,4.0,16.0,9.4,42.0,9.6,1.0,Working,Low,Never,No,Both
+21.0,Male,7.0,5.0,6.0,5.0,24.0,9.0,14.0,2.6,1.0,Working,Medium,Never,Yes,Both
+34.0,Female,7.0,7.0,6.0,4.0,3.0,6.6,26.0,7.8,1.0,Not working,Very low,Sometimes,Yes,ME/CFS
+18.0,Male,5.0,2.0,8.0,10.0,14.0,7.5,7.0,0.2,1.0,Partially working,Very High,Daily,No,ME/CFS
+61.0,Female,9.0,1.0,9.0,8.0,14.0,4.9,8.0,3.8,0.0,Partially working,Very High,Never,Yes,Depression
+54.0,Female,1.0,9.0,2.0,2.0,8.0,7.0,34.0,7.5,1.0,Not working,High,Never,No,ME/CFS
+69.0,Male,2.0,3.0,10.0,7.0,19.0,6.9,21.0,9.2,0.0,Working,Medium,Often,No,Depression
+31.0,Male,10.0,8.0,1.0,10.0,3.0,7.2,48.0,0.4,1.0,Partially working,High,Rarely,Yes,ME/CFS
+50.0,Male,2.0,9.0,6.0,3.0,9.0,9.2,23.0,1.6,0.0,Not working,Low,Sometimes,Yes,Both
+28.0,Female,3.0,7.0,8.0,5.0,16.0,6.3,12.0,1.4,1.0,Partially working,Low,Never,No,Both
+21.0,Female,3.0,1.0,7.0,4.0,13.0,4.9,45.0,9.6,0.0,Not working,High,Sometimes,No,Depression
+37.0,Male,8.0,9.0,5.0,7.0,4.0,5.4,12.0,9.4,0.0,Partially working,High,Never,No,ME/CFS
+61.0,Male,8.0,4.0,1.0,5.0,11.0,5.5,24.0,3.4,1.0,Not working,Low,Rarely,No,ME/CFS
+65.0,Male,10.0,7.0,9.0,7.0,15.0,7.4,13.0,2.1,1.0,Partially working,Medium,Never,Yes,ME/CFS
+51.0,Female,2.0,1.0,2.0,7.0,12.0,8.8,1.0,1.8,1.0,Not working,Low,Sometimes,No,ME/CFS
+24.0,Male,10.0,5.0,8.0,10.0,17.0,8.0,37.0,3.1,0.0,Not working,High,Often,No,Depression
+60.0,Female,3.0,6.0,1.0,8.0,9.0,7.5,4.0,0.6,1.0,Working,Very low,Sometimes,Yes,ME/CFS
+47.0,Male,3.0,8.0,3.0,8.0,17.0,7.7,24.7,7.4,1.0,Not working,Medium,Daily,No,Depression
+62.0,Female,1.0,3.0,10.0,1.0,8.0,7.4,10.0,8.6,1.0,Working,Low,Never,Yes,ME/CFS
+20.0,Female,5.4,3.0,2.0,10.0,14.0,9.1,31.0,5.1,1.0,Working,Very low,Sometimes,Yes,Both
+25.0,Female,9.0,2.0,5.0,6.0,6.0,7.5,6.0,5.1,1.0,Working,High,Never,Yes,ME/CFS
+69.0,Male,8.0,10.0,2.0,9.0,15.0,7.9,8.0,6.8,0.0,Working,Very low,Often,Yes,ME/CFS
+36.0,Male,6.0,10.0,10.0,1.0,11.0,3.4,26.0,1.1,0.0,Not working,High,Often,No,Depression
+42.0,Female,6.0,10.0,5.0,5.0,5.0,9.0,4.0,4.5,1.0,Working,Very High,Often,No,ME/CFS
+39.0,Male,3.0,9.0,5.0,7.0,23.0,5.1,33.0,0.4,1.0,Not working,High,Daily,No,Depression
+36.0,Male,10.0,4.0,1.0,3.0,9.0,9.3,16.0,9.3,1.0,Working,Low,Rarely,Yes,ME/CFS
+37.0,Female,9.0,10.0,7.0,6.0,9.0,8.9,44.0,5.0,1.0,Working,Very High,Sometimes,Yes,ME/CFS
+20.0,Female,9.0,5.0,6.0,5.0,10.0,9.8,40.0,7.4,1.0,Partially working,Low,Rarely,Yes,ME/CFS
+29.0,Female,2.0,2.0,8.0,1.0,21.0,7.9,17.0,0.9,1.0,Not working,Medium,Daily,No,Both
+18.0,Male,9.0,10.0,3.0,7.0,13.6,8.6,49.0,2.6,0.0,Working,Very High,Daily,Yes,Both
+46.0,Female,4.0,8.0,5.0,8.0,2.0,6.0,11.0,1.8,1.0,Partially working,High,Daily,Yes,ME/CFS
+20.0,Male,5.4,5.0,5.0,6.0,13.0,9.7,21.0,6.8,1.0,Partially working,Very low,Rarely,No,ME/CFS
+41.0,Female,3.0,7.0,4.0,3.0,22.0,7.3,32.0,3.9,1.0,Partially working,High,Never,No,Both
+24.0,Male,9.0,6.0,2.0,7.0,18.0,3.7,2.0,3.6,1.0,Partially working,Medium,Sometimes,Yes,Depression
+35.0,Female,7.0,4.0,3.0,2.0,5.0,8.0,31.0,3.2,1.0,Working,High,Often,No,ME/CFS
+64.0,Female,7.0,6.0,7.0,1.0,13.6,2.5,12.0,1.8,1.0,Partially working,Very High,Rarely,No,Depression
+20.0,Male,10.0,1.0,1.0,1.0,5.0,5.7,8.0,5.8,1.0,Working,Very low,Sometimes,Yes,ME/CFS
+21.0,Female,7.0,10.0,3.0,5.0,7.0,8.7,8.0,1.5,1.0,Not working,Low,Often,Yes,ME/CFS
+42.0,Female,7.0,2.0,5.0,1.0,21.0,8.6,5.0,9.5,0.0,Working,High,Daily,No,Depression
+35.0,Male,2.0,3.0,6.0,7.0,14.0,3.0,19.0,0.9,0.0,Working,High,Rarely,No,Depression
+30.0,Male,1.0,10.0,6.0,8.0,4.0,5.7,25.0,3.0,1.0,Working,Low,Daily,No,ME/CFS
+61.0,Female,6.0,5.0,4.0,7.0,4.0,7.9,18.0,1.4,1.0,Partially working,Very High,Sometimes,Yes,ME/CFS
+57.0,Male,6.0,7.0,5.0,9.0,3.0,6.8,25.0,9.7,1.0,Not working,Low,Never,No,ME/CFS
+40.0,Female,5.0,8.0,4.0,8.0,13.0,8.8,48.0,7.3,1.0,Working,High,Daily,Yes,ME/CFS
+41.0,Female,1.0,2.0,2.0,1.0,4.0,9.5,14.0,3.6,1.0,Working,Very High,Sometimes,Yes,ME/CFS
+51.0,Male,2.0,4.0,8.0,9.0,13.6,7.6,9.0,8.6,0.0,Partially working,Medium,Sometimes,Yes,Depression
+60.0,Male,8.0,8.0,9.0,3.0,24.0,2.8,30.0,9.2,0.0,Not working,Low,Daily,Yes,Depression
+20.0,Female,1.0,8.0,3.0,4.0,8.0,4.3,13.0,3.3,0.0,Working,High,Often,No,Depression
+64.0,Male,2.0,4.0,3.0,9.0,9.0,3.2,15.0,9.3,1.0,Not working,Very low,Daily,Yes,Depression
+69.0,Female,10.0,4.0,4.0,6.0,9.0,9.5,2.0,6.6,1.0,Partially working,Medium,Rarely,Yes,Both
+48.0,Male,2.0,9.0,2.0,9.0,8.0,5.6,24.0,9.4,0.0,Working,Medium,Daily,Yes,Depression
+51.0,Male,10.0,5.0,3.0,2.0,12.0,5.3,41.0,8.8,0.0,Partially working,Very low,Never,No,ME/CFS
+20.0,Female,2.0,9.0,6.0,3.0,6.0,7.2,28.0,2.1,1.0,Not working,Low,Never,No,ME/CFS
+35.0,Female,9.0,10.0,10.0,9.0,13.6,6.2,29.0,2.7,1.0,Working,Low,Rarely,No,ME/CFS
+48.0,Female,5.0,7.0,5.4,2.0,25.0,7.0,6.0,1.9,0.0,Working,Medium,Often,Yes,Depression
+26.0,Male,4.0,1.0,9.0,8.0,9.0,6.3,42.0,3.8,1.0,Not working,Medium,Sometimes,No,ME/CFS
+23.0,Male,5.0,8.0,6.0,3.0,25.0,6.3,46.0,1.6,0.0,Not working,Very low,Rarely,No,Depression
+45.0,Male,4.0,5.0,4.0,6.0,5.0,6.8,4.0,5.0,0.0,Working,Very low,Never,Yes,ME/CFS
+51.0,Male,9.0,10.0,1.0,3.0,7.0,8.1,12.0,2.1,1.0,Not working,High,Rarely,Yes,ME/CFS
+41.0,Male,7.0,10.0,3.0,8.0,22.0,10.0,46.0,1.5,1.0,Partially working,Low,Daily,Yes,Both
+49.0,Male,1.0,8.0,7.0,9.0,22.0,8.8,24.7,8.1,0.0,Partially working,Very High,Sometimes,No,Both
+41.0,Female,10.0,7.0,4.0,1.0,13.0,6.8,44.0,6.5,1.0,Partially working,High,Daily,Yes,Both
+66.0,Male,9.0,4.0,10.0,5.0,12.0,9.6,1.0,2.9,1.0,Not working,Very High,Rarely,Yes,ME/CFS
+56.0,Male,10.0,1.0,10.0,4.0,21.0,7.7,37.0,2.4,1.0,Not working,High,Rarely,No,Both
+55.0,Female,7.0,5.6,10.0,10.0,18.0,4.1,41.0,5.1,0.0,Partially working,Very low,Sometimes,Yes,Depression
+46.0,Male,5.0,9.0,6.0,9.0,9.0,7.4,1.0,3.8,1.0,Working,High,Often,Yes,Both
+60.0,Female,10.0,4.0,4.0,4.0,9.0,3.0,28.0,0.4,0.0,Not working,Very low,Daily,No,Depression
+36.0,Male,5.0,4.0,10.0,5.0,9.0,9.3,2.0,3.8,1.0,Working,Low,Never,No,ME/CFS
+26.0,Male,1.0,2.0,5.0,6.0,11.0,5.4,33.0,7.0,1.0,Partially working,Medium,Never,No,ME/CFS
+56.0,Male,8.0,2.0,5.0,1.0,13.0,7.8,43.0,1.0,1.0,Partially working,Medium,Rarely,Yes,Both
+61.0,Male,5.4,9.0,10.0,8.0,14.0,8.8,21.0,6.2,1.0,Working,Low,Rarely,No,Depression
+31.0,Female,5.0,5.0,6.0,4.0,10.0,9.1,49.0,2.4,1.0,Not working,Very low,Daily,No,Both
+37.0,Male,8.0,7.0,10.0,3.0,2.0,6.6,5.0,9.2,1.0,Working,Very High,Rarely,No,ME/CFS
+37.0,Male,8.0,7.0,2.0,5.0,25.0,7.1,30.0,7.8,1.0,Working,Low,Never,Yes,Both
+21.0,Male,9.0,2.0,5.0,7.0,10.0,6.8,13.0,6.3,0.0,Working,High,Daily,No,Depression
+38.0,Male,3.0,3.0,9.0,4.0,18.0,8.7,5.0,7.0,0.0,Working,Medium,Never,Yes,Both
+55.0,Female,5.0,7.0,4.0,1.0,23.0,9.6,24.7,9.6,1.0,Not working,Medium,Daily,No,Both
+53.0,Male,7.0,1.0,3.0,3.0,13.0,2.2,26.0,5.1,0.0,Partially working,Low,Often,Yes,Depression
+61.0,Male,4.0,5.0,4.0,7.0,8.0,4.5,17.0,4.6,1.0,Working,Medium,Never,No,Depression
+67.0,Male,6.0,9.0,9.0,2.0,20.0,4.2,35.0,9.8,0.0,Not working,High,Often,Yes,Depression
+54.0,Female,9.0,8.0,3.0,4.0,5.0,6.0,22.0,2.6,1.0,Working,High,Sometimes,Yes,ME/CFS
+56.0,Male,10.0,3.0,3.0,5.5,15.0,7.5,36.0,4.3,1.0,Partially working,Very High,Often,Yes,ME/CFS
+64.0,Female,2.0,5.0,7.0,7.0,16.0,8.7,16.0,9.0,0.0,Partially working,Low,Often,No,Depression
+28.0,Male,3.0,5.0,10.0,9.0,21.0,3.7,4.0,0.7,0.0,Partially working,Low,Sometimes,No,Depression
+45.0,Female,4.0,9.0,8.0,1.0,8.0,8.3,50.0,7.6,0.0,Partially working,Medium,Often,No,Depression
+28.0,Male,8.0,10.0,9.0,10.0,8.0,5.9,35.0,8.2,1.0,Partially working,Very low,Sometimes,No,ME/CFS
+54.0,Male,6.0,10.0,1.0,8.0,8.0,6.6,10.0,4.9,0.0,Not working,Very High,Often,Yes,ME/CFS
+30.0,Female,3.0,9.0,10.0,1.0,10.0,3.7,29.0,4.8,0.0,Not working,High,Daily,Yes,Depression
+62.0,Female,2.0,7.0,8.0,10.0,3.0,7.4,31.0,8.4,1.0,Partially working,Very High,Never,Yes,ME/CFS
+53.0,Female,8.0,9.0,10.0,8.0,19.0,9.9,14.0,8.2,1.0,Not working,Very High,Sometimes,No,Both
+56.0,Male,10.0,6.0,2.0,8.0,20.0,9.5,20.0,8.7,1.0,Working,Very High,Rarely,No,Both
+62.0,Male,8.0,10.0,8.0,10.0,13.0,9.3,49.0,7.4,1.0,Partially working,Very High,Daily,Yes,ME/CFS
+63.0,Male,5.0,9.0,1.0,1.0,6.0,5.1,30.0,5.5,1.0,Working,Very High,Daily,No,ME/CFS
+64.0,Female,5.0,8.0,9.0,10.0,19.0,9.4,35.0,7.5,1.0,Working,Medium,Never,Yes,Both
+55.0,Male,2.0,9.0,1.0,7.0,12.0,5.5,18.0,3.4,1.0,Working,High,Rarely,Yes,ME/CFS
+57.0,Female,5.0,1.0,2.0,4.0,2.0,6.2,20.0,4.8,1.0,Partially working,Low,Rarely,No,ME/CFS
+44.0,Female,10.0,1.0,6.0,2.0,8.0,5.0,3.0,7.0,0.0,Partially working,Very low,Often,No,Depression
+38.0,Female,7.0,6.0,10.0,3.0,17.0,9.3,5.0,6.3,1.0,Not working,Low,Never,No,Both
+70.0,Female,10.0,4.0,5.0,2.0,8.0,4.8,26.0,0.5,0.0,Partially working,Very low,Rarely,Yes,Depression
+28.0,Female,7.0,10.0,1.0,2.0,6.0,7.8,22.0,1.5,1.0,Partially working,Very High,Rarely,Yes,ME/CFS
+59.0,Male,2.0,6.0,3.0,3.0,16.0,2.8,23.0,6.1,0.0,Not working,Very low,Often,Yes,Depression
+60.0,Male,6.0,1.0,7.0,4.0,16.0,5.3,50.0,3.6,0.0,Partially working,Low,Sometimes,No,Depression
+23.0,Male,10.0,10.0,1.0,7.0,18.0,8.1,31.0,3.9,0.0,Not working,Low,Sometimes,Yes,Depression
+70.0,Male,1.0,10.0,3.0,3.0,8.0,3.8,7.0,8.5,0.0,Partially working,Very High,Daily,No,Depression
+40.0,Male,8.0,8.0,2.0,10.0,15.0,6.1,9.0,3.2,0.0,Not working,High,Never,No,ME/CFS
+43.0,Male,9.0,5.0,10.0,9.0,16.0,3.6,1.0,4.1,0.0,Working,Low,Sometimes,Yes,Depression
+65.0,Female,7.0,1.0,3.0,9.0,2.0,8.5,0.0,5.2,1.0,Working,Very High,Daily,Yes,ME/CFS
+38.0,Male,7.0,5.0,5.0,7.0,19.0,7.4,14.0,7.0,0.0,Working,High,Daily,Yes,Depression
+25.0,Female,1.0,2.0,9.0,10.0,17.0,9.1,49.0,5.9,1.0,Not working,Medium,Rarely,No,Both
+33.0,Female,5.0,2.0,6.0,6.0,20.0,8.1,46.0,4.0,0.0,Not working,High,Sometimes,No,Depression
+18.0,Male,8.0,5.6,5.0,4.0,11.0,9.7,41.0,0.9,1.0,Partially working,Very High,Never,No,Both
+22.0,Male,8.0,2.0,3.0,7.0,24.0,8.6,18.0,0.9,0.0,Not working,Very High,Rarely,No,Depression
+25.0,Male,2.0,8.0,2.0,5.0,15.0,5.8,18.0,8.5,0.0,Not working,High,Never,No,Depression
+40.0,Female,1.0,5.0,5.4,2.0,14.0,5.0,47.0,1.2,0.0,Partially working,Very low,Often,Yes,ME/CFS
+56.0,Female,4.0,5.6,8.0,1.0,20.0,9.9,50.0,8.0,1.0,Not working,Very low,Never,Yes,Both
+64.0,Male,10.0,8.0,7.0,7.0,25.0,2.8,9.0,9.6,0.0,Working,Medium,Sometimes,No,Depression
+56.0,Female,8.0,5.0,9.0,3.0,4.0,6.0,39.0,5.1,1.0,Working,Very High,Never,No,ME/CFS
+25.0,Female,4.0,2.0,7.0,2.0,19.0,2.9,27.0,4.4,0.0,Not working,Very High,Often,Yes,Depression
+21.0,Male,3.0,4.0,2.0,3.0,12.0,8.8,40.0,3.8,0.0,Partially working,Very low,Never,No,ME/CFS
+41.0,Male,1.0,7.0,5.0,4.0,15.0,6.3,23.0,5.0,1.0,Not working,Medium,Sometimes,No,ME/CFS
+32.0,Female,6.0,10.0,7.0,7.0,10.0,5.5,14.0,5.6,0.0,Partially working,Very High,Often,No,Depression
+22.0,Female,6.0,6.0,6.0,8.0,25.0,7.7,36.0,6.6,1.0,Working,Very High,Rarely,Yes,Both
+19.0,Female,7.0,4.0,5.0,5.0,11.0,7.0,49.0,0.4,1.0,Not working,Medium,Daily,No,ME/CFS
+69.0,Female,2.0,6.0,1.0,7.0,10.0,9.2,10.0,9.0,1.0,Working,Very High,Daily,No,ME/CFS
+24.0,Female,7.0,5.0,8.0,5.0,4.0,8.5,24.7,1.5,1.0,Not working,Very High,Often,No,ME/CFS
+53.0,Female,7.0,8.0,2.0,4.0,6.0,7.1,34.0,5.8,1.0,Partially working,Very High,Often,Yes,ME/CFS
+70.0,Female,5.0,3.0,9.0,10.0,21.0,9.0,39.0,9.5,1.0,Working,Medium,Never,Yes,Both
+54.0,Male,7.0,2.0,7.0,10.0,14.0,8.2,16.0,4.1,0.0,Working,Medium,Daily,Yes,Depression
+45.0,Male,6.0,3.0,4.0,3.0,14.0,7.9,33.0,3.7,1.0,Working,Very High,Often,No,ME/CFS
+21.0,Female,8.0,6.0,2.0,10.0,24.0,8.6,32.0,8.7,1.0,Working,Very low,Daily,No,Both
+18.0,Female,5.0,9.0,8.0,1.0,13.0,7.7,30.0,6.4,1.0,Working,High,Never,No,Both
+59.0,Male,10.0,1.0,5.0,8.0,15.0,3.9,21.0,6.2,0.0,Partially working,Very low,Daily,No,Depression
+48.0,Female,3.0,1.0,10.0,3.0,13.6,2.9,26.0,5.5,0.0,Not working,High,Daily,Yes,Depression
+67.0,Female,1.0,1.0,10.0,6.0,15.0,2.5,10.0,5.0,0.0,Partially working,Medium,Often,Yes,Depression
+22.0,Female,8.0,1.0,8.0,8.0,9.0,7.3,32.0,5.4,1.0,Working,Medium,Daily,No,ME/CFS
+42.0,Female,2.0,4.0,3.0,1.0,20.0,2.3,24.7,6.7,0.0,Not working,Low,Often,Yes,Depression
+51.0,Male,1.0,7.0,1.0,4.0,15.0,8.4,10.0,1.1,1.0,Partially working,High,Daily,No,ME/CFS
+31.0,Female,1.0,3.0,4.0,9.0,10.0,4.9,30.0,9.1,1.0,Partially working,Low,Often,No,Depression
+40.0,Male,2.0,1.0,10.0,9.0,9.0,6.5,47.0,2.9,0.0,Not working,Low,Rarely,No,Depression
+62.0,Female,8.0,7.0,2.0,1.0,12.0,5.7,15.0,3.0,1.0,Working,Very low,Sometimes,No,ME/CFS
+59.0,Male,2.0,6.0,5.0,5.0,19.0,3.0,40.0,1.0,0.0,Working,Very High,Never,No,Depression
+24.0,Male,10.0,7.0,5.0,7.0,24.0,9.1,45.0,9.5,1.0,Not working,Low,Rarely,No,Both
+41.0,Male,7.0,4.0,8.0,7.0,11.0,4.9,22.0,4.3,0.0,Partially working,Very High,Often,No,Depression
+63.0,Male,3.0,1.0,10.0,7.0,16.0,7.4,9.0,5.1,1.0,Not working,Medium,Sometimes,No,Depression
+65.0,Male,9.0,3.0,2.0,2.0,24.0,9.6,41.0,5.8,1.0,Partially working,Medium,Sometimes,No,Both
+62.0,Female,6.0,8.0,2.0,10.0,17.0,8.1,16.0,9.0,1.0,Not working,High,Daily,Yes,Both
+21.0,Male,3.0,8.0,5.0,3.0,20.0,5.9,8.0,9.6,0.0,Partially working,Low,Daily,No,Depression
+28.0,Female,9.0,1.0,3.0,8.0,2.0,7.6,6.0,3.1,1.0,Working,Very low,Never,No,ME/CFS
+38.0,Female,1.0,8.0,5.0,4.0,23.0,2.8,36.0,2.8,0.0,Working,Very low,Daily,No,Depression
+64.0,Male,5.4,6.0,3.0,10.0,25.0,8.9,22.0,3.4,1.0,Partially working,Very low,Often,No,Both
+54.0,Male,2.0,7.0,6.0,2.0,13.6,7.6,41.0,9.4,1.0,Working,High,Daily,No,ME/CFS
+30.0,Male,5.0,5.0,10.0,9.0,12.0,7.1,14.0,6.2,1.0,Not working,Low,Rarely,No,Both
+35.0,Male,9.0,9.0,9.0,10.0,12.0,8.1,33.0,4.8,1.0,Not working,Low,Rarely,No,ME/CFS
+35.0,Female,10.0,1.0,10.0,9.0,23.0,3.0,10.0,1.1,0.0,Not working,Medium,Rarely,Yes,Depression
+30.0,Female,10.0,10.0,8.0,5.0,11.0,3.4,13.0,1.1,0.0,Not working,High,Rarely,No,Depression
+35.0,Female,1.0,6.0,10.0,1.0,12.0,8.4,16.0,4.6,1.0,Not working,High,Often,Yes,ME/CFS
+45.0,Female,2.0,10.0,1.0,7.0,9.0,6.9,25.0,8.0,1.0,Not working,Medium,Sometimes,No,Both
+33.0,Female,7.0,8.0,9.0,4.0,14.0,7.5,45.0,8.6,0.0,Working,Low,Often,Yes,Both
+28.0,Male,5.0,3.0,8.0,5.0,9.0,6.6,5.0,9.1,1.0,Partially working,High,Never,Yes,ME/CFS
+29.0,Male,2.0,10.0,9.0,1.0,12.0,9.0,0.0,4.5,1.0,Working,Very low,Sometimes,Yes,Both
+47.0,Female,3.0,6.0,8.0,3.0,21.0,7.0,28.0,4.8,0.0,Partially working,High,Never,No,Depression
+67.0,Female,3.0,8.0,7.0,5.0,15.0,5.3,34.0,1.5,1.0,Partially working,Very High,Often,Yes,Depression
+54.0,Female,8.0,2.0,1.0,10.0,8.0,9.5,3.0,4.4,1.0,Not working,High,Never,No,ME/CFS
+47.0,Male,6.0,8.0,1.0,9.0,10.0,7.1,9.0,7.5,0.0,Not working,Medium,Often,No,Both
+42.0,Male,3.0,6.0,10.0,6.0,17.0,9.6,43.0,3.6,1.0,Not working,Low,Daily,No,Both
+27.0,Female,7.0,7.0,8.0,1.0,16.0,7.9,29.0,2.1,1.0,Working,Very High,Never,Yes,Both
+31.0,Female,2.0,10.0,9.0,6.0,2.0,7.0,37.0,5.1,1.0,Partially working,Low,Never,No,ME/CFS
+23.0,Female,2.0,3.0,7.0,10.0,12.0,9.4,50.0,1.3,0.0,Partially working,Very low,Sometimes,No,ME/CFS
+57.0,Female,10.0,2.0,5.0,1.0,14.0,9.3,12.0,4.1,1.0,Partially working,Very High,Often,No,Both
+36.0,Male,2.0,6.0,5.4,2.0,13.0,6.5,45.0,2.6,1.0,Partially working,Very High,Daily,Yes,ME/CFS
+32.0,Female,2.0,5.0,5.0,4.0,4.0,9.0,26.0,8.8,1.0,Partially working,Medium,Daily,No,ME/CFS
+53.0,Male,5.4,9.0,4.0,9.0,24.0,8.0,34.0,3.2,0.0,Partially working,High,Rarely,No,Both
+66.0,Male,5.0,1.0,9.0,9.0,7.0,5.1,40.0,7.7,1.0,Working,Very High,Daily,No,ME/CFS
+39.0,Female,1.0,10.0,8.0,2.0,23.0,8.2,10.0,9.8,1.0,Partially working,Low,Daily,Yes,Both
+70.0,Female,9.0,7.0,5.0,8.0,9.0,7.2,43.0,8.1,1.0,Working,High,Rarely,Yes,ME/CFS
+31.0,Female,4.0,2.0,9.0,4.0,14.0,8.1,6.0,0.4,0.0,Partially working,Very High,Never,No,ME/CFS
+57.0,Female,7.0,3.0,4.0,7.0,4.0,9.5,39.0,7.6,1.0,Not working,Very High,Daily,No,ME/CFS
+20.0,Female,3.0,8.0,6.0,10.0,24.0,2.4,6.0,0.6,0.0,Partially working,Very low,Rarely,No,Depression
+48.0,Male,8.0,1.0,3.0,7.0,13.0,6.6,0.0,0.9,1.0,Not working,High,Often,Yes,Depression
+68.0,Female,6.0,10.0,7.0,9.0,5.0,8.0,1.0,3.7,1.0,Not working,High,Sometimes,No,ME/CFS
+52.0,Male,6.0,10.0,5.4,4.0,21.0,6.3,1.0,3.8,0.0,Working,High,Sometimes,Yes,Both
+57.0,Female,5.0,3.0,9.0,8.0,11.0,7.7,11.0,5.5,1.0,Working,Very High,Sometimes,Yes,ME/CFS
+25.0,Female,2.0,9.0,7.0,3.0,7.0,8.3,20.0,2.2,1.0,Partially working,Very High,Sometimes,Yes,ME/CFS
+59.0,Male,4.0,7.0,6.0,8.0,6.0,8.0,22.0,6.5,0.0,Not working,Very High,Never,No,ME/CFS
+57.0,Male,6.0,10.0,9.0,2.0,25.0,6.9,12.0,6.4,1.0,Working,High,Never,No,Both
+26.0,Male,3.0,10.0,3.0,8.0,3.0,8.6,44.0,5.7,1.0,Working,Low,Often,No,ME/CFS
+51.0,Female,6.0,9.0,5.0,9.0,23.0,9.4,2.0,6.2,1.0,Working,Very High,Daily,Yes,Both
+57.0,Male,2.0,6.0,4.0,3.0,6.0,6.6,29.0,7.9,1.0,Partially working,Very low,Often,Yes,ME/CFS
+26.0,Female,5.0,4.0,8.0,7.0,14.0,4.7,10.0,2.7,0.0,Not working,High,Rarely,Yes,Depression
+18.0,Male,4.0,3.0,3.0,2.0,26.0,6.3,7.0,1.8,1.0,Not working,Medium,Often,Yes,Both
+40.0,Female,2.0,9.0,9.0,5.0,12.0,9.5,35.0,5.9,1.0,Partially working,Medium,Sometimes,Yes,ME/CFS
+28.0,Male,6.0,3.0,2.0,9.0,3.0,9.7,12.0,4.0,1.0,Working,Medium,Often,Yes,ME/CFS
+60.0,Female,2.0,3.0,7.0,3.0,18.0,4.6,14.0,9.6,0.0,Partially working,Very low,Daily,No,Depression
+40.0,Female,9.0,9.0,8.0,2.0,14.0,6.1,8.0,0.8,1.0,Working,Medium,Daily,Yes,ME/CFS
+40.0,Female,8.0,3.0,7.0,3.0,10.0,8.4,18.0,6.2,1.0,Working,Low,Daily,No,ME/CFS
+19.0,Male,2.0,1.0,8.0,5.0,10.0,8.5,37.0,4.5,0.0,Working,Very High,Daily,Yes,Depression
+34.0,Male,4.0,8.0,6.0,10.0,14.0,7.6,2.0,6.5,1.0,Partially working,Medium,Sometimes,No,ME/CFS
+29.0,Male,3.0,2.0,5.0,2.0,11.0,7.3,12.0,8.9,1.0,Not working,Medium,Daily,No,Both
+68.0,Male,4.0,8.0,10.0,8.0,22.0,5.9,36.0,7.0,0.0,Partially working,Very High,Often,No,Depression
+54.0,Female,5.0,7.0,8.0,7.0,21.0,3.7,46.0,9.1,1.0,Working,Very low,Sometimes,Yes,Depression
+28.0,Male,2.0,1.0,1.0,5.0,15.0,9.9,41.0,3.3,1.0,Not working,Medium,Often,No,ME/CFS
+27.0,Female,9.0,7.0,5.0,7.0,24.0,7.0,46.0,6.6,0.0,Working,Very High,Daily,Yes,Depression
+30.0,Female,10.0,2.0,3.0,5.0,8.0,7.1,10.0,6.2,1.0,Partially working,Very High,Sometimes,No,ME/CFS
+37.0,Male,10.0,1.0,6.0,3.0,2.0,9.9,40.0,8.3,1.0,Partially working,High,Rarely,Yes,ME/CFS
+70.0,Female,2.0,2.0,2.0,6.0,10.0,5.6,15.0,9.0,1.0,Working,Medium,Daily,No,ME/CFS
+34.0,Male,2.0,7.0,5.0,10.0,17.0,6.1,10.0,8.4,1.0,Not working,Low,Often,No,Depression
+20.0,Male,10.0,5.0,9.0,9.0,8.0,7.0,46.0,9.7,1.0,Not working,Very High,Never,No,ME/CFS
+55.0,Female,8.0,2.0,5.0,5.0,13.6,6.3,33.0,4.1,0.0,Working,Low,Never,No,Depression
+22.0,Male,6.0,1.0,3.0,6.0,15.0,4.5,48.0,9.2,0.0,Working,Very low,Often,Yes,Depression
+41.0,Female,10.0,5.0,6.0,6.0,11.0,7.0,35.0,0.3,0.0,Partially working,High,Rarely,No,Depression
+37.0,Female,3.0,2.0,4.0,8.0,2.0,8.6,3.0,2.3,1.0,Working,Medium,Daily,No,ME/CFS
+24.0,Female,4.0,7.0,5.4,2.0,14.0,9.3,39.0,1.7,1.0,Not working,High,Never,Yes,ME/CFS
+33.0,Male,4.0,6.0,4.0,8.0,7.0,8.4,26.0,1.8,1.0,Partially working,Medium,Sometimes,No,ME/CFS
+68.0,Female,10.0,8.0,3.0,3.0,12.0,3.8,32.0,8.1,0.0,Partially working,Low,Rarely,No,Depression
+48.0,Female,3.0,10.0,1.0,5.0,17.0,8.5,22.0,5.2,0.0,Partially working,Very High,Never,No,Depression
+50.0,Female,1.0,4.0,2.0,1.0,25.0,9.6,26.0,7.0,1.0,Not working,High,Rarely,No,Both
+36.0,Female,1.0,5.0,4.0,5.0,11.0,8.6,15.0,1.1,1.0,Not working,High,Daily,Yes,ME/CFS
+55.0,Female,9.0,4.0,10.0,9.0,14.0,5.6,11.0,0.9,0.0,Partially working,Low,Often,No,Depression
+41.0,Female,7.0,9.0,7.0,1.0,23.0,3.6,48.0,7.4,0.0,Working,Low,Rarely,Yes,Depression
+20.0,Male,1.0,3.0,4.0,6.0,23.0,6.3,38.0,7.8,1.0,Partially working,Medium,Never,No,Both
+44.0,Female,2.0,3.0,3.0,2.0,8.0,4.7,28.0,6.7,0.0,Partially working,Very low,Never,No,Depression
+68.0,Male,1.0,9.0,2.0,4.0,26.0,8.8,11.0,4.3,0.6,Not working,High,Daily,No,Both
+50.0,Male,3.0,8.0,9.0,3.0,9.0,4.1,19.0,7.8,0.0,Working,Low,Rarely,No,Depression
+40.0,Male,9.0,4.0,6.0,2.0,14.0,2.5,42.0,5.6,0.0,Working,Very low,Never,No,Depression
+31.0,Male,8.0,3.0,9.0,6.0,11.0,8.7,4.0,8.6,1.0,Working,High,Sometimes,No,Depression
+67.0,Female,1.0,2.0,5.0,4.0,11.0,8.0,46.0,6.8,0.0,Working,High,Sometimes,No,Depression
+70.0,Female,2.0,9.0,4.0,1.0,25.0,9.4,21.0,8.7,1.0,Partially working,Low,Rarely,No,Both
+42.0,Female,5.0,9.0,7.0,4.0,14.0,8.1,34.0,0.5,1.0,Partially working,Very High,Often,Yes,ME/CFS
+55.0,Male,8.0,6.0,10.0,3.0,8.0,6.0,26.0,9.3,0.6,Partially working,Low,Never,Yes,ME/CFS
+70.0,Male,6.0,2.0,1.0,10.0,10.0,8.3,19.0,4.4,1.0,Working,Very High,Often,No,ME/CFS
+33.0,Male,2.0,2.0,5.0,3.0,9.0,6.3,50.0,0.7,1.0,Not working,High,Sometimes,No,ME/CFS
+54.0,Female,8.0,5.0,1.0,8.0,13.0,9.8,10.0,5.1,1.0,Partially working,Very High,Rarely,No,ME/CFS
+27.0,Female,5.0,8.0,1.0,5.0,8.0,6.8,35.0,1.0,0.0,Not working,Very High,Rarely,No,ME/CFS
+45.0,Male,6.0,5.0,4.0,5.0,22.0,6.7,27.0,1.6,1.0,Partially working,Medium,Daily,No,Both
+59.0,Female,7.0,1.0,9.0,10.0,10.0,7.1,27.0,3.5,1.0,Working,Medium,Daily,No,ME/CFS
+70.0,Female,8.0,7.0,8.0,5.0,20.0,7.3,18.0,8.8,0.0,Partially working,High,Often,Yes,Depression
+60.0,Male,2.0,5.6,6.0,4.0,16.0,8.1,24.7,4.5,1.0,Partially working,Very High,Sometimes,No,Both
+23.0,Male,8.0,4.0,10.0,6.0,9.0,8.3,20.0,5.1,0.0,Not working,High,Daily,Yes,Both
+53.0,Female,10.0,10.0,6.0,10.0,10.0,9.9,24.0,4.3,1.0,Partially working,Low,Sometimes,No,ME/CFS
+23.0,Male,3.0,6.0,3.0,1.0,10.0,9.9,25.0,9.4,1.0,Not working,Very High,Rarely,Yes,Both
+29.0,Male,5.0,5.0,3.0,10.0,8.0,9.6,42.0,1.6,1.0,Working,Medium,Sometimes,No,ME/CFS
+48.0,Male,10.0,2.0,9.0,7.0,21.0,9.3,40.0,4.5,0.0,Working,Medium,Never,No,Both
+70.0,Male,7.0,8.0,7.0,3.0,13.6,6.5,26.0,0.1,1.0,Working,Very low,Sometimes,No,Both
+37.0,Male,10.0,2.0,10.0,8.0,14.0,6.6,37.0,7.7,0.0,Working,High,Daily,Yes,Depression
+45.0,Male,7.0,10.0,9.0,6.0,17.0,8.2,50.0,5.3,1.0,Partially working,Very low,Never,No,Both
+32.0,Male,3.0,8.0,3.0,5.0,15.0,2.3,28.0,5.1,1.0,Not working,Very low,Sometimes,No,Depression
+44.0,Female,7.0,1.0,6.0,2.0,5.0,9.2,35.0,1.1,1.0,Not working,Medium,Sometimes,Yes,ME/CFS
+53.0,Male,8.0,3.0,7.0,1.0,21.0,7.6,22.0,8.0,1.0,Not working,High,Often,Yes,Both
+66.0,Female,7.0,3.0,2.0,7.0,21.0,4.3,26.0,6.8,0.0,Partially working,Very low,Often,No,Depression
+52.0,Male,4.0,1.0,7.0,2.0,9.0,7.7,31.0,4.9,1.0,Working,Very low,Sometimes,Yes,ME/CFS
+64.0,Male,5.0,7.0,5.0,5.0,16.0,6.4,41.0,7.8,0.0,Not working,Very High,Often,Yes,Depression
+59.0,Female,7.0,7.0,5.0,7.0,7.0,7.7,25.0,8.7,1.0,Not working,Very low,Never,No,ME/CFS
+63.0,Male,8.0,1.0,7.0,1.0,13.0,3.1,9.0,8.8,0.0,Working,Low,Never,No,Depression
+52.0,Female,5.4,7.0,4.0,7.0,15.0,9.7,26.0,0.8,1.0,Partially working,Very High,Sometimes,Yes,ME/CFS
+39.0,Female,6.0,4.0,5.0,1.0,25.0,8.1,11.0,7.5,0.0,Working,High,Never,No,Depression
+67.0,Female,2.0,3.0,4.0,5.0,11.0,2.8,20.0,4.6,0.0,Not working,Low,Often,No,Depression
+28.0,Female,6.0,9.0,1.0,8.0,23.0,6.3,34.0,5.6,1.0,Working,Very low,Rarely,No,Both
+24.0,Male,2.0,6.0,8.0,6.0,9.0,7.4,16.0,7.4,1.0,Partially working,Very low,Rarely,Yes,ME/CFS
+34.0,Male,2.0,3.0,9.0,10.0,5.0,8.7,20.0,0.0,1.0,Working,Medium,Daily,No,ME/CFS
+40.0,Male,1.0,9.0,6.0,8.0,19.0,3.1,5.0,7.1,0.6,Partially working,Very low,Rarely,No,Depression
+48.0,Male,3.0,3.0,1.0,5.0,11.0,5.7,20.0,9.1,1.0,Not working,Low,Daily,No,ME/CFS
+61.0,Male,6.0,10.0,7.0,5.0,16.0,6.0,42.0,5.1,1.0,Working,Very High,Never,No,Both
+63.0,Female,8.0,4.0,1.0,1.0,9.0,6.9,3.0,6.9,0.0,Not working,Very low,Sometimes,Yes,ME/CFS
+43.0,Male,8.0,10.0,7.0,10.0,18.0,8.1,2.0,5.8,0.0,Partially working,Very High,Rarely,No,Depression
+35.0,Female,7.0,10.0,4.0,8.0,23.0,6.0,12.0,5.0,1.0,Partially working,Medium,Rarely,Yes,Depression
+23.0,Male,1.0,9.0,9.0,2.0,8.0,4.6,21.0,7.4,0.0,Working,High,Never,Yes,Depression
+57.0,Female,7.0,6.0,2.0,7.0,23.0,6.1,47.0,9.6,0.0,Partially working,Very High,Often,No,Depression
+38.0,Female,1.0,6.0,3.0,7.0,19.0,6.1,12.0,0.5,1.0,Not working,Very High,Often,No,Both
+46.0,Male,1.0,5.0,7.0,2.0,9.0,2.5,7.0,2.4,0.0,Working,Medium,Sometimes,Yes,Depression
+38.0,Male,6.0,9.0,5.0,1.0,10.0,7.5,4.0,1.1,1.0,Not working,Very low,Rarely,No,ME/CFS
+69.0,Male,8.0,4.0,7.0,3.0,19.0,7.9,0.0,9.1,0.0,Not working,Medium,Rarely,No,Depression
+23.0,Female,10.0,7.0,10.0,6.0,14.0,9.3,43.0,4.3,1.0,Partially working,High,Often,Yes,Both
+55.0,Male,8.0,5.0,1.0,10.0,10.0,6.8,10.0,2.1,0.0,Working,High,Daily,Yes,Depression
+59.0,Female,8.0,1.0,4.0,2.0,15.0,6.6,2.0,7.6,1.0,Partially working,Low,Daily,Yes,ME/CFS
+32.0,Female,6.0,10.0,7.0,10.0,26.0,9.7,18.0,1.6,1.0,Working,Very High,Often,No,Both
+35.0,Female,7.0,5.0,1.0,2.0,23.0,6.0,44.0,4.9,1.0,Not working,Low,Sometimes,No,Both
+47.0,Male,4.0,2.0,3.0,2.0,22.0,5.2,14.0,0.2,0.0,Partially working,High,Sometimes,Yes,Depression
+20.0,Male,2.0,10.0,3.0,10.0,24.0,7.5,31.0,4.4,1.0,Partially working,Very High,Daily,No,Both
+20.0,Male,6.0,2.0,8.0,6.0,13.0,8.7,1.0,6.1,0.0,Partially working,Low,Often,Yes,Depression
+20.0,Female,8.0,3.0,1.0,8.0,10.0,9.2,0.0,0.2,0.0,Partially working,Very low,Daily,Yes,ME/CFS
+31.0,Male,1.0,5.0,10.0,7.0,25.0,2.0,22.0,4.7,0.0,Partially working,Medium,Rarely,No,Depression
+22.0,Female,9.0,10.0,2.0,9.0,7.0,5.3,16.0,7.1,1.0,Working,Medium,Never,No,ME/CFS
+33.0,Female,4.0,9.0,10.0,3.0,5.0,7.4,41.0,6.8,1.0,Not working,High,Rarely,No,ME/CFS
+37.0,Female,3.0,9.0,4.0,4.0,12.0,9.3,29.0,0.2,1.0,Working,Medium,Daily,No,ME/CFS
+55.0,Female,3.0,6.0,9.0,5.0,7.0,6.7,41.0,4.2,1.0,Working,Medium,Daily,No,ME/CFS
+29.0,Male,1.0,7.0,8.0,1.0,15.0,4.9,31.0,3.4,0.0,Not working,Very High,Rarely,No,Depression
+60.0,Male,2.0,5.0,10.0,7.0,11.0,6.7,11.0,5.2,0.0,Partially working,High,Never,Yes,Depression
+37.0,Female,7.0,2.0,4.0,1.0,25.0,6.9,15.0,5.9,0.6,Working,High,Never,No,Both
+41.0,Female,4.0,9.0,2.0,6.0,9.0,8.2,12.0,8.1,1.0,Not working,High,Rarely,Yes,ME/CFS
+36.0,Male,1.0,1.0,10.0,4.0,11.0,4.0,2.0,8.4,1.0,Partially working,Low,Daily,Yes,Depression
+19.0,Male,10.0,8.0,7.0,2.0,24.0,8.7,14.0,1.8,0.0,Not working,Low,Never,No,Depression
+27.0,Female,6.0,8.0,4.0,6.0,22.0,7.8,11.0,1.7,0.0,Working,Medium,Often,Yes,Depression
+34.0,Female,2.0,5.0,1.0,9.0,20.0,5.7,31.0,1.1,0.0,Not working,High,Sometimes,Yes,Depression
+51.0,Female,2.0,8.0,9.0,2.0,25.0,9.7,28.0,9.1,1.0,Not working,Very low,Rarely,No,Both
+20.0,Female,3.0,5.0,2.0,4.0,12.0,8.8,43.0,6.5,1.0,Working,High,Rarely,No,ME/CFS
+67.0,Male,2.0,7.0,7.0,9.0,26.0,7.2,31.0,8.2,1.0,Working,Very High,Rarely,No,Both
+47.0,Male,5.0,3.0,7.0,5.0,13.0,3.5,30.0,3.7,0.0,Partially working,Very High,Often,Yes,Depression
+52.0,Male,8.0,1.0,4.0,2.0,10.0,4.6,18.0,6.6,0.0,Not working,Very High,Daily,Yes,Depression
+25.0,Male,10.0,4.0,7.0,7.0,15.0,9.5,33.0,0.6,1.0,Not working,Medium,Never,No,ME/CFS
+30.0,Female,5.0,2.0,5.0,1.0,24.0,5.7,8.0,8.4,0.0,Working,High,Rarely,No,Depression
+53.0,Female,9.0,7.0,8.0,9.0,13.0,7.4,39.0,8.0,1.0,Working,Low,Daily,Yes,Both
+31.0,Female,2.0,2.0,1.0,3.0,7.0,9.3,32.0,0.4,1.0,Partially working,Very High,Daily,No,ME/CFS
+48.0,Female,3.0,7.0,3.0,8.0,3.0,5.6,1.0,3.2,1.0,Partially working,High,Daily,Yes,ME/CFS
+68.0,Male,1.0,8.0,10.0,9.0,5.0,6.8,18.0,0.1,1.0,Not working,High,Often,Yes,ME/CFS
+60.0,Male,4.0,9.0,3.0,3.0,22.0,8.4,30.0,2.7,0.0,Not working,Low,Often,No,Depression
+29.0,Male,9.0,2.0,1.0,6.0,3.0,7.6,44.0,3.3,0.6,Not working,High,Sometimes,Yes,ME/CFS
+66.0,Male,10.0,6.0,6.0,3.0,22.0,4.0,8.0,3.2,0.0,Not working,Low,Sometimes,Yes,Depression
+21.0,Female,1.0,10.0,1.0,10.0,5.0,7.0,40.0,9.0,1.0,Working,Very low,Rarely,No,ME/CFS
+54.0,Male,9.0,6.0,5.0,9.0,22.0,4.6,32.0,1.3,0.0,Not working,Very High,Rarely,No,Depression
+41.0,Male,8.0,3.0,5.0,6.0,8.0,7.2,50.0,0.4,0.0,Partially working,Low,Never,No,ME/CFS
+52.0,Female,2.0,3.0,8.0,10.0,9.0,9.1,39.0,3.1,1.0,Working,Very High,Never,No,ME/CFS
+68.0,Male,6.0,3.0,1.0,3.0,11.0,8.8,48.0,8.5,1.0,Working,Medium,Sometimes,No,ME/CFS
+64.0,Male,8.0,8.0,2.0,6.0,14.0,7.0,24.7,7.2,1.0,Partially working,Very low,Daily,Yes,ME/CFS
+19.0,Male,1.0,4.0,6.0,7.0,12.0,7.5,48.0,9.0,1.0,Working,High,Never,No,ME/CFS
+41.0,Female,5.0,9.0,1.0,9.0,11.0,9.2,26.0,7.9,1.0,Not working,Medium,Often,Yes,Both
+25.0,Male,10.0,8.0,6.0,5.0,9.0,7.7,40.0,9.9,1.0,Not working,Medium,Sometimes,Yes,ME/CFS
+45.0,Female,9.0,9.0,5.0,6.0,10.0,9.7,37.0,1.1,1.0,Not working,High,Often,No,ME/CFS
+40.0,Female,5.4,2.0,4.0,6.0,19.0,4.9,31.0,2.5,0.0,Working,High,Rarely,Yes,Depression
+30.0,Male,3.0,2.0,3.0,9.0,18.0,9.4,19.0,3.1,0.0,Working,Very low,Never,Yes,Both
+32.0,Female,10.0,1.0,8.0,5.0,13.0,7.0,4.0,3.0,1.0,Partially working,Very High,Rarely,No,ME/CFS
+70.0,Male,4.0,2.0,10.0,5.5,9.0,7.3,27.0,3.1,0.0,Working,Very High,Daily,Yes,Depression
+66.0,Male,7.0,8.0,1.0,4.0,16.0,5.1,3.0,7.1,0.0,Partially working,High,Sometimes,Yes,Depression
+45.0,Female,5.0,9.0,5.0,1.0,15.0,6.2,4.0,9.2,0.0,Working,High,Often,No,Depression
+50.0,Female,8.0,2.0,1.0,4.0,11.0,6.6,31.0,5.1,0.0,Partially working,Medium,Often,Yes,Depression
+37.0,Male,5.0,8.0,1.0,9.0,19.0,7.0,24.7,8.3,1.0,Working,Very low,Often,No,Both
+45.0,Male,1.0,7.0,8.0,10.0,15.0,8.6,14.0,8.6,1.0,Working,Very High,Often,Yes,ME/CFS
+35.0,Female,9.0,3.0,2.0,8.0,15.0,9.2,29.0,6.1,1.0,Not working,Medium,Often,No,ME/CFS
+40.0,Female,4.0,6.0,5.0,10.0,5.0,5.7,16.0,7.6,1.0,Working,Very High,Rarely,No,ME/CFS
+50.0,Female,4.0,8.0,5.0,2.0,10.0,5.7,22.0,9.3,1.0,Partially working,Medium,Sometimes,No,ME/CFS
+69.0,Female,1.0,7.0,10.0,2.0,14.0,6.6,26.0,6.4,1.0,Partially working,High,Daily,No,ME/CFS
+59.0,Female,6.0,9.0,8.0,6.0,2.0,5.1,13.0,3.6,1.0,Not working,Very High,Rarely,Yes,ME/CFS
+65.0,Male,2.0,5.0,10.0,9.0,21.0,8.0,49.0,9.1,1.0,Partially working,High,Never,Yes,Both
+57.0,Female,6.0,5.0,5.0,3.0,10.0,9.4,47.0,1.8,1.0,Not working,Medium,Daily,Yes,ME/CFS
+43.0,Male,3.0,7.0,3.0,5.0,6.0,7.4,38.0,1.7,1.0,Not working,Very low,Never,Yes,ME/CFS
+40.0,Female,8.0,4.0,3.0,2.0,14.0,3.5,26.0,5.8,0.0,Working,Very High,Rarely,Yes,Depression
+62.0,Male,1.0,9.0,8.0,7.0,7.0,5.5,24.7,1.7,1.0,Not working,Very low,Rarely,No,ME/CFS
+57.0,Male,1.0,5.0,3.0,5.0,9.0,6.9,16.0,9.2,0.0,Working,Very High,Sometimes,No,Depression
+30.0,Male,7.0,4.0,2.0,5.0,10.0,4.9,25.0,8.9,0.0,Working,Medium,Sometimes,Yes,Depression
+24.0,Male,5.0,4.0,3.0,1.0,25.0,9.5,8.0,7.4,1.0,Not working,Very low,Daily,No,Both
+43.0,Female,6.0,2.0,6.0,10.0,12.0,7.2,46.0,8.4,1.0,Working,Low,Sometimes,No,Both
+22.0,Male,6.0,6.0,9.0,5.0,5.0,6.5,37.0,8.6,1.0,Not working,Low,Rarely,Yes,ME/CFS
+39.0,Male,3.0,1.0,10.0,8.0,12.0,6.4,48.0,3.4,1.0,Partially working,Medium,Never,Yes,ME/CFS
+39.0,Male,6.0,1.0,5.0,7.0,26.0,8.2,31.0,7.2,1.0,Not working,Very High,Never,Yes,Both
+46.0,Female,8.0,1.0,3.0,6.0,12.0,4.4,35.0,7.5,0.0,Not working,Very low,Daily,No,Depression
+33.0,Male,5.0,3.0,1.0,10.0,8.0,7.6,45.0,8.1,1.0,Partially working,Very low,Sometimes,Yes,ME/CFS
+32.0,Female,4.0,2.0,7.0,5.0,8.0,4.3,45.0,9.0,1.0,Partially working,Very High,Often,Yes,Depression
+54.0,Female,9.0,2.0,5.0,5.0,23.0,8.2,17.0,8.5,1.0,Partially working,Low,Sometimes,No,Both
+36.0,Female,8.0,9.0,2.0,10.0,5.0,6.8,13.0,6.0,0.0,Working,Very low,Often,Yes,ME/CFS
+25.0,Female,9.0,8.0,5.0,1.0,13.0,5.5,3.0,3.4,1.0,Not working,Low,Rarely,No,ME/CFS
+68.0,Male,9.0,10.0,2.0,5.0,13.0,4.3,22.0,4.0,0.0,Working,Low,Never,No,Depression
+50.0,Male,4.0,2.0,8.0,3.0,9.0,8.5,26.0,7.9,1.0,Not working,Low,Never,Yes,ME/CFS
+32.0,Female,5.0,6.0,4.0,5.0,3.0,9.6,45.0,9.0,1.0,Not working,Very High,Rarely,No,ME/CFS
+62.0,Female,6.0,5.0,2.0,7.0,21.0,7.3,47.0,1.5,0.0,Working,Medium,Never,Yes,Depression
+53.0,Male,5.0,4.0,10.0,10.0,25.0,6.5,9.0,4.5,1.0,Working,Low,Rarely,Yes,Both
+28.0,Male,5.0,8.0,9.0,4.0,21.0,7.4,34.0,1.8,1.0,Working,Very low,Daily,No,Both
+35.0,Female,6.0,8.0,10.0,5.0,14.0,8.0,27.0,7.8,1.0,Working,Very low,Sometimes,Yes,Depression
+23.0,Female,2.0,1.0,9.0,6.0,12.0,6.1,33.0,0.1,0.0,Not working,Very High,Sometimes,No,Depression
+60.0,Male,5.0,1.0,8.0,4.0,4.0,7.0,14.0,4.8,1.0,Partially working,Medium,Rarely,No,ME/CFS
+29.0,Female,5.0,7.0,8.0,1.0,10.0,9.5,50.0,9.8,1.0,Partially working,Medium,Often,Yes,Both
+40.0,Male,9.0,3.0,3.0,1.0,24.0,3.2,18.0,8.2,0.0,Not working,High,Rarely,Yes,Depression
+36.0,Female,2.0,3.0,6.0,6.0,11.0,6.7,2.0,6.4,1.0,Working,Low,Daily,Yes,ME/CFS
+22.0,Female,10.0,3.0,5.0,2.0,21.0,5.6,16.0,1.8,0.0,Working,Medium,Sometimes,Yes,Depression
+67.0,Female,3.0,7.0,3.0,4.0,4.0,5.9,49.0,5.0,0.0,Partially working,Low,Sometimes,No,ME/CFS
+47.0,Male,5.0,4.0,8.0,5.0,13.0,8.4,28.0,6.9,0.0,Partially working,High,Daily,Yes,ME/CFS
+25.0,Female,10.0,10.0,1.0,2.0,9.0,8.0,2.0,3.1,0.0,Working,Medium,Rarely,No,Depression
+42.0,Female,10.0,4.0,7.0,9.0,8.0,6.1,31.0,7.7,0.0,Working,Low,Rarely,No,Depression
+51.0,Male,7.0,5.0,7.0,5.5,19.0,6.4,37.0,4.8,1.0,Working,Very High,Never,Yes,Both
+69.0,Male,8.0,9.0,5.0,3.0,19.0,5.4,11.0,0.7,0.0,Partially working,High,Often,Yes,Depression
+28.0,Female,9.0,6.0,10.0,1.0,9.0,9.5,32.0,6.6,0.0,Not working,Very low,Rarely,Yes,ME/CFS
+57.0,Male,7.0,10.0,3.0,10.0,15.0,8.3,3.0,0.3,1.0,Working,Very High,Never,No,Depression
+18.0,Female,5.0,9.0,9.0,7.0,11.0,7.2,38.0,9.5,1.0,Not working,Very High,Sometimes,Yes,Both
+28.0,Male,1.0,10.0,9.0,4.0,22.0,3.2,10.0,2.9,0.0,Partially working,Very High,Daily,No,Depression
+55.0,Male,4.0,6.0,2.0,5.0,12.0,6.1,8.0,0.1,1.0,Not working,Very High,Daily,Yes,ME/CFS
+62.0,Male,9.0,5.0,7.0,1.0,24.0,3.8,13.0,0.2,0.0,Partially working,High,Never,No,Depression
+60.0,Female,10.0,10.0,5.0,8.0,8.0,6.8,26.0,2.6,0.0,Partially working,Medium,Rarely,No,Depression
+55.0,Male,3.0,2.0,9.0,2.0,25.0,4.5,18.0,2.1,0.0,Not working,Low,Daily,Yes,Depression
+63.0,Male,3.0,8.0,2.0,6.0,21.0,3.6,16.0,4.1,0.0,Partially working,Very low,Rarely,No,Depression
+46.0,Female,4.0,10.0,4.0,8.0,10.0,7.3,36.0,1.3,1.0,Working,Medium,Never,No,Both
+40.0,Female,2.0,4.0,10.0,3.0,13.0,7.8,0.0,7.1,0.0,Not working,Medium,Rarely,Yes,Depression
+18.0,Male,7.0,2.0,3.0,10.0,3.0,8.0,16.0,0.2,1.0,Working,Very High,Never,Yes,ME/CFS
+55.0,Male,7.0,7.0,7.0,6.0,22.0,3.1,6.0,5.0,0.0,Working,Medium,Never,Yes,Depression
+60.0,Male,6.0,2.0,6.0,10.0,19.0,8.4,23.0,2.5,1.0,Partially working,Very low,Often,Yes,Both
+32.0,Male,10.0,2.0,5.0,7.0,11.0,5.1,12.0,4.9,1.0,Partially working,Low,Rarely,No,ME/CFS
+53.0,Male,3.0,6.0,4.0,6.0,8.0,8.3,43.0,9.3,1.0,Partially working,High,Never,No,ME/CFS
+45.0,Male,5.0,6.0,6.0,5.0,20.0,6.7,30.0,9.0,0.0,Partially working,Very low,Sometimes,No,Depression
+33.0,Female,7.0,1.0,6.0,7.0,18.0,6.5,48.0,3.8,1.0,Working,Very low,Often,No,Depression
+47.0,Male,7.0,9.0,3.0,4.0,12.0,6.2,50.0,6.5,1.0,Not working,High,Daily,No,ME/CFS
+46.0,Male,3.0,1.0,10.0,5.0,3.0,8.4,29.0,4.4,1.0,Partially working,High,Daily,Yes,ME/CFS
+61.0,Female,5.0,3.0,4.0,2.0,16.0,7.7,17.0,1.5,1.0,Partially working,Medium,Rarely,No,Both
+39.0,Male,5.0,7.0,7.0,2.0,15.0,5.3,13.0,9.4,1.0,Not working,High,Sometimes,No,ME/CFS
+41.0,Female,1.0,5.0,1.0,9.0,19.0,9.3,24.0,1.3,1.0,Working,High,Sometimes,Yes,Both
+38.0,Female,8.0,7.0,9.0,1.0,18.0,9.1,12.0,6.4,1.0,Not working,Very High,Sometimes,Yes,Both
+41.0,Male,2.0,3.0,5.0,1.0,12.0,7.7,11.0,4.5,0.0,Not working,Medium,Rarely,No,ME/CFS
+49.0,Female,2.0,1.0,9.0,10.0,7.0,6.7,19.0,8.3,1.0,Not working,Very low,Daily,No,ME/CFS
+49.0,Male,3.0,8.0,6.0,5.0,23.0,8.6,0.0,1.2,1.0,Partially working,Medium,Never,No,Depression
+35.0,Female,9.0,8.0,2.0,3.0,21.0,4.4,24.0,6.4,0.0,Not working,High,Rarely,No,Depression
+30.0,Male,4.0,1.0,7.0,8.0,15.0,7.2,2.0,6.3,1.0,Not working,Very low,Often,Yes,Depression
+61.0,Female,10.0,4.0,3.0,2.0,4.0,6.1,5.0,5.4,1.0,Not working,High,Often,Yes,ME/CFS
+37.0,Female,9.0,10.0,1.0,4.0,3.0,9.2,37.0,0.4,0.6,Partially working,Very low,Often,No,ME/CFS
+44.0,Female,6.0,10.0,7.0,7.0,16.0,5.8,48.0,9.7,0.0,Not working,Low,Daily,Yes,Depression
+49.0,Male,1.0,9.0,3.0,4.0,26.0,7.8,42.0,5.3,0.0,Partially working,Very low,Daily,Yes,Both
+19.0,Female,7.0,1.0,9.0,4.0,15.0,8.2,29.0,1.3,1.0,Not working,Medium,Daily,Yes,Both
+49.0,Female,7.0,1.0,4.0,5.0,16.0,6.4,1.0,0.6,0.0,Partially working,Low,Sometimes,No,Depression
+27.0,Male,5.0,6.0,3.0,4.0,14.0,5.0,48.0,9.6,1.0,Partially working,High,Rarely,Yes,ME/CFS
+41.0,Male,6.0,10.0,5.0,8.0,3.0,7.2,46.0,4.2,1.0,Not working,Very High,Sometimes,Yes,ME/CFS
+51.0,Male,6.0,7.0,2.0,9.0,8.0,7.5,22.0,4.1,0.0,Not working,Very High,Never,No,Depression
+18.0,Male,9.0,2.0,1.0,5.0,26.0,6.3,33.0,3.3,1.0,Working,Very low,Never,No,Both
+59.0,Male,2.0,8.0,2.0,5.5,9.0,8.1,3.0,1.9,1.0,Not working,Very low,Daily,No,ME/CFS
+68.0,Male,10.0,1.0,7.0,6.0,14.0,5.0,32.0,3.3,0.0,Partially working,Very High,Daily,No,Depression
+69.0,Female,5.0,2.0,5.0,4.0,5.0,7.6,8.0,9.5,1.0,Partially working,Very low,Often,No,ME/CFS
+35.0,Male,2.0,4.0,2.0,5.0,2.0,8.0,46.0,1.6,1.0,Partially working,Medium,Sometimes,Yes,ME/CFS
+55.0,Female,1.0,8.0,5.0,8.0,12.0,5.3,3.0,4.6,1.0,Working,Low,Often,No,Depression
+25.0,Male,3.0,1.0,2.0,1.0,6.0,8.3,19.0,9.6,1.0,Not working,Medium,Never,No,ME/CFS
+38.0,Female,3.0,8.0,5.0,10.0,10.0,8.7,23.0,3.9,0.0,Working,Low,Daily,Yes,ME/CFS
+35.0,Male,9.0,10.0,6.0,1.0,2.0,7.0,48.0,2.2,0.6,Not working,High,Rarely,Yes,ME/CFS
+43.0,Male,5.0,3.0,9.0,2.0,21.0,4.6,35.0,2.9,0.0,Not working,Medium,Rarely,No,Depression
+36.0,Female,2.0,5.0,10.0,2.0,13.0,5.1,47.0,4.5,0.0,Partially working,High,Never,No,ME/CFS
+48.0,Female,1.0,7.0,9.0,8.0,12.0,9.4,11.0,6.0,1.0,Not working,High,Rarely,Yes,Both
+19.0,Male,4.0,10.0,8.0,4.0,19.0,6.4,18.0,5.2,0.0,Working,High,Often,No,Depression
+23.0,Female,1.0,3.0,8.0,5.5,21.0,7.6,29.0,7.6,1.0,Working,High,Daily,No,Both
+34.0,Female,1.0,9.0,8.0,9.0,19.0,7.1,17.0,7.6,1.0,Not working,Medium,Rarely,Yes,Both
+66.0,Male,2.0,3.0,5.0,7.0,11.0,9.7,28.0,7.1,1.0,Partially working,Very High,Rarely,No,Both
+45.0,Female,7.0,10.0,4.0,2.0,20.0,7.3,13.0,0.9,0.6,Partially working,High,Often,Yes,Depression
+49.0,Male,10.0,3.0,9.0,5.0,11.0,6.3,36.0,3.1,0.0,Working,Very low,Rarely,Yes,Depression
+42.0,Female,9.0,3.0,6.0,9.0,13.0,7.1,13.0,2.3,1.0,Not working,Very High,Often,Yes,Both
+26.0,Male,9.0,1.0,1.0,1.0,5.0,7.7,2.0,0.7,1.0,Working,Medium,Often,No,ME/CFS
+40.0,Female,3.0,6.0,9.0,1.0,11.0,9.0,42.0,1.1,1.0,Working,Very low,Often,Yes,ME/CFS
+51.0,Female,2.0,6.0,9.0,5.0,19.0,8.5,34.0,6.3,1.0,Working,Low,Rarely,No,Both
+31.0,Female,2.0,5.0,9.0,3.0,5.0,7.0,14.0,8.4,1.0,Partially working,Very low,Never,No,ME/CFS
+45.0,Male,3.0,7.0,2.0,10.0,15.0,6.3,10.0,4.1,1.0,Partially working,Very low,Rarely,Yes,ME/CFS
+38.0,Male,6.0,7.0,3.0,5.0,8.0,7.1,4.0,6.2,1.0,Not working,Very low,Daily,Yes,ME/CFS
+58.0,Male,3.0,7.0,2.0,10.0,8.0,8.9,42.0,0.5,1.0,Partially working,High,Daily,Yes,ME/CFS
+60.0,Female,6.0,5.0,4.0,6.0,10.0,5.4,9.0,4.3,0.0,Not working,High,Rarely,No,ME/CFS
+26.0,Male,4.0,7.0,2.0,2.0,25.0,8.9,24.0,4.2,1.0,Working,Very High,Often,Yes,Both
+66.0,Male,3.0,6.0,5.0,6.0,17.0,7.4,34.0,7.0,1.0,Partially working,High,Rarely,No,Both
+52.0,Female,8.0,8.0,7.0,7.0,18.0,6.9,50.0,4.4,1.0,Working,Very low,Rarely,Yes,Both
+52.0,Male,3.0,6.0,1.0,10.0,12.0,8.2,6.0,5.4,0.0,Working,Very low,Rarely,No,Depression
+25.0,Male,6.0,1.0,7.0,7.0,13.0,6.2,19.0,5.6,1.0,Not working,Medium,Often,Yes,ME/CFS
+64.0,Male,8.0,6.0,1.0,2.0,24.0,3.5,21.0,8.1,0.0,Partially working,Very High,Often,No,Depression
+21.0,Male,5.0,3.0,5.0,10.0,11.0,9.3,14.0,8.2,1.0,Not working,Medium,Never,Yes,Both
+26.0,Female,9.0,8.0,4.0,8.0,8.0,6.7,24.7,8.4,1.0,Partially working,Low,Sometimes,No,ME/CFS
+21.0,Female,1.0,5.0,6.0,4.0,18.0,6.6,39.0,8.9,1.0,Not working,Very High,Never,No,Both
+39.0,Male,6.0,9.0,4.0,5.0,25.0,7.6,16.0,7.7,0.0,Not working,Very High,Rarely,Yes,Depression
+27.0,Female,10.0,3.0,10.0,9.0,4.0,7.2,20.0,4.0,1.0,Not working,Very High,Often,No,ME/CFS
+70.0,Female,4.0,10.0,6.0,8.0,25.0,7.0,29.0,9.2,0.0,Partially working,Medium,Daily,Yes,Both
+63.0,Female,5.0,1.0,6.0,4.0,14.0,6.0,9.0,9.6,1.0,Partially working,Very High,Rarely,No,ME/CFS
+62.0,Male,1.0,5.0,10.0,5.0,13.0,2.0,18.0,8.3,0.0,Not working,Very High,Rarely,Yes,Depression
+26.0,Female,1.0,7.0,9.0,6.0,6.0,10.0,47.0,8.1,0.0,Working,Medium,Daily,No,ME/CFS
+45.0,Male,2.0,10.0,3.0,8.0,15.0,8.7,49.0,3.0,1.0,Working,High,Rarely,No,ME/CFS
+61.0,Male,3.0,10.0,7.0,7.0,12.0,6.0,5.0,1.9,1.0,Not working,Medium,Rarely,No,ME/CFS
+59.0,Female,2.0,8.0,2.0,8.0,21.0,7.2,23.0,2.2,0.0,Working,Medium,Often,Yes,Depression
+19.0,Male,6.0,7.0,6.0,9.0,23.0,2.9,37.0,6.1,0.0,Not working,Low,Never,Yes,Depression
+45.0,Male,5.0,8.0,10.0,5.0,8.0,6.8,46.0,3.8,0.0,Partially working,Medium,Often,Yes,Depression
+48.0,Male,10.0,7.0,4.0,6.0,10.0,7.3,35.0,5.9,1.0,Working,Medium,Often,No,Both
+46.0,Female,4.0,7.0,7.0,9.0,14.0,9.9,44.0,8.3,1.0,Not working,Low,Daily,No,Both
+66.0,Female,2.0,4.0,3.0,4.0,22.0,3.5,15.0,6.5,0.6,Partially working,Very low,Sometimes,Yes,Depression
+53.0,Male,4.0,7.0,1.0,6.0,19.0,4.4,23.0,4.3,0.0,Not working,Very High,Never,Yes,Depression
+24.0,Male,9.0,1.0,4.0,7.0,13.0,3.6,26.0,1.9,0.0,Partially working,High,Never,No,Depression
+61.0,Male,9.0,9.0,1.0,4.0,12.0,4.1,8.0,4.7,0.0,Working,Very High,Often,No,Depression
+54.0,Male,5.0,10.0,8.0,5.0,21.0,9.8,19.0,4.4,0.6,Not working,Low,Never,Yes,Both
+62.0,Female,3.0,8.0,6.0,6.0,22.0,2.4,8.0,0.5,0.0,Working,Very low,Never,Yes,Depression
+50.0,Male,7.0,2.0,7.0,10.0,19.0,7.4,3.0,7.8,1.0,Working,Very low,Rarely,No,Both
+52.0,Female,2.0,3.0,2.0,5.0,12.0,8.5,12.0,9.7,1.0,Not working,Very High,Daily,No,ME/CFS
+30.0,Male,9.0,2.0,6.0,6.0,5.0,9.5,6.0,0.7,1.0,Partially working,Low,Never,Yes,ME/CFS
+62.0,Male,10.0,4.0,6.0,9.0,24.0,8.1,28.0,7.6,1.0,Partially working,Medium,Often,Yes,Both
+63.0,Male,6.0,5.0,10.0,1.0,7.0,6.9,36.0,6.3,1.0,Not working,Low,Never,No,ME/CFS
+63.0,Male,7.0,1.0,3.0,8.0,23.0,9.0,19.0,7.7,1.0,Partially working,High,Rarely,No,Both
+35.0,Male,9.0,2.0,4.0,4.0,6.0,8.3,34.0,2.9,1.0,Not working,Low,Daily,Yes,ME/CFS
+29.0,Male,2.0,4.0,2.0,7.0,14.0,7.4,48.0,9.5,1.0,Partially working,Very High,Sometimes,No,Both
+42.0,Male,1.0,3.0,2.0,2.0,12.0,6.8,3.0,8.6,1.0,Working,Medium,Daily,Yes,Both
+59.0,Male,5.0,7.0,1.0,3.0,8.0,6.2,20.0,2.4,0.0,Partially working,Very High,Often,Yes,ME/CFS
+63.0,Male,8.0,3.0,10.0,2.0,25.0,6.8,31.0,0.6,1.0,Partially working,Low,Daily,No,Depression
+38.0,Female,1.0,5.0,1.0,7.0,6.0,7.9,15.0,0.4,1.0,Working,Medium,Rarely,Yes,ME/CFS
+47.0,Female,10.0,3.0,8.0,8.0,10.0,8.1,43.0,4.4,0.0,Partially working,Low,Sometimes,Yes,ME/CFS
+64.0,Female,3.0,1.0,8.0,3.0,5.0,5.8,44.0,8.5,0.0,Not working,Very High,Often,Yes,ME/CFS
+69.0,Male,3.0,5.0,5.0,4.0,26.0,7.2,3.0,9.8,1.0,Not working,Medium,Often,Yes,Both
+63.0,Female,9.0,5.0,1.0,9.0,12.0,7.5,39.0,3.1,1.0,Partially working,Low,Rarely,No,Both
+47.0,Male,9.0,7.0,8.0,10.0,8.0,5.3,44.0,5.5,0.0,Working,Very low,Daily,No,Depression
+53.0,Male,5.0,3.0,7.0,8.0,14.0,8.1,0.0,3.9,1.0,Working,Medium,Rarely,No,ME/CFS
+69.0,Female,3.0,9.0,9.0,6.0,4.0,6.2,41.0,5.5,1.0,Not working,Low,Rarely,Yes,ME/CFS
+53.0,Female,1.0,9.0,8.0,7.0,12.0,8.9,13.0,3.1,1.0,Working,Very High,Daily,No,ME/CFS
+39.0,Male,5.0,1.0,10.0,10.0,5.0,6.8,36.0,4.5,0.0,Partially working,Medium,Daily,Yes,ME/CFS
+49.0,Female,5.0,5.0,3.0,6.0,8.0,9.2,20.0,7.7,1.0,Partially working,High,Often,Yes,ME/CFS
+37.0,Female,10.0,8.0,9.0,7.0,16.0,9.6,16.0,1.5,0.0,Working,Very High,Often,No,Both
+53.0,Male,4.0,7.0,4.0,7.0,26.0,6.2,12.0,3.1,1.0,Partially working,Medium,Never,Yes,Both
+52.0,Male,6.0,4.0,10.0,2.0,10.0,9.3,22.0,8.6,1.0,Partially working,High,Never,Yes,Both
+25.0,Female,9.0,5.0,2.0,3.0,14.0,5.9,29.0,4.8,1.0,Working,Very High,Daily,No,ME/CFS
+52.0,Male,2.0,5.0,1.0,10.0,15.0,7.6,15.0,3.8,1.0,Working,Medium,Often,No,Both
+23.0,Female,4.0,10.0,2.0,9.0,12.0,9.5,37.0,3.8,1.0,Working,Low,Daily,No,Both
+48.0,Female,8.0,2.0,1.0,1.0,14.0,6.0,11.0,9.4,1.0,Not working,Medium,Sometimes,Yes,Both
+69.0,Female,10.0,1.0,8.0,7.0,9.0,7.3,43.0,2.4,1.0,Working,Low,Never,No,Both
+53.0,Male,7.0,3.0,6.0,3.0,19.0,8.8,25.0,2.5,1.0,Working,Medium,Often,Yes,Both
+24.0,Male,6.0,7.0,3.0,7.0,8.0,7.0,12.0,9.5,0.0,Not working,Very low,Often,Yes,Depression
+20.0,Female,1.0,5.0,9.0,4.0,3.0,6.4,36.0,6.5,1.0,Not working,High,Often,No,ME/CFS
+41.0,Female,6.0,7.0,5.0,4.0,25.0,2.4,11.0,8.6,0.0,Not working,Low,Rarely,Yes,Depression
+28.0,Female,4.0,8.0,5.0,10.0,16.0,7.4,21.0,7.2,0.0,Working,High,Never,Yes,Depression
+68.0,Male,7.0,2.0,6.0,3.0,14.0,5.4,48.0,4.5,1.0,Working,High,Never,Yes,ME/CFS
+46.0,Male,8.0,5.6,8.0,4.0,13.0,7.2,19.0,5.5,1.0,Working,High,Sometimes,Yes,ME/CFS
+37.0,Female,5.4,10.0,10.0,4.0,22.0,6.5,42.0,5.5,1.0,Working,Very High,Rarely,Yes,Both
+54.0,Female,1.0,9.0,5.0,4.0,12.0,8.6,27.0,3.5,0.0,Working,Low,Rarely,Yes,Depression
+31.0,Female,8.0,10.0,4.0,9.0,11.0,5.3,10.0,7.7,1.0,Not working,Low,Rarely,Yes,ME/CFS
+70.0,Female,3.0,3.0,2.0,1.0,9.0,3.3,34.0,3.1,0.0,Working,Medium,Sometimes,Yes,Depression
+19.0,Female,7.0,3.0,3.0,3.0,12.0,3.5,14.0,3.1,1.0,Working,Very low,Daily,No,Depression
+22.0,Female,6.0,3.0,7.0,10.0,13.0,5.5,25.0,7.5,0.0,Not working,High,Never,Yes,ME/CFS
+20.0,Male,3.0,2.0,6.0,10.0,23.0,7.9,25.0,4.1,1.0,Partially working,High,Daily,Yes,Both
+52.0,Female,10.0,7.0,9.0,6.0,5.0,9.6,22.0,4.4,1.0,Partially working,Very High,Sometimes,Yes,ME/CFS
+41.0,Female,9.0,2.0,9.0,9.0,13.0,5.4,5.0,4.3,1.0,Working,Very low,Often,Yes,ME/CFS
+27.0,Female,1.0,10.0,4.0,10.0,3.0,5.9,12.0,0.8,1.0,Partially working,High,Rarely,Yes,ME/CFS
+63.0,Male,7.0,8.0,5.0,1.0,9.0,7.1,42.0,6.6,1.0,Partially working,High,Often,Yes,Depression
+33.0,Male,2.0,1.0,3.0,1.0,22.0,7.9,36.0,7.3,0.6,Partially working,Low,Sometimes,No,Depression
+40.0,Male,3.0,3.0,6.0,2.0,2.0,8.6,30.0,7.9,1.0,Not working,Very low,Sometimes,No,ME/CFS
+60.0,Male,5.0,8.0,6.0,9.0,17.0,3.7,38.0,5.8,0.0,Not working,Very low,Never,No,Depression
+55.0,Male,6.0,1.0,1.0,10.0,12.0,8.8,21.0,8.9,1.0,Not working,Very low,Daily,No,ME/CFS
+62.0,Male,2.0,1.0,3.0,5.0,25.0,6.5,13.0,1.7,1.0,Partially working,Medium,Daily,Yes,Both
+19.0,Male,6.0,1.0,10.0,3.0,13.0,5.4,3.0,4.9,0.0,Working,Very low,Often,No,Depression
+19.0,Female,3.0,10.0,4.0,2.0,6.0,8.4,31.0,0.4,1.0,Not working,High,Sometimes,Yes,ME/CFS
+25.0,Male,8.0,2.0,10.0,2.0,17.0,9.3,39.0,6.2,1.0,Not working,Medium,Rarely,Yes,Both
+24.0,Female,9.0,7.0,3.0,6.0,10.0,7.9,10.0,1.5,0.0,Not working,Very High,Often,No,Depression
+57.0,Male,2.0,2.0,7.0,5.0,15.0,6.5,37.0,7.4,1.0,Working,Medium,Rarely,Yes,ME/CFS
+19.0,Female,5.0,10.0,6.0,1.0,7.0,6.2,27.0,4.5,0.0,Partially working,Very low,Sometimes,Yes,ME/CFS
+47.0,Male,2.0,1.0,7.0,5.0,15.0,6.0,42.0,7.6,1.0,Partially working,Medium,Daily,Yes,Both
+54.0,Female,9.0,10.0,2.0,2.0,26.0,9.3,26.0,7.4,1.0,Partially working,Very High,Often,No,Both
+22.0,Male,1.0,8.0,5.0,7.0,25.0,8.1,28.0,3.7,0.0,Not working,Medium,Rarely,Yes,Both
+70.0,Male,1.0,1.0,1.0,1.0,22.0,6.8,25.0,4.4,1.0,Not working,High,Daily,Yes,Both
+19.0,Male,8.0,10.0,9.0,9.0,5.0,5.4,27.0,0.4,1.0,Working,Medium,Rarely,Yes,ME/CFS
+37.0,Male,7.0,8.0,4.0,9.0,6.0,7.0,6.0,0.8,1.0,Not working,Very low,Never,Yes,ME/CFS
+32.0,Male,9.0,10.0,1.0,10.0,14.0,7.0,24.7,2.9,1.0,Working,High,Rarely,No,ME/CFS
+34.0,Male,7.0,4.0,2.0,10.0,15.0,9.2,44.0,9.9,1.0,Working,Very low,Never,Yes,Both
+26.0,Male,8.0,7.0,8.0,10.0,2.0,9.0,25.0,4.6,0.0,Not working,Medium,Never,No,ME/CFS
+70.0,Male,6.0,6.0,5.0,5.0,23.0,3.6,6.0,0.9,0.0,Working,Very High,Sometimes,Yes,Depression
+62.0,Female,6.0,10.0,4.0,7.0,9.0,5.2,20.0,3.5,1.0,Partially working,Very low,Daily,No,ME/CFS
+32.0,Male,1.0,8.0,8.0,9.0,6.0,9.9,12.0,7.2,1.0,Working,Very High,Never,No,ME/CFS
+52.0,Female,2.0,8.0,2.0,3.0,10.0,8.7,7.0,1.1,1.0,Working,Medium,Sometimes,No,Depression
+23.0,Male,5.0,8.0,4.0,7.0,7.0,8.6,5.0,1.3,1.0,Partially working,High,Daily,No,ME/CFS
+25.0,Female,2.0,3.0,4.0,5.5,21.0,2.1,25.0,7.6,0.0,Not working,Very High,Rarely,No,Depression
+35.0,Female,8.0,3.0,5.0,1.0,21.0,7.3,47.0,10.0,0.0,Not working,Medium,Sometimes,Yes,Depression
+37.0,Female,9.0,9.0,3.0,3.0,13.0,9.0,15.0,9.6,0.0,Partially working,Very low,Never,No,Depression
+41.0,Female,2.0,6.0,4.0,3.0,9.0,7.4,50.0,3.8,0.0,Partially working,Very High,Never,Yes,ME/CFS
+53.0,Male,2.0,8.0,8.0,3.0,10.0,7.2,7.0,2.7,0.0,Partially working,High,Sometimes,No,Depression
+39.0,Female,9.0,3.0,2.0,9.0,15.0,7.5,49.0,4.3,1.0,Partially working,Very low,Never,Yes,ME/CFS
+28.0,Female,7.0,8.0,7.0,4.0,11.0,8.6,7.0,1.4,0.0,Partially working,Medium,Never,Yes,Depression
+63.0,Female,2.0,5.0,8.0,2.0,9.0,8.1,36.0,4.5,1.0,Working,Very High,Often,Yes,ME/CFS
+70.0,Male,4.0,8.0,6.0,5.0,11.0,6.6,35.0,1.1,1.0,Not working,Very High,Daily,Yes,ME/CFS
+32.0,Male,5.0,6.0,3.0,7.0,11.0,2.1,3.0,3.7,0.0,Not working,Very High,Rarely,Yes,Depression
+33.0,Female,3.0,5.0,5.0,8.0,25.0,2.6,6.0,8.2,0.0,Partially working,Very low,Often,Yes,Depression
+20.0,Male,3.0,1.0,6.0,8.0,5.0,6.7,50.0,2.1,1.0,Partially working,Low,Rarely,Yes,ME/CFS
+18.0,Male,8.0,5.0,10.0,8.0,3.0,9.0,41.0,4.6,1.0,Not working,High,Daily,No,ME/CFS
+69.0,Male,8.0,7.0,3.0,4.0,13.0,7.6,42.0,2.2,0.0,Working,Medium,Never,Yes,Depression
+66.0,Male,8.0,4.0,9.0,5.0,23.0,7.3,27.0,4.6,1.0,Working,Medium,Never,No,Both
+31.0,Female,3.0,2.0,6.0,9.0,8.0,8.2,9.0,7.5,1.0,Partially working,Medium,Daily,Yes,ME/CFS
+21.0,Female,4.0,10.0,5.0,1.0,8.0,2.7,49.0,0.5,0.0,Not working,Very low,Often,Yes,Depression
+34.0,Female,5.0,2.0,8.0,5.0,25.0,7.7,16.0,5.8,1.0,Not working,High,Daily,Yes,Both
+61.0,Male,8.0,5.6,10.0,10.0,22.0,2.3,50.0,7.0,0.0,Partially working,High,Daily,No,Depression
+49.0,Male,10.0,1.0,4.0,10.0,14.0,9.7,29.0,6.3,1.0,Not working,Very low,Daily,No,Both
+70.0,Female,3.0,1.0,5.0,10.0,17.0,6.7,50.0,7.2,1.0,Partially working,High,Never,No,Both
+47.0,Female,5.0,9.0,3.0,10.0,9.0,8.0,44.0,9.4,1.0,Not working,Medium,Never,Yes,ME/CFS
+20.0,Male,2.0,7.0,5.0,10.0,24.0,7.0,28.0,1.2,0.0,Partially working,Very High,Sometimes,Yes,Depression
+51.0,Male,5.0,5.0,1.0,8.0,10.0,3.9,7.0,5.0,0.0,Not working,Low,Sometimes,No,Depression
+38.0,Female,2.0,8.0,7.0,10.0,9.0,7.7,44.0,9.8,1.0,Not working,Low,Often,No,ME/CFS
+34.0,Female,7.0,9.0,5.0,7.0,10.0,9.5,8.0,5.0,1.0,Not working,Very low,Sometimes,Yes,Both
+27.0,Female,7.0,6.0,8.0,2.0,8.0,3.1,7.0,5.8,0.0,Not working,Very High,Rarely,Yes,Depression
+30.0,Female,7.0,5.0,7.0,7.0,9.0,4.3,2.0,2.1,0.0,Working,High,Daily,No,Depression
+52.0,Male,9.0,9.0,5.0,4.0,9.0,7.3,7.0,8.0,0.0,Not working,Very High,Daily,Yes,Depression
+43.0,Female,2.0,10.0,9.0,1.0,17.0,9.6,24.0,8.9,1.0,Working,High,Never,No,Both
+41.0,Female,2.0,5.0,10.0,2.0,8.0,2.7,10.0,9.0,0.0,Partially working,Very low,Rarely,Yes,Depression
+24.0,Male,8.0,7.0,5.0,4.0,17.0,6.7,47.0,6.2,1.0,Partially working,Low,Rarely,Yes,Both
+46.0,Male,8.0,8.0,3.0,8.0,11.0,10.0,19.0,0.2,1.0,Partially working,Very High,Rarely,No,ME/CFS
+50.0,Male,1.0,4.0,4.0,2.0,10.0,7.6,47.0,9.4,0.0,Not working,High,Sometimes,Yes,ME/CFS
+27.0,Male,6.0,10.0,4.0,10.0,13.0,8.2,16.0,7.5,1.0,Working,Medium,Never,No,Both
+33.0,Female,8.0,6.0,8.0,1.0,22.0,8.8,6.0,1.8,0.0,Partially working,Low,Daily,No,Depression
+65.0,Female,3.0,10.0,6.0,10.0,10.0,8.2,42.0,4.0,1.0,Not working,High,Never,Yes,ME/CFS
+30.0,Male,5.4,3.0,3.0,4.0,10.0,5.8,1.0,4.6,0.0,Working,High,Sometimes,Yes,Depression
+19.0,Male,6.0,9.0,4.0,3.0,13.0,9.7,26.0,9.2,1.0,Partially working,Medium,Sometimes,Yes,Both
+25.0,Female,8.0,2.0,9.0,7.0,24.0,3.5,8.0,5.9,0.0,Not working,High,Sometimes,No,Depression
+54.0,Female,7.0,6.0,9.0,9.0,22.0,4.9,50.0,9.7,0.0,Not working,Low,Sometimes,No,Depression
+43.0,Male,9.0,7.0,7.0,2.0,10.0,7.9,36.0,7.7,1.0,Working,Very low,Often,No,Both
+34.0,Female,8.0,5.0,10.0,7.0,5.0,9.4,48.0,4.5,1.0,Partially working,Medium,Never,Yes,ME/CFS
+48.0,Female,8.0,1.0,4.0,3.0,12.0,2.7,33.0,8.9,0.0,Not working,Very low,Often,No,Depression
+63.0,Male,7.0,2.0,2.0,8.0,12.0,9.5,21.0,3.1,0.0,Partially working,Low,Often,Yes,ME/CFS
+37.0,Female,10.0,2.0,10.0,3.0,4.0,6.4,6.0,9.4,1.0,Partially working,High,Often,Yes,ME/CFS
+30.0,Male,3.0,5.0,2.0,8.0,10.0,6.6,31.0,9.1,1.0,Working,Very low,Rarely,Yes,Both
+47.0,Male,3.0,1.0,5.0,5.5,3.0,7.3,7.0,0.5,1.0,Partially working,Very High,Sometimes,Yes,ME/CFS
+43.0,Female,2.0,9.0,10.0,9.0,10.0,8.9,14.0,7.5,1.0,Not working,Low,Sometimes,Yes,Both
+40.0,Male,1.0,1.0,5.0,1.0,3.0,6.6,11.0,0.7,1.0,Not working,High,Sometimes,No,ME/CFS
+24.0,Male,5.0,8.0,4.0,4.0,22.0,8.1,2.0,7.0,0.0,Not working,Very High,Never,Yes,Depression
+65.0,Male,3.0,8.0,3.0,1.0,15.0,6.6,4.0,2.4,1.0,Not working,Very low,Never,No,ME/CFS
+26.0,Male,7.0,1.0,2.0,10.0,13.0,4.2,4.0,6.0,0.0,Not working,Low,Daily,Yes,Depression
+20.0,Female,3.0,8.0,8.0,1.0,24.0,9.6,5.0,3.3,1.0,Working,Low,Rarely,No,Both
+32.0,Female,8.0,10.0,9.0,1.0,13.0,8.8,18.0,1.7,1.0,Partially working,Very low,Often,No,ME/CFS
+39.0,Female,1.0,5.0,10.0,7.0,13.0,7.7,43.0,0.0,1.0,Partially working,Very low,Often,Yes,Both
+27.0,Female,5.0,3.0,6.0,9.0,9.0,9.8,49.0,4.6,1.0,Not working,Medium,Sometimes,Yes,ME/CFS
+25.0,Female,8.0,2.0,3.0,8.0,4.0,7.6,20.0,6.2,1.0,Not working,High,Sometimes,No,ME/CFS
+26.0,Male,8.0,10.0,7.0,8.0,9.0,9.2,19.0,5.6,0.0,Working,Medium,Often,No,ME/CFS
+26.0,Female,1.0,6.0,9.0,5.0,22.0,6.9,7.0,6.1,1.0,Working,High,Daily,Yes,Both
+21.0,Male,10.0,10.0,1.0,9.0,15.0,2.9,32.0,4.4,0.0,Partially working,Very High,Daily,No,Depression
+62.0,Male,1.0,6.0,5.0,3.0,22.0,7.0,50.0,8.7,1.0,Partially working,Very High,Sometimes,No,Depression
+23.0,Male,7.0,10.0,5.0,2.0,13.0,9.9,39.0,5.1,1.0,Partially working,High,Often,Yes,ME/CFS
+24.0,Male,10.0,9.0,5.0,9.0,9.0,7.0,47.0,6.1,0.0,Partially working,High,Sometimes,Yes,Depression
+23.0,Male,4.0,4.0,6.0,7.0,23.0,7.3,15.0,4.2,1.0,Working,Very High,Never,No,Both
+59.0,Female,5.4,3.0,1.0,4.0,17.0,3.4,22.0,0.4,0.0,Not working,Low,Daily,Yes,Depression
+34.0,Male,8.0,10.0,10.0,6.0,18.0,2.9,49.0,4.8,0.0,Partially working,High,Sometimes,No,Depression
+21.0,Male,5.4,7.0,6.0,10.0,13.0,7.6,20.0,0.1,1.0,Working,Low,Often,No,ME/CFS
+54.0,Male,4.0,3.0,6.0,5.0,15.0,9.3,43.0,4.3,1.0,Partially working,Very low,Sometimes,Yes,ME/CFS
+36.0,Male,8.0,10.0,4.0,5.5,11.0,8.9,45.0,0.1,1.0,Working,Very High,Never,Yes,ME/CFS
+58.0,Female,7.0,2.0,8.0,6.0,25.0,6.9,4.0,3.2,1.0,Partially working,Low,Often,Yes,Both
+28.0,Male,2.0,10.0,6.0,9.0,11.0,5.1,6.0,0.3,0.0,Not working,Low,Often,Yes,Depression
+44.0,Male,5.0,2.0,9.0,4.0,26.0,6.4,5.0,7.1,1.0,Working,Very High,Daily,Yes,Both
+35.0,Male,10.0,1.0,4.0,9.0,5.0,6.0,30.0,2.5,1.0,Working,Very High,Sometimes,No,ME/CFS
+37.0,Male,9.0,8.0,1.0,9.0,17.0,3.9,6.0,8.9,0.0,Working,High,Daily,Yes,Depression
+20.0,Female,5.0,5.0,9.0,1.0,9.0,6.6,0.0,3.4,0.0,Partially working,High,Sometimes,No,Both
+51.0,Male,9.0,2.0,2.0,6.0,8.0,9.2,45.0,6.8,1.0,Not working,Medium,Never,Yes,ME/CFS
+45.0,Female,7.0,1.0,1.0,6.0,2.0,8.1,43.0,7.6,0.0,Working,Very low,Rarely,No,ME/CFS
+19.0,Male,1.0,1.0,8.0,10.0,9.0,8.1,34.0,7.1,0.0,Not working,Very low,Sometimes,Yes,Depression
+26.0,Male,5.0,9.0,3.0,8.0,21.0,8.1,30.0,2.4,0.0,Partially working,Very High,Daily,Yes,Depression
+62.0,Female,4.0,4.0,7.0,9.0,22.0,8.7,17.0,9.9,1.0,Partially working,Medium,Daily,No,Both
+18.0,Female,10.0,10.0,2.0,9.0,25.0,9.2,24.7,4.1,1.0,Not working,High,Daily,Yes,Both
+48.0,Male,4.0,3.0,6.0,8.0,9.0,9.2,3.0,5.5,0.0,Working,High,Sometimes,Yes,ME/CFS
+36.0,Male,9.0,10.0,7.0,6.0,14.0,7.2,5.0,6.2,0.0,Partially working,Low,Sometimes,Yes,Depression
+18.0,Male,3.0,10.0,5.0,10.0,12.0,8.7,46.0,1.0,1.0,Partially working,Medium,Daily,Yes,ME/CFS
+45.0,Female,2.0,10.0,4.0,7.0,12.0,4.4,42.0,6.4,0.0,Working,Low,Often,No,Depression
+23.0,Female,4.0,3.0,2.0,7.0,23.0,7.8,41.0,6.7,1.0,Working,Very low,Sometimes,Yes,Both
+61.0,Male,5.0,6.0,3.0,2.0,5.0,8.4,6.0,6.5,0.0,Not working,Medium,Sometimes,Yes,ME/CFS
+46.0,Male,4.0,9.0,2.0,1.0,9.0,2.7,16.0,1.4,0.0,Not working,Low,Never,Yes,Depression
+30.0,Male,9.0,6.0,3.0,7.0,10.0,9.8,33.0,5.7,1.0,Not working,Low,Daily,No,Both
+51.0,Male,8.0,7.0,5.0,3.0,9.0,6.3,43.0,5.5,1.0,Partially working,Medium,Never,No,ME/CFS
+66.0,Male,1.0,7.0,7.0,10.0,2.0,6.7,6.0,0.1,1.0,Working,Very low,Often,Yes,ME/CFS
+57.0,Male,1.0,8.0,6.0,5.0,23.0,4.1,24.0,6.8,0.0,Not working,High,Never,Yes,Depression
+40.0,Female,2.0,8.0,1.0,4.0,23.0,5.9,48.0,9.3,0.0,Working,Very High,Never,Yes,Depression
+48.0,Male,6.0,7.0,2.0,3.0,7.0,8.8,46.0,9.4,1.0,Working,Very High,Often,Yes,ME/CFS
+37.0,Female,5.0,5.0,7.0,6.0,15.0,6.5,16.0,1.2,0.0,Partially working,High,Often,No,ME/CFS
+57.0,Male,2.0,4.0,8.0,2.0,20.0,7.4,41.0,6.4,0.0,Working,Low,Rarely,Yes,Depression
+67.0,Male,5.0,7.0,6.0,9.0,13.0,3.7,28.0,2.8,0.0,Partially working,Low,Daily,No,Depression
+65.0,Male,6.0,2.0,3.0,1.0,6.0,7.7,0.0,3.1,1.0,Working,Medium,Rarely,Yes,ME/CFS
+44.0,Female,7.0,8.0,4.0,9.0,9.0,3.7,28.0,4.8,0.0,Partially working,Very low,Often,No,Depression
+38.0,Male,1.0,7.0,10.0,3.0,26.0,6.6,13.0,8.3,1.0,Working,Very low,Never,Yes,Both
+56.0,Female,8.0,5.0,10.0,1.0,12.0,7.0,23.0,2.8,1.0,Partially working,High,Often,No,Both
+20.0,Female,4.0,2.0,6.0,4.0,11.0,7.3,25.0,5.9,1.0,Working,Very low,Sometimes,Yes,Both
+18.0,Female,4.0,5.0,6.0,3.0,6.0,7.2,18.0,4.1,1.0,Not working,Medium,Sometimes,Yes,ME/CFS
+38.0,Female,8.0,7.0,2.0,8.0,13.0,9.0,24.7,0.5,0.0,Not working,Low,Sometimes,Yes,Both
+62.0,Male,6.0,7.0,8.0,1.0,11.0,9.9,23.0,9.5,1.0,Partially working,Very High,Rarely,No,ME/CFS
+29.0,Male,9.0,6.0,2.0,4.0,19.0,9.5,3.0,5.1,1.0,Not working,Very low,Daily,No,Both
+49.0,Female,5.0,3.0,7.0,2.0,11.0,8.8,21.0,2.0,0.0,Working,Very High,Never,Yes,Depression
+66.0,Male,10.0,8.0,8.0,2.0,14.0,9.5,18.0,9.1,1.0,Partially working,Low,Sometimes,Yes,ME/CFS
+31.0,Male,9.0,6.0,10.0,4.0,11.0,5.5,38.0,0.1,0.0,Partially working,Low,Never,Yes,ME/CFS
+65.0,Male,2.0,1.0,4.0,1.0,8.0,9.1,21.0,8.5,1.0,Not working,Very low,Rarely,No,ME/CFS
+41.0,Male,5.4,8.0,5.0,7.0,4.0,9.6,34.0,2.0,1.0,Partially working,High,Often,No,ME/CFS
+22.0,Female,4.0,1.0,6.0,3.0,16.0,7.5,23.0,4.8,0.0,Working,Very low,Never,Yes,Depression
+34.0,Male,2.0,6.0,3.0,2.0,23.0,4.9,20.0,5.7,0.0,Working,Low,Sometimes,No,Depression
+57.0,Male,8.0,3.0,2.0,9.0,9.0,6.3,22.0,1.2,1.0,Not working,Very low,Often,No,Both
+26.0,Female,1.0,4.0,4.0,5.0,20.0,6.1,9.0,4.4,1.0,Working,Very low,Sometimes,No,Depression
+30.0,Female,10.0,5.0,10.0,3.0,4.0,7.3,26.0,3.1,0.0,Partially working,Medium,Often,No,ME/CFS
+19.0,Male,2.0,9.0,2.0,2.0,22.0,8.5,48.0,1.0,0.0,Not working,High,Daily,Yes,Depression
+35.0,Female,8.0,6.0,2.0,5.5,12.0,9.6,33.0,8.4,1.0,Working,Very High,Sometimes,No,ME/CFS
+28.0,Male,5.0,3.0,4.0,4.0,26.0,7.9,43.0,7.0,1.0,Partially working,Very High,Sometimes,No,Both
+29.0,Male,3.0,5.6,10.0,7.0,5.0,6.2,36.0,4.8,1.0,Working,Low,Often,Yes,ME/CFS
+56.0,Female,1.0,6.0,3.0,4.0,18.0,4.1,49.0,5.1,0.0,Working,High,Never,No,Depression
+46.0,Male,4.0,9.0,2.0,5.0,12.0,8.7,19.0,3.1,1.0,Not working,Medium,Often,No,Both
+26.0,Male,9.0,4.0,6.0,10.0,10.0,9.7,2.0,2.5,0.0,Working,Low,Daily,Yes,ME/CFS
+45.0,Female,8.0,5.6,1.0,7.0,14.0,7.2,48.0,0.8,0.0,Partially working,Medium,Daily,No,Depression
+45.0,Female,6.0,2.0,9.0,5.0,13.0,6.3,7.0,4.9,0.0,Partially working,Medium,Often,Yes,Both
+62.0,Male,2.0,3.0,3.0,9.0,15.0,8.1,41.0,2.3,0.0,Not working,Very High,Rarely,Yes,ME/CFS
+25.0,Male,7.0,9.0,6.0,5.0,9.0,7.4,24.0,8.6,0.0,Partially working,Very low,Sometimes,No,Depression
+27.0,Male,8.0,10.0,7.0,4.0,18.0,7.5,37.0,2.0,0.0,Partially working,Very low,Sometimes,Yes,Depression
+69.0,Male,2.0,7.0,8.0,4.0,3.0,7.3,42.0,9.5,1.0,Not working,Low,Rarely,Yes,ME/CFS
+52.0,Female,10.0,2.0,2.0,9.0,9.0,9.4,42.0,4.7,1.0,Partially working,High,Daily,No,ME/CFS
+44.0,Female,1.0,4.0,1.0,6.0,14.0,5.2,43.0,1.4,0.0,Not working,Very low,Daily,Yes,Depression
+40.0,Female,10.0,9.0,1.0,3.0,6.0,9.1,38.0,3.8,1.0,Working,High,Rarely,Yes,ME/CFS
+23.0,Female,3.0,5.0,7.0,7.0,26.0,9.9,21.0,3.4,1.0,Not working,Low,Daily,No,Both
+22.0,Female,4.0,7.0,1.0,6.0,19.0,2.7,45.0,8.8,0.0,Working,High,Never,Yes,Depression
+45.0,Female,6.0,3.0,6.0,9.0,12.0,5.1,16.0,4.8,1.0,Partially working,High,Sometimes,Yes,ME/CFS
+51.0,Female,4.0,2.0,4.0,1.0,26.0,7.3,37.0,0.6,1.0,Working,Very low,Sometimes,Yes,Both
+43.0,Male,5.0,7.0,4.0,5.0,24.0,2.4,10.0,4.0,0.0,Partially working,High,Often,Yes,Depression
+28.0,Male,8.0,7.0,10.0,8.0,16.0,9.6,41.0,8.1,1.0,Not working,Very High,Never,Yes,Both
+54.0,Male,5.0,3.0,5.0,6.0,13.0,9.8,48.0,3.5,1.0,Working,High,Never,Yes,Both
+62.0,Female,2.0,8.0,10.0,2.0,13.6,2.9,6.0,0.9,0.0,Partially working,Very low,Never,No,Depression
+34.0,Female,9.0,2.0,4.0,4.0,13.0,8.5,29.0,9.3,1.0,Not working,Very High,Sometimes,No,Both
+63.0,Female,7.0,7.0,2.0,8.0,4.0,7.7,38.0,7.8,1.0,Partially working,Low,Often,No,ME/CFS
+69.0,Female,6.0,10.0,10.0,8.0,10.0,8.8,16.0,9.9,0.0,Working,Low,Often,No,Depression
+43.0,Male,5.0,8.0,1.0,7.0,20.0,8.1,37.0,2.6,0.6,Working,Very High,Never,Yes,Depression
+55.0,Male,7.0,1.0,5.0,6.0,10.0,7.9,40.0,5.1,0.0,Working,Medium,Daily,No,Depression
+60.0,Female,5.0,4.0,6.0,1.0,2.0,6.3,24.0,7.8,1.0,Not working,High,Never,Yes,ME/CFS
+64.0,Male,1.0,4.0,10.0,5.0,22.0,8.0,46.0,0.4,1.0,Not working,Very low,Never,No,Both
+70.0,Female,4.0,10.0,2.0,9.0,12.0,6.5,14.0,0.3,1.0,Not working,Medium,Rarely,Yes,Depression
+35.0,Male,10.0,3.0,9.0,9.0,7.0,5.0,42.0,7.8,1.0,Not working,Very High,Sometimes,No,ME/CFS
+63.0,Female,4.0,3.0,8.0,7.0,20.0,7.4,1.0,1.9,0.0,Working,Very low,Sometimes,Yes,Depression
+54.0,Female,4.0,1.0,5.0,1.0,21.0,2.4,12.0,7.1,0.0,Not working,Very low,Sometimes,Yes,Depression
+25.0,Female,4.0,8.0,10.0,6.0,19.0,7.1,34.0,5.1,0.0,Partially working,Very High,Rarely,No,Depression
+60.0,Female,5.0,4.0,3.0,1.0,21.0,9.9,12.0,5.1,1.0,Partially working,Low,Daily,No,Both
+46.0,Female,10.0,4.0,7.0,6.0,8.0,9.0,15.0,3.8,1.0,Working,High,Often,Yes,ME/CFS
+34.0,Female,1.0,6.0,8.0,7.0,15.0,9.0,46.0,3.6,0.0,Partially working,High,Often,No,ME/CFS
+54.0,Female,9.0,10.0,10.0,8.0,24.0,8.6,38.0,5.8,0.0,Partially working,Very low,Rarely,Yes,Both
+59.0,Female,1.0,1.0,4.0,2.0,5.0,7.6,5.0,6.3,1.0,Not working,Very low,Never,No,ME/CFS
+18.0,Female,4.0,1.0,10.0,4.0,13.0,8.1,20.0,0.8,1.0,Not working,Very High,Rarely,No,ME/CFS
+29.0,Female,5.0,3.0,7.0,6.0,16.0,7.1,17.0,6.4,1.0,Not working,High,Often,No,Both
+59.0,Female,10.0,6.0,6.0,9.0,14.0,8.8,9.0,2.6,1.0,Not working,Medium,Often,No,ME/CFS
+68.0,Male,1.0,8.0,4.0,3.0,15.0,9.8,7.0,2.5,1.0,Working,Low,Never,No,ME/CFS
+67.0,Male,5.0,8.0,6.0,5.0,14.0,7.3,28.0,9.5,1.0,Partially working,Very High,Never,No,Both
+51.0,Female,6.0,10.0,3.0,3.0,8.0,7.9,2.0,3.6,0.6,Working,Very low,Daily,Yes,ME/CFS
+46.0,Female,1.0,9.0,7.0,10.0,8.0,6.4,20.0,4.2,0.0,Working,Very low,Rarely,Yes,Depression
+49.0,Male,2.0,6.0,10.0,8.0,12.0,7.5,32.0,2.6,1.0,Working,Very High,Never,Yes,ME/CFS
+69.0,Female,3.0,4.0,8.0,2.0,22.0,4.2,29.0,9.9,0.0,Working,Medium,Daily,Yes,Depression
+32.0,Female,6.0,5.6,3.0,10.0,9.0,6.1,44.0,9.9,1.0,Not working,Very low,Rarely,Yes,ME/CFS
+26.0,Female,3.0,2.0,5.0,5.0,9.0,8.5,24.0,7.7,0.0,Working,Very High,Sometimes,No,ME/CFS
+23.0,Male,4.0,3.0,4.0,6.0,5.0,6.4,29.0,5.8,1.0,Working,Medium,Daily,No,ME/CFS
+44.0,Male,3.0,1.0,7.0,4.0,14.0,6.5,46.0,2.1,1.0,Working,Very High,Rarely,Yes,Both
+19.0,Male,8.0,5.0,8.0,4.0,2.0,6.6,48.0,1.0,1.0,Not working,High,Often,Yes,ME/CFS
+59.0,Female,8.0,10.0,1.0,2.0,6.0,7.7,47.0,2.1,1.0,Partially working,Low,Sometimes,Yes,ME/CFS
+47.0,Female,7.0,4.0,3.0,6.0,14.0,9.4,21.0,7.4,1.0,Partially working,Medium,Daily,No,ME/CFS
+62.0,Male,3.0,9.0,8.0,5.0,8.0,7.7,41.0,4.6,1.0,Partially working,High,Daily,No,ME/CFS
+41.0,Male,9.0,7.0,6.0,9.0,14.0,3.3,40.0,4.1,0.0,Not working,Very low,Often,Yes,Depression
+24.0,Female,4.0,1.0,4.0,2.0,9.0,9.0,16.0,3.5,1.0,Not working,High,Rarely,Yes,Both
+41.0,Female,3.0,8.0,1.0,4.0,19.0,9.6,39.0,8.4,1.0,Partially working,Medium,Often,Yes,Both
+56.0,Male,5.0,5.0,2.0,8.0,20.0,7.0,17.0,5.3,1.0,Working,Medium,Rarely,Yes,Both
+50.0,Male,7.0,9.0,5.0,3.0,25.0,4.6,45.0,9.7,0.0,Not working,Low,Daily,No,Depression
+58.0,Male,8.0,9.0,9.0,4.0,24.0,7.8,9.0,6.1,0.0,Working,Low,Rarely,No,Both
+41.0,Female,6.0,9.0,6.0,10.0,17.0,8.3,43.0,5.1,1.0,Working,Very High,Daily,Yes,Both
+37.0,Male,10.0,8.0,3.0,2.0,3.0,9.8,6.0,5.1,1.0,Not working,High,Daily,Yes,ME/CFS
+19.0,Male,9.0,9.0,6.0,1.0,15.0,7.6,42.0,2.5,1.0,Working,Very High,Sometimes,No,Both
+35.0,Male,8.0,6.0,7.0,3.0,10.0,8.8,29.0,1.1,1.0,Partially working,Low,Often,No,Both
+68.0,Female,5.4,5.0,9.0,4.0,9.0,7.2,30.0,1.5,0.0,Working,Medium,Rarely,No,Both
+70.0,Female,5.0,7.0,1.0,10.0,13.0,9.1,36.0,9.8,1.0,Partially working,Very low,Rarely,Yes,Both
+26.0,Female,1.0,10.0,1.0,6.0,10.0,5.8,12.0,2.1,0.0,Working,Medium,Daily,Yes,ME/CFS
+62.0,Male,5.0,2.0,6.0,5.5,15.0,9.9,6.0,3.0,1.0,Partially working,Very low,Daily,Yes,Both
+41.0,Male,9.0,3.0,8.0,10.0,14.0,8.0,50.0,8.0,1.0,Partially working,High,Rarely,No,Both
+57.0,Male,5.0,4.0,7.0,4.0,8.0,6.3,7.0,7.0,0.6,Partially working,Low,Often,No,ME/CFS
+50.0,Male,5.0,9.0,8.0,4.0,6.0,6.2,21.0,6.9,1.0,Not working,Low,Often,Yes,ME/CFS
+63.0,Male,5.0,1.0,2.0,8.0,14.0,8.7,0.0,7.6,0.0,Partially working,Medium,Rarely,Yes,Depression
+22.0,Male,3.0,7.0,3.0,6.0,12.0,9.5,25.0,1.8,1.0,Not working,Medium,Daily,Yes,ME/CFS
+55.0,Female,3.0,5.0,10.0,4.0,26.0,9.5,41.0,9.0,1.0,Partially working,Very High,Sometimes,Yes,Both
+46.0,Female,9.0,4.0,9.0,9.0,13.0,7.6,20.0,6.0,1.0,Partially working,High,Never,No,ME/CFS
+42.0,Female,3.0,7.0,5.0,3.0,14.0,8.4,5.0,1.9,0.0,Working,Low,Rarely,No,Both
+69.0,Female,10.0,6.0,1.0,7.0,14.0,7.6,33.0,9.7,1.0,Partially working,High,Daily,Yes,ME/CFS
+50.0,Female,2.0,3.0,7.0,7.0,5.0,9.4,10.0,8.3,0.0,Not working,Low,Daily,No,ME/CFS
+47.0,Male,2.0,6.0,3.0,5.0,15.0,6.9,36.0,4.1,0.0,Working,Medium,Rarely,No,Depression
+35.0,Male,7.0,7.0,3.0,2.0,7.0,6.8,46.0,1.8,1.0,Partially working,Medium,Rarely,Yes,ME/CFS
+24.0,Female,3.0,7.0,5.4,4.0,21.0,7.2,13.0,0.6,0.0,Not working,Medium,Rarely,No,Depression
+19.0,Female,6.0,8.0,3.0,6.0,3.0,7.5,19.0,3.5,1.0,Partially working,Medium,Sometimes,No,ME/CFS
+69.0,Male,2.0,9.0,5.4,4.0,3.0,9.2,27.0,5.9,0.0,Working,Very low,Rarely,Yes,ME/CFS
+51.0,Female,5.0,10.0,4.0,3.0,22.0,8.9,36.0,5.5,0.0,Partially working,Very High,Often,Yes,Depression
+43.0,Male,5.0,5.0,3.0,8.0,10.0,9.6,20.0,0.2,1.0,Not working,Medium,Never,Yes,Both
+19.0,Female,3.0,2.0,7.0,7.0,2.0,5.9,33.0,3.2,1.0,Not working,Very High,Often,No,ME/CFS
+23.0,Female,6.0,6.0,8.0,9.0,14.0,8.0,38.0,9.8,1.0,Working,High,Daily,No,Both
+37.0,Male,9.0,2.0,10.0,1.0,21.0,5.0,49.0,8.1,0.0,Not working,Very High,Often,Yes,Depression
+29.0,Male,3.0,8.0,1.0,7.0,10.0,7.0,39.0,3.2,0.0,Working,Low,Rarely,Yes,Depression
+59.0,Male,9.0,5.0,1.0,4.0,2.0,9.2,25.0,6.6,0.0,Working,High,Often,Yes,ME/CFS
+52.0,Female,1.0,8.0,2.0,10.0,20.0,8.8,2.0,2.4,1.0,Partially working,Very High,Sometimes,No,Both
+26.0,Male,3.0,8.0,10.0,5.0,25.0,2.9,18.0,7.4,0.0,Working,Low,Never,No,Depression
+42.0,Female,6.0,6.0,9.0,4.0,21.0,9.7,10.0,1.6,1.0,Not working,Medium,Daily,No,Both
+47.0,Female,9.0,6.0,1.0,2.0,9.0,6.6,14.0,4.3,0.0,Working,Low,Rarely,No,Depression
+65.0,Female,4.0,9.0,1.0,2.0,11.0,6.9,16.0,4.8,1.0,Not working,Medium,Never,No,ME/CFS
+69.0,Male,7.0,6.0,7.0,6.0,21.0,6.8,23.0,5.1,1.0,Working,High,Often,No,Both
+19.0,Male,1.0,3.0,3.0,3.0,23.0,8.8,42.0,2.6,0.0,Not working,High,Sometimes,No,Depression
+38.0,Male,9.0,6.0,8.0,3.0,8.0,7.8,4.0,5.5,1.0,Working,High,Often,No,ME/CFS
+25.0,Male,10.0,7.0,1.0,8.0,11.0,9.4,7.0,9.3,1.0,Not working,High,Daily,No,ME/CFS
+40.0,Female,1.0,5.0,10.0,9.0,13.6,6.4,42.0,2.3,0.0,Partially working,Medium,Often,Yes,Depression
+23.0,Female,10.0,10.0,7.0,5.0,22.0,9.2,6.0,1.1,1.0,Partially working,Very High,Often,No,Both
+41.0,Male,1.0,1.0,4.0,9.0,4.0,8.6,39.0,1.1,1.0,Not working,Very High,Rarely,Yes,ME/CFS
+59.0,Female,9.0,9.0,5.0,4.0,14.0,6.5,16.0,6.6,1.0,Not working,Very low,Sometimes,Yes,Depression
+68.0,Male,8.0,6.0,1.0,10.0,14.0,7.3,28.0,4.4,1.0,Working,Medium,Often,Yes,Both
+68.0,Male,7.0,7.0,4.0,6.0,14.0,6.0,3.0,3.7,0.0,Partially working,Very High,Daily,Yes,Depression
+47.0,Male,1.0,8.0,8.0,2.0,21.0,7.8,43.0,3.1,1.0,Partially working,Very low,Sometimes,No,Both
+32.0,Male,7.0,5.0,5.0,3.0,8.0,3.1,25.0,7.6,0.0,Working,Very low,Daily,No,Depression
+41.0,Male,2.0,9.0,1.0,1.0,16.0,6.7,8.0,7.2,1.0,Not working,Very low,Never,Yes,Both
+41.0,Female,9.0,10.0,5.0,8.0,6.0,6.7,40.0,2.1,1.0,Working,Very low,Daily,No,ME/CFS
+42.0,Female,5.0,2.0,6.0,5.0,10.0,7.2,33.0,3.8,1.0,Not working,High,Daily,No,ME/CFS
+58.0,Female,1.0,10.0,5.0,8.0,11.0,7.5,15.0,9.0,0.0,Partially working,Very High,Sometimes,Yes,Depression
+54.0,Female,7.0,10.0,5.0,4.0,21.0,3.6,11.0,5.9,0.0,Not working,Low,Sometimes,No,Depression
+23.0,Female,1.0,8.0,5.0,5.0,17.0,5.2,50.0,9.1,0.0,Working,Very low,Often,No,Depression
+39.0,Male,10.0,4.0,10.0,9.0,17.0,9.9,12.0,2.7,1.0,Not working,Low,Often,No,Both
+63.0,Female,4.0,7.0,4.0,3.0,23.0,5.3,39.0,7.6,1.0,Partially working,Medium,Sometimes,No,Depression
+34.0,Female,10.0,1.0,4.0,9.0,14.0,9.6,36.0,8.7,1.0,Partially working,Very High,Rarely,Yes,Both
+56.0,Male,4.0,6.0,6.0,7.0,9.0,8.8,43.0,8.7,1.0,Partially working,High,Daily,No,ME/CFS
+68.0,Female,5.4,2.0,6.0,8.0,16.0,6.7,25.0,7.0,0.0,Working,Low,Daily,Yes,Depression
+18.0,Female,3.0,8.0,1.0,1.0,18.0,6.7,40.0,2.0,1.0,Partially working,High,Sometimes,Yes,Both
+57.0,Male,9.0,10.0,8.0,7.0,13.0,8.9,49.0,9.7,1.0,Working,High,Daily,No,ME/CFS
+38.0,Female,5.0,8.0,3.0,2.0,21.0,9.4,4.0,3.6,1.0,Partially working,Low,Daily,No,Both
+37.0,Female,3.0,1.0,4.0,8.0,8.0,8.0,39.0,7.7,1.0,Partially working,Very low,Sometimes,Yes,ME/CFS
+26.0,Female,9.0,6.0,6.0,7.0,12.0,7.7,46.0,7.9,1.0,Not working,Medium,Often,Yes,ME/CFS
+68.0,Female,8.0,4.0,6.0,6.0,5.0,9.0,15.0,6.8,1.0,Partially working,Very High,Daily,Yes,ME/CFS
+61.0,Female,3.0,6.0,10.0,3.0,7.0,9.3,20.0,9.1,1.0,Partially working,Medium,Daily,No,ME/CFS
+35.0,Male,4.0,1.0,3.0,6.0,12.0,9.5,7.0,0.2,1.0,Not working,Low,Never,No,ME/CFS
+24.0,Male,2.0,1.0,10.0,6.0,10.0,5.9,47.0,2.7,0.0,Not working,Medium,Sometimes,No,Depression
+58.0,Female,9.0,9.0,4.0,4.0,10.0,6.0,18.0,2.7,0.0,Working,Medium,Sometimes,No,Depression
+48.0,Female,4.0,6.0,6.0,8.0,13.0,9.6,12.0,9.3,1.0,Working,Very low,Never,No,ME/CFS
+44.0,Female,4.0,10.0,9.0,4.0,4.0,7.1,30.0,0.8,1.0,Not working,Very High,Often,No,ME/CFS
+35.0,Male,5.0,3.0,9.0,4.0,4.0,6.4,4.0,4.9,1.0,Working,Medium,Never,No,ME/CFS
+47.0,Female,4.0,10.0,6.0,9.0,25.0,7.6,8.0,7.3,0.0,Not working,Low,Sometimes,No,Depression
+28.0,Female,8.0,3.0,10.0,6.0,25.0,6.2,35.0,0.5,0.0,Partially working,Medium,Rarely,Yes,Depression
+58.0,Male,2.0,3.0,7.0,5.5,24.0,7.5,41.0,1.3,0.6,Not working,Very High,Sometimes,No,Depression
+55.0,Female,7.0,10.0,1.0,2.0,23.0,8.0,25.0,6.7,1.0,Partially working,Medium,Rarely,Yes,Both
+61.0,Male,9.0,4.0,5.0,1.0,7.0,9.1,15.0,8.9,1.0,Working,Low,Daily,Yes,ME/CFS
+49.0,Female,6.0,5.0,2.0,5.0,9.0,7.2,2.0,7.0,1.0,Working,Very High,Rarely,Yes,Both
+46.0,Male,4.0,6.0,4.0,9.0,12.0,9.1,12.0,0.1,1.0,Partially working,High,Sometimes,No,Both
+53.0,Female,1.0,5.0,3.0,2.0,10.0,5.8,4.0,7.2,0.0,Not working,Medium,Rarely,No,Depression
+35.0,Male,2.0,7.0,2.0,8.0,19.0,2.5,45.0,1.5,1.0,Partially working,High,Daily,Yes,Depression
+23.0,Female,8.0,8.0,5.0,10.0,21.0,6.3,34.0,5.1,1.0,Not working,Very High,Rarely,Yes,Depression
+25.0,Male,7.0,4.0,9.0,8.0,6.0,8.9,14.0,0.9,1.0,Not working,Very High,Often,Yes,ME/CFS
+69.0,Female,1.0,3.0,4.0,5.0,14.0,8.2,3.0,4.7,1.0,Not working,Very High,Never,Yes,Both
+68.0,Female,2.0,8.0,6.0,1.0,26.0,8.5,21.0,1.7,1.0,Working,High,Sometimes,Yes,Both
+21.0,Male,1.0,6.0,10.0,2.0,13.0,7.0,11.0,5.2,1.0,Partially working,Very High,Daily,No,Both
+67.0,Female,4.0,5.0,6.0,6.0,13.6,8.0,15.0,9.4,1.0,Not working,Low,Never,No,ME/CFS
+25.0,Female,5.0,7.0,7.0,1.0,25.0,4.6,12.0,3.2,0.0,Partially working,Very High,Rarely,No,Depression
+37.0,Male,9.0,9.0,7.0,2.0,8.0,5.5,22.0,8.5,0.0,Working,Medium,Rarely,No,Depression
+19.0,Female,5.0,3.0,2.0,10.0,9.0,8.7,45.0,4.6,1.0,Partially working,Very High,Often,No,Both
+21.0,Female,4.0,2.0,1.0,2.0,8.0,9.4,42.0,5.7,0.0,Working,High,Rarely,Yes,ME/CFS
+46.0,Male,3.0,4.0,4.0,7.0,8.0,6.5,11.0,7.2,1.0,Partially working,Medium,Rarely,No,ME/CFS
+64.0,Female,7.0,1.0,1.0,3.0,15.0,5.3,11.0,7.2,1.0,Not working,High,Daily,No,ME/CFS
+36.0,Female,6.0,10.0,9.0,3.0,9.0,5.6,36.0,3.1,0.0,Not working,Medium,Never,Yes,Depression
+50.0,Female,1.0,1.0,3.0,8.0,9.0,9.4,17.0,5.1,1.0,Not working,Very High,Sometimes,No,Both
+42.0,Female,4.0,6.0,8.0,8.0,24.0,9.8,35.0,6.6,0.0,Working,High,Never,Yes,Both
+64.0,Female,5.0,2.0,2.0,7.0,17.0,3.7,4.0,1.6,1.0,Working,Very High,Often,Yes,Depression
+38.0,Male,8.0,2.0,7.0,9.0,12.0,8.0,17.0,7.8,0.0,Working,Low,Daily,Yes,Depression
+61.0,Female,6.0,8.0,2.0,2.0,10.0,5.1,33.0,6.4,0.0,Working,Medium,Daily,No,Depression
+60.0,Female,5.0,7.0,7.0,6.0,23.0,8.4,17.0,0.0,0.0,Partially working,Very low,Sometimes,Yes,Depression
+64.0,Male,1.0,6.0,7.0,8.0,18.0,4.8,7.0,5.5,0.0,Working,Medium,Never,Yes,Depression
+35.0,Male,2.0,1.0,4.0,9.0,13.0,8.1,29.0,7.7,1.0,Working,Low,Rarely,Yes,ME/CFS
+52.0,Female,10.0,10.0,4.0,9.0,18.0,7.4,17.0,6.0,0.0,Working,Medium,Daily,No,Depression
+19.0,Male,6.0,5.0,9.0,7.0,16.0,7.6,15.0,7.9,1.0,Partially working,High,Never,Yes,Both
+19.0,Male,7.0,8.0,9.0,1.0,8.0,7.1,33.0,5.1,1.0,Not working,Low,Often,Yes,ME/CFS
+35.0,Female,5.0,7.0,8.0,9.0,22.0,8.8,17.0,8.1,0.0,Working,Low,Rarely,Yes,Depression
+47.0,Male,5.0,1.0,8.0,5.0,18.0,7.0,14.0,9.1,0.0,Partially working,Medium,Sometimes,No,Depression
+61.0,Male,1.0,8.0,3.0,4.0,7.0,8.7,36.0,2.1,1.0,Working,High,Rarely,Yes,ME/CFS
+59.0,Female,10.0,3.0,10.0,2.0,22.0,9.8,24.0,4.1,1.0,Partially working,Medium,Rarely,Yes,Both
+48.0,Male,6.0,3.0,7.0,10.0,4.0,6.1,3.0,5.1,1.0,Partially working,High,Never,No,ME/CFS
+29.0,Male,6.0,4.0,9.0,7.0,20.0,8.0,7.0,9.7,0.0,Not working,Low,Sometimes,Yes,Depression
+24.0,Male,5.4,9.0,1.0,8.0,21.0,9.4,41.0,2.1,1.0,Not working,Very High,Daily,Yes,Both
+23.0,Male,10.0,9.0,9.0,5.0,2.0,8.9,41.0,5.4,1.0,Working,Low,Daily,Yes,ME/CFS
+65.0,Male,1.0,5.0,9.0,3.0,22.0,4.7,32.0,9.4,0.0,Working,Low,Never,Yes,Depression
+20.0,Female,4.0,4.0,2.0,6.0,8.0,7.4,40.0,0.4,1.0,Working,Very low,Never,Yes,ME/CFS
+20.0,Female,6.0,5.0,8.0,3.0,18.0,8.1,26.0,7.0,0.0,Not working,Very low,Often,Yes,Depression
+66.0,Male,9.0,10.0,5.0,7.0,8.0,7.5,28.0,7.9,1.0,Not working,Very High,Daily,Yes,ME/CFS
+55.0,Male,9.0,5.0,5.0,5.5,10.0,7.9,0.0,9.1,1.0,Working,Medium,Sometimes,Yes,ME/CFS
+61.0,Male,3.0,5.0,9.0,2.0,9.0,6.4,25.0,5.1,1.0,Not working,Very High,Sometimes,No,ME/CFS
+62.0,Female,6.0,3.0,8.0,8.0,18.0,6.7,26.0,3.2,1.0,Not working,Low,Daily,No,Depression
+57.0,Male,5.0,9.0,6.0,7.0,4.0,6.1,0.0,5.9,1.0,Partially working,Very High,Often,No,ME/CFS
+66.0,Female,9.0,10.0,3.0,7.0,9.0,9.6,10.0,4.8,1.0,Working,Low,Never,No,ME/CFS
+25.0,Male,8.0,5.0,7.0,4.0,16.0,8.1,37.0,9.4,0.0,Working,High,Never,No,Depression
+32.0,Female,5.0,4.0,3.0,8.0,10.0,8.2,33.0,9.4,0.0,Not working,Very low,Often,Yes,Depression
+24.0,Male,8.0,10.0,8.0,4.0,9.0,9.7,9.0,5.1,1.0,Not working,Low,Never,Yes,ME/CFS
+70.0,Male,8.0,9.0,5.0,6.0,14.0,8.3,29.0,0.9,1.0,Partially working,Low,Rarely,Yes,ME/CFS
+59.0,Female,8.0,8.0,7.0,3.0,13.0,5.4,37.0,5.9,0.0,Partially working,Medium,Often,Yes,Depression
+47.0,Female,4.0,6.0,2.0,1.0,10.0,4.1,18.0,8.3,1.0,Not working,Low,Often,No,Depression
+44.0,Female,8.0,1.0,8.0,6.0,19.0,8.8,1.0,2.2,0.0,Working,Very low,Daily,Yes,Both
+47.0,Female,10.0,10.0,4.0,6.0,16.0,6.1,11.0,8.6,1.0,Not working,Low,Rarely,Yes,Both
+52.0,Male,7.0,7.0,5.4,3.0,16.0,6.1,33.0,3.7,1.0,Working,Very High,Rarely,Yes,Both
+68.0,Female,3.0,3.0,2.0,3.0,6.0,9.2,15.0,7.7,1.0,Not working,Very High,Daily,Yes,ME/CFS
+68.0,Male,1.0,8.0,5.0,10.0,19.0,8.7,27.0,9.9,0.0,Working,High,Sometimes,No,Both
+30.0,Female,10.0,6.0,2.0,7.0,14.0,6.1,24.7,3.0,1.0,Working,Medium,Daily,No,ME/CFS
+47.0,Female,3.0,1.0,3.0,4.0,8.0,4.7,31.0,2.0,0.0,Not working,Low,Rarely,Yes,Depression
+24.0,Male,5.0,1.0,2.0,5.0,4.0,9.7,3.0,0.2,1.0,Partially working,Medium,Never,No,ME/CFS
+64.0,Male,9.0,7.0,8.0,8.0,9.0,5.5,23.0,0.1,0.0,Not working,Medium,Daily,Yes,ME/CFS
+43.0,Male,3.0,7.0,1.0,1.0,4.0,9.8,36.0,5.1,1.0,Working,High,Rarely,No,ME/CFS
+67.0,Female,1.0,6.0,6.0,4.0,22.0,3.2,27.0,5.5,0.0,Not working,Very low,Often,Yes,Depression
+63.0,Female,1.0,7.0,3.0,1.0,19.0,7.4,28.0,8.0,1.0,Partially working,Medium,Often,No,Both
+57.0,Male,1.0,9.0,2.0,1.0,11.0,5.4,24.0,6.9,1.0,Not working,Low,Often,No,Depression
+41.0,Female,4.0,8.0,2.0,5.0,23.0,7.6,12.0,5.3,1.0,Working,High,Rarely,No,Both
+39.0,Male,9.0,1.0,6.0,3.0,15.0,4.6,25.0,0.3,0.0,Partially working,Very High,Sometimes,Yes,Depression
+49.0,Female,6.0,3.0,2.0,8.0,2.0,9.3,18.0,9.2,0.0,Working,Medium,Rarely,Yes,ME/CFS
+50.0,Female,9.0,5.0,8.0,3.0,21.0,9.9,49.0,8.3,1.0,Working,Low,Never,No,Both
+44.0,Male,1.0,3.0,5.4,5.0,4.0,8.5,24.7,7.0,0.0,Working,Low,Often,No,ME/CFS
+68.0,Male,5.4,2.0,6.0,10.0,11.0,6.0,8.0,5.3,1.0,Working,High,Rarely,Yes,ME/CFS
+41.0,Male,3.0,4.0,8.0,8.0,10.0,6.5,34.0,7.5,1.0,Not working,Low,Daily,No,Both
+69.0,Female,9.0,9.0,1.0,7.0,6.0,7.3,44.0,5.4,1.0,Partially working,Medium,Rarely,No,ME/CFS
+63.0,Female,6.0,5.0,3.0,7.0,17.0,7.3,10.0,3.2,0.6,Not working,Medium,Often,No,Depression
+54.0,Female,1.0,7.0,4.0,5.0,12.0,8.1,19.0,5.6,0.0,Working,Low,Sometimes,No,Depression
+30.0,Male,4.0,2.0,2.0,2.0,16.0,8.1,48.0,9.6,1.0,Working,High,Rarely,Yes,Both
+56.0,Male,4.0,6.0,8.0,10.0,7.0,6.4,26.0,0.7,1.0,Partially working,Low,Sometimes,No,ME/CFS
+65.0,Female,2.0,2.0,10.0,7.0,11.0,6.0,9.0,10.0,1.0,Working,Very low,Never,Yes,ME/CFS
+52.0,Female,7.0,9.0,8.0,4.0,11.0,2.9,38.0,5.1,0.0,Not working,Very High,Often,No,Depression
+38.0,Male,6.0,8.0,8.0,5.0,10.0,10.0,50.0,4.1,1.0,Working,Low,Daily,No,ME/CFS
+66.0,Female,1.0,7.0,7.0,4.0,13.0,2.3,36.0,2.7,0.0,Working,Medium,Rarely,Yes,Depression
+36.0,Male,5.4,2.0,1.0,7.0,17.0,4.1,46.0,8.3,0.0,Partially working,Medium,Rarely,No,Depression
+60.0,Male,10.0,4.0,5.0,4.0,10.0,5.9,28.0,4.8,0.0,Not working,Medium,Sometimes,Yes,Depression
+70.0,Male,3.0,2.0,1.0,5.0,21.0,4.0,25.0,7.0,0.0,Working,High,Never,Yes,Depression
+40.0,Female,4.0,6.0,10.0,7.0,15.0,2.7,34.0,6.9,0.0,Partially working,High,Never,Yes,Depression
+43.0,Female,4.0,8.0,4.0,5.0,9.0,7.5,48.0,2.5,0.0,Working,High,Often,No,Depression
+57.0,Male,2.0,8.0,2.0,2.0,8.0,5.8,28.0,3.7,0.0,Working,Medium,Often,No,Depression
+56.0,Female,4.0,5.0,2.0,8.0,3.0,5.1,47.0,4.7,1.0,Partially working,Low,Daily,No,ME/CFS
+66.0,Male,10.0,2.0,2.0,10.0,18.0,7.4,13.0,1.3,1.0,Working,Medium,Never,Yes,Depression
+67.0,Male,5.0,3.0,1.0,1.0,14.0,6.6,10.0,9.7,1.0,Working,Very low,Rarely,No,ME/CFS
+65.0,Female,4.0,3.0,3.0,3.0,15.0,6.0,2.0,7.4,1.0,Not working,Very low,Daily,Yes,ME/CFS
+46.0,Male,4.0,8.0,6.0,7.0,9.0,5.7,37.0,1.7,1.0,Not working,Very High,Daily,Yes,ME/CFS
+68.0,Male,1.0,9.0,1.0,4.0,10.0,5.9,38.0,4.0,0.0,Partially working,Very low,Rarely,Yes,Depression
+24.0,Female,5.0,6.0,8.0,5.0,14.0,7.4,6.0,5.8,1.0,Not working,Medium,Never,Yes,ME/CFS
+37.0,Male,3.0,8.0,6.0,7.0,9.0,6.4,49.0,7.8,1.0,Not working,Very low,Rarely,No,Both
+42.0,Female,5.4,2.0,5.0,9.0,19.0,4.2,29.0,2.5,0.0,Not working,Very High,Never,No,Depression
+46.0,Female,2.0,5.0,9.0,2.0,17.0,7.5,3.0,1.7,1.0,Not working,Medium,Never,Yes,Both
+59.0,Male,9.0,8.0,5.0,6.0,21.0,9.7,14.0,3.4,1.0,Working,Very low,Never,No,Both
